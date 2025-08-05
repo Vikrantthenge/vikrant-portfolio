@@ -9,6 +9,12 @@ This repository showcases my work in data analysis, predictive modeling, ETL wor
 - Reduced unplanned maintenance by 20% through anomaly detection models
 - Created interactive Power BI dashboards for executive decision-making
 
+# Project Summaries
+- - Predictive Maintenance Optimization
+- Operational Safety & Risk Analytics
+- Revenue Forecasting & Optimization
+- Big Data Pipeline Optimization
+
 ## 🛠 Tools & Technologies
 Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel | Matplotlib | Seaborn
 
