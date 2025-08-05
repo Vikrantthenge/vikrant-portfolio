@@ -19,7 +19,7 @@ This repository showcases my work in data analysis, predictive modeling, ETL wor
 Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel | Matplotlib | Seaborn
 
 ### Folder Structure
-- **1_Dashboards**: Power BI & Tableau dashboards with insights
+- **1_Dashboards**: Power BI dashboard with insights
 - **2_Python_Notebooks**: Jupyter notebooks for EDA, predictive models, and forecasting
 - **3_ETL_Workflows**: Databricks and Snowflake ETL scripts
 - **4_Project_Summaries**: 1-page PDF summaries of major projects with metrics
