@@ -1,7 +1,11 @@
-# Project Summaries
+# Dashboards - Power BI & Tableau
 
-Contains 1-page PDF summaries of key projects:
-- Predictive Maintenance Optimization
-- Operational Safety & Risk Analytics
-- Revenue Forecasting & Optimization
-- Big Data Pipeline Optimization
+This folder contains interactive dashboards created for forecasting, operations analysis, and resource optimization.
+
+**Dashboards Included:**
+- PowerBI_Forecasting_Dashboard.pdf: Predicts demand and pricing trends
+- Tableau_Logistics_Analysis.twb: Visualizes transport KPIs and cost metrics
+
+**Impact:**
+- Improved planning accuracy by 25%
+- Reduced delivery delays by 15%
