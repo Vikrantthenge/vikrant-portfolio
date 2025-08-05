@@ -1,11 +1,10 @@
-# Python Notebooks - Data Analysis & Predictive Modeling
+# ETL Workflows - Databricks & Snowflake
 
-Includes Jupyter notebooks demonstrating:
-- Data Cleaning & EDA
-- Predictive Maintenance Models
-- Time Series Forecasting
-- Classification Models (Random Forest)
+This folder includes:
+- ETL pipeline notebooks built on Databricks for multi-source integration
+- SQL scripts for Snowflake schema optimization
 
-**Notebooks:**
-- Predictive_Maintenance_Model.ipynb
-- Demand_Forecasting_TimeSeries.ipynb
+Key Features:
+- Multi-source data ingestion
+- Transformation and staging in Snowflake
+- Query optimization for faster reporting
