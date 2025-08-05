@@ -10,7 +10,7 @@ This repository showcases my work in data analysis, predictive modeling, ETL wor
 - Created interactive Power BI dashboards for executive decision-making
 
 # Project Summaries
-- - Predictive Maintenance Optimization
+- Predictive Maintenance Optimization
 - Operational Safety & Risk Analytics
 - Revenue Forecasting & Optimization
 - Big Data Pipeline Optimization
