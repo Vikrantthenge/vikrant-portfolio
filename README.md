@@ -1,11 +1,11 @@
-# Dashboards - Power BI & Tableau
+# Python Notebooks - Data Analysis & Predictive Modeling
 
-This folder contains interactive dashboards created for forecasting, operations analysis, and resource optimization.
+Includes Jupyter notebooks demonstrating:
+- Data Cleaning & EDA
+- Predictive Maintenance Models
+- Time Series Forecasting
+- Classification Models (Random Forest)
 
-**Dashboards Included:**
-- PowerBI_Forecasting_Dashboard.pdf: Predicts demand and pricing trends
-- Tableau_Logistics_Analysis.twb: Visualizes transport KPIs and cost metrics
-
-**Impact:**
-- Improved planning accuracy by 25%
-- Reduced delivery delays by 15%
+**Notebooks:**
+- Predictive_Maintenance_Model.ipynb
+- Demand_Forecasting_TimeSeries.ipynb
