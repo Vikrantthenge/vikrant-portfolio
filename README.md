@@ -110,4 +110,4 @@ I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools
 
 📍 Mumbai, India  
 📧 vikrantthenge@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vikrantthenge) · [GitHub](https://github.com/vikrantthenge)
+🔗 [LinkedIn](https://www.linkedin.com/in/vthenge) · [GitHub](https://github.com/vikrantthenge)
