@@ -5,7 +5,11 @@ Welcome to my Data Analytics portfolio!
 This repository showcases my work in data analysis, predictive modeling, ETL workflows, and dashboard development — demonstrating my transition from airline operations to advanced analytics.
 
 ---
-### 📄 [Download Resume](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant_Thenge_Data%20Analyst_Resume..pdf) 
+<p align="center">
+  <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/raw/main/Vikrant_Thenge_Data%20Analyst_Resume..pdf" download title="Download my resume">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume Badge">
+  </a>
+</p>
 🎯 Data Analyst with cloud fluency, automation skills, and a focus on recruiter-facing dashboards and apps.
 
 ---
