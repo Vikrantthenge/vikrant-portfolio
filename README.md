@@ -5,7 +5,7 @@ This repository showcases my work in data analysis, predictive modeling, ETL wor
 
 ---
 
-## 📄 [Download Resume (PDF)](Vikrant_Thenge_Resume.pdf)  
+## 📄 [Download Resume (PDF)](Vikrant Thenge_Data Analyst_Resume.pdf)  
 🎯 Data analyst with cloud fluency, automation skills, and a focus on recruiter-facing dashboards and apps.
 
 ---
