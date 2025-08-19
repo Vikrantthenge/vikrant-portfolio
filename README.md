@@ -1,54 +1,79 @@
-# Vikrant Thenge - Data Analytics Portfolio
+# Vikrant Thenge – Data Analytics Portfolio
 
 Welcome to my Data Analytics portfolio!  
-This repository showcases my work in data analysis, predictive modeling, ETL workflows, and dashboard development, demonstrating my transition from airline operations to advanced analytics.
+This repository showcases my work in data analysis, predictive modeling, ETL workflows, and dashboard development — demonstrating my transition from airline operations to advanced analytics.
 
-📄 [Download Resume (PDF)](https://github.com/vikrantthenge/job-app-automation/raw/main/assets/Vikrant_Thenge_Resume.pdf)  
+---
+
+## 📄 Download Resume (PDF)  
 🎯 Data analyst with cloud fluency, automation skills, and a focus on recruiter-facing dashboards and apps.
 
-🚀 **Try My Job Application Automation Bot**  
-Explore my latest Streamlit app that automates job searches using real-time data from the JSearch API:  
-👉 [Launch the Bot](https://job-app-automation-9qdgzm9aydnssk2wuubzei.streamlit.app/)
+---
+
+## 📱 Live Apps
+
+### 🔹 Job Application Automation Bot  
+Automates job searches using real-time data from the JSearch API.  
+[![Launch JobBot App](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=streamlit)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
+
+---
+
+### 🔹 Predictive Dashboard  
+Recruiter-facing dashboard with branded UI, robust CSV handling, and clean deployment.  
+[![Launch Predictive Dashboard](https://img.shields.io/badge/Launch-Dashboard-darkred?style=for-the-badge&logo=streamlit&logoColor=white)](https://predictivedashboard-vikrantthenge.streamlit.app/)
+
+---
 
 ## 🚀 Featured Projects
 
-### 🔹 Job Application Automation Bot  
+🔹 **Job Application Automation Bot**  
 End-to-end automation of job search workflows using Python, Streamlit, and resume parsing.  
 - Scrapes job listings from LinkedIn, Naukri, and Indeed  
 - Matches resume keywords to job descriptions  
 - Tracks applications and recruiter outreach  
-👉 [Launch App](https://job-app-automation-9qdgzm9aydnssk2wuubzei.streamlit.app)
+👉 [Launch App](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
 
-### 🔹 Job Bot Showcase (Demo)  
+🔹 **Job Bot Showcase (Demo)**  
 Lightweight preview of resume parsing and keyword matching.  
-👉 [Try Demo](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app)
+👉 [Try Demo](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
 
+🔹 **Predictive Dashboard**  
+Branded dashboard with CSV upload, model predictions, and recruiter-ready UI.  
+👉 [Try Dashboard](https://predictivedashboard-vikrantthenge.streamlit.app/)
 
-🔍 **Highlights**
+---
+
+## 🔍 Highlights
+
 - Built ETL pipelines using Databricks and Snowflake for multi-source data integration  
 - Developed predictive models improving resource planning by 25%  
 - Reduced unplanned maintenance by 20% through anomaly detection models  
-- Created interactive Power BI dashboards for executive decision-making  
+- Created interactive Power BI dashboards for executive decision-making
 
+---
 
-📁 **Project Summaries**
-- Predictive Maintenance Optimization  
-- Operational Safety & Risk Analytics  
-- Revenue Forecasting & Optimization  
-- Big Data Pipeline Optimization  
+## 📁 Project Summaries
 
+- **Predictive Maintenance Optimization**  
+- **Operational Safety & Risk Analytics**  
+- **Revenue Forecasting & Optimization**  
+- **Big Data Pipeline Optimization**
 
-🛠 **Tools & Technologies**  
-Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel | Matplotlib | Seaborn  
+---
 
+## 🛠 Tools & Technologies  
+Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel | Matplotlib | Seaborn
 
-📂 **Folder Structure**
+---
+
+## 📂 Folder Structure
+
 - `1_Dashboards`: Power BI dashboard with insights  
 - `2_Python_Notebooks`: Jupyter notebooks for EDA, predictive models, and forecasting  
 - `3_ETL_Workflows`: Databricks and Snowflake ETL scripts  
-- `4_Project_Summaries`: 1-page PDF summaries of major projects with metrics  
+- `4_Project_Summaries`: 1-page PDF summaries of major projects with metrics
 
-
+---
 
 ## 📊 Other Work
 
@@ -82,10 +107,3 @@ I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools
 📍 Mumbai, India  
 📧 vikrantthenge@outlook.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vikrantthenge) · [GitHub](https://github.com/vikrantthenge)
-
----
-
-
-
-
-
