@@ -1,15 +1,17 @@
-# Vikrant Thenge – Data Analytics Portfolio
+# Vikrant Thenge – Data Analytics Portfolio  
 **Data Analyst | Predictive Analytics | Python | Power BI | Cloud Analytics**
 
 Welcome to my Data Analytics portfolio!  
 This repository showcases my work in data analysis, predictive modeling, ETL workflows, and dashboard development — demonstrating my transition from airline operations to advanced analytics.
 
 ---
+
 <p align="center">
   <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/raw/main/Vikrant_Thenge_Data%20Analyst_Resume..pdf" download title="Download my resume">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume Badge">
   </a>
 </p>
+
 🎯 Data Analyst with cloud fluency, automation skills, and a focus on recruiter-facing dashboards and apps.
 
 ---
@@ -25,6 +27,12 @@ Automates job searches using real-time data from the JSearch API.
 ### 🔹 Predictive Dashboard  
 Recruiter-facing dashboard with branded UI, robust CSV handling, and clean deployment.  
 [![Launch Predictive Dashboard](https://img.shields.io/badge/Launch-Dashboard-darkred?style=for-the-badge&logo=streamlit&logoColor=white)](https://predictivedashboard-vikrantthenge.streamlit.app/)
+
+---
+
+### 🔹 Sentiment Trend Analyzer  
+Real-time NLP app that analyzes sentiment trends from uploaded CSVs using Hugging Face transformers.  
+[![Launch Sentiment App](https://img.shields.io/badge/Launch-App-purple?style=for-the-badge&logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
 
 ---
 
@@ -44,6 +52,13 @@ Lightweight preview of resume parsing and keyword matching.
 🔹 **Predictive Dashboard**  
 Branded dashboard with CSV upload, model predictions, and recruiter-ready UI.  
 👉 [Try Dashboard](https://predictivedashboard-vikrantthenge.streamlit.app/)
+
+🔹 **Sentiment Trend Analyzer**  
+Branded NLP app with animated header, CSV upload, and sentiment visualization.  
+- Uses Hugging Face transformer for real-time sentiment scoring  
+- Displays confidence trends and sentiment distribution  
+- Includes resume download, sample CSV, and recruiter-facing UI  
+👉 [Try App](https://sentiment-analyzer-vikrant.streamlit.app/)
 
 ---
 
@@ -70,15 +85,6 @@ Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel |
 
 ---
 
-## 📂 Folder Structure
-
-- `1_Dashboards`: Power BI dashboard with insights  
-- `2_Python_Notebooks`: Jupyter notebooks for EDA, predictive models, and forecasting  
-- `3_ETL_Workflows`: Databricks and Snowflake ETL scripts  
-- `4_Project_Summaries`: 1-page PDF summaries of major projects with metrics
-
----
-
 ## 📊 Other Work
 
 - **Predictive Maintenance Optimization**  
@@ -92,6 +98,9 @@ Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel |
 
 - **Resource Monitoring Dashboards**  
   Real-time Power BI dashboards improving dispatch decisions by 30%.
+
+- **Sentiment Trend Analyzer**  
+  NLP-powered app for analyzing text sentiment over time using transformer models.
 
 ---
 
