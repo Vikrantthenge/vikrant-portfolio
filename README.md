@@ -43,8 +43,7 @@ I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools
 
 ---
 
-Welcome! This portfolio showcases my transition from airline operations to advanced analytics—featuring live apps, predictive models, and recruiter-ready dashboards built for clarity, automation, and impact.
-
+From flight ops to data ops—this portfolio showcases my transformation into a strategic data analyst, with live apps, predictive models, and dashboards built to impress recruiters and drive decisions.
 ---
 
 <p align="center">
