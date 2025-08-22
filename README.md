@@ -6,11 +6,10 @@
 ![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Pro-yellow?style=flat-square&logo=powerbi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Fluency-Azure%20%7C%20GCP-blue?style=flat-square&logo=cloudflare&logoColor=white)
-![ETL Workflows](https://img.shields.io/badge/ETL%20Workflows-Automated-green?style=flat-square&logo=databricks&logoColor=white)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-Scikit--Learn%20%7C%20XGBoost-orange?style=flat-square&logo=scikitlearn&logoColor=white)
-![Visual Branding](https://img.shields.io/badge/Visual%20Branding-Polished%20UI-purple?style=flat-square&logo=figma&logoColor=white)
-![Recruiter Ready](https://img.shields.io/badge/Recruiter%20Ready-Live%20Apps%20%7C%20Badges%20%7C%20Thumbnails-brightgreen?style=flat-square&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-App%20Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Fluency-orange?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud%20Fluency-blue?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Basic%20Familiarity-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
