@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools, automating workflows, and delivering business impact through dashboards and predictive models.
+I'm Vikrant Thenge — a data analyst who transforms business goals into recruiter-facing tools, automated workflows, and decision-ready dashboards powered by predictive models.
 
 📍 Mumbai, India  
 
