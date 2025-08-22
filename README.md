@@ -2,14 +2,16 @@
 
 **Data Analyst | Predictive Analytics | Python | Power BI | Cloud Automation**
 
-![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Pro-yellow?style=flat-square&logo=powerbi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-App%20Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Fluency-orange?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Cloud%20Fluency-blue?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Basic%20Familiarity-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud-blue?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Queries-darkblue?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming%20Data-black?style=flat-square&logo=apachekafka&logoColor=white)
 ---
 
 Welcome! This portfolio showcases my transition from airline operations to advanced analytics—featuring live apps, predictive models, and recruiter-ready dashboards built for clarity, automation, and impact.
@@ -134,15 +136,6 @@ I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools
 [![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
-
-## 📬 Contact & Tools
-
-[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
-[![SQL](https://img.shields.io/badge/SQL-Structured%20Queries-darkblue?style=flat-square&logo=mysql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=flat-square&logo=mongodb&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/Kafka-Streaming%20Data-black?style=flat-square&logo=apachekafka&logoColor=white)](#)
 
 
 📌 Every project here is built with clarity, polish, and recruiter impact in mind. Let’s connect!
