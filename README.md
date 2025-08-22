@@ -2,6 +2,19 @@
 
 **Data Analyst | Predictive Analytics | Python | Power BI | Cloud Automation**
 
+## 🙋‍♂️ About Me
+
+I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools, automating workflows, and delivering business impact through dashboards and predictive models.
+
+📍 Mumbai, India  
+
+## 📬 Contact
+
+[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
+
+
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)
@@ -125,17 +138,6 @@ Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel |
 
 ---
 
-## 🙋‍♂️ About Me
-
-I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools, automating workflows, and delivering business impact through dashboards and predictive models.
-
-📍 Mumbai, India  
-
-## 📬 Contact
-
-[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
 
 
 📌 Every project here is built with clarity, polish, and recruiter impact in mind. Let’s connect!
