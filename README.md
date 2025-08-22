@@ -1,26 +1,24 @@
-# Vikrant Thenge – Data Analytics Portfolio  
-**Data Analyst | Predictive Analytics | Python | Power BI | Cloud Analytics**
+# 📊 Vikrant Thenge – Strategic Data Analyst | Portfolio
 
+**Data Analyst | Predictive Analytics | Python | Power BI | Cloud Automation**
 
 ![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Pro-yellow?style=flat-square&logo=powerbi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-App%20Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Fluency-orange?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Basic%20Familiarity-blue?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud%20Fluency-blue?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Basic%20Familiarity-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
-
-Welcome to my Data Analytics portfolio!  
-This repository showcases my work in data analysis, predictive modeling, ETL workflows, and dashboard development — demonstrating my transition from airline operations to advanced analytics.
+Welcome! This portfolio showcases my transition from airline operations to advanced analytics—featuring live apps, predictive models, and recruiter-ready dashboards built for clarity, automation, and impact.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/raw/main/Vikrant_Thenge_Data%20Analyst_Resume..pdf" download title="Download my resume">
-    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume Badge">
+  <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/raw/main/Vikrant_Thenge_Data%20Analyst_Resume..pdf" download title="Download Vikrant Thenge Resume">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Vikrant Thenge Resume">
   </a>
 </p>
 
@@ -79,7 +77,7 @@ Branded NLP app with animated header, CSV upload, and sentiment visualization.
 - Built ETL pipelines using Databricks and Snowflake for multi-source data integration  
 - Developed predictive models improving resource planning by 25%  
 - Reduced unplanned maintenance by 20% through anomaly detection models  
-- Created interactive Power BI dashboards for executive decision-making
+- Created interactive Power BI dashboards for executive decision-making  
 
 ---
 
@@ -119,7 +117,7 @@ Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel |
 ## 🧠 Skills & Tools
 
 **Languages & Tools:** Python · SQL · Power BI · Tableau · Excel · GitHub · Jupyter  
-**Cloud & Platforms:** AWS · GCP · Databricks · Snowflake (conceptual)  
+**Cloud & Platforms:** AWS · GCP · Heroku · Databricks · Snowflake · Azure (basic)  
 **Analytics:** Forecasting · Scenario Modeling · KPI Tracking · ETL · Dashboarding  
 **GenAI:** Prompt Engineering · ChatGPT · Copilot · Gemini · Claude
 
@@ -132,3 +130,5 @@ I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools
 📍 Mumbai, India  
 📧 vikrantthenge@outlook.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vthenge) · [GitHub](https://github.com/vikrantthenge)
+
+📌 Every project here is built with clarity, polish, and recruiter impact in mind. Let’s connect!
