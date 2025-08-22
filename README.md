@@ -14,6 +14,7 @@ I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
 
+## 📬 Tools
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=white)
