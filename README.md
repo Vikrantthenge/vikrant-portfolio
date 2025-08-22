@@ -1,7 +1,6 @@
 # Vikrant Thenge – Data Analytics Portfolio  
 **Data Analyst | Predictive Analytics | Python | Power BI | Cloud Analytics**
 
-# 👋 Hi, I'm Vikrant
 
 ![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Pro-yellow?style=flat-square&logo=powerbi&logoColor=white)
