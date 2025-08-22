@@ -3,12 +3,23 @@
 **Data Analyst | Predictive Analytics | Python | Power BI | Cloud Automation**
 
 ![Python](https://img.shields.io/badge/Python-Used-blue?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Used-lightblue?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Used-blue?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-Used-black?style=flat-square&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Used-green?style=flat-square&logo=mongodb&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Used-yellow?style=flat-square&logo=powerbi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Used-red?style=flat-square&logo=streamlit&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-Used-purple?style=flat-square&logo=heroku&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-Used-orange?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-Used-blue?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Used-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Used-4B8BBE?style=flat-square&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-Used-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-Used-8A2BE2?style=flat-square&logo=codeforces&logoColor=white)
+
 ---
 
 Welcome! This portfolio showcases my transition from airline operations to advanced analytics—featuring live apps, predictive models, and recruiter-ready dashboards built for clarity, automation, and impact.
