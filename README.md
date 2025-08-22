@@ -1,55 +1,122 @@
-# 👋 Hi, I'm Vikrant
+# Vikrant Thenge – Data Analytics Portfolio  
+**Data Analyst | Predictive Analytics | Python | Power BI | Cloud Analytics**
 
-I'm a strategic data analyst with a background in airline operations, now focused on building recruiter-ready dashboards, predictive models, and automation workflows that deliver measurable impact.
-
-With hands-on expertise in Python, Power BI, and Streamlit, I specialize in transforming raw data into polished, interactive apps—each designed for clarity, speed, and recruiter engagement. My portfolio reflects a deep understanding of both technical execution and visual branding, from error-handled deployments to designer thumbnails and live app links.
-
----
-
-## 🚀 What I Do Best
-
-- 📊 **Predictive Modeling** — Forecasting trends and behaviors using clean, scalable code.
-- 🧼 **ETL Workflows** — Automating data pipelines with reliability and transparency.
-- 📈 **Dashboard Development** — Crafting recruiter-facing visuals that tell compelling stories.
-- ⚙️ **Cloud Automation** — Deploying apps with seamless integration and error handling.
-- 🎨 **Visual Branding** — Designer thumbnails, badges, and markdown polish for instant appeal.
+Welcome to my Data Analytics portfolio!  
+This repository showcases my work in data analysis, predictive modeling, ETL workflows, and dashboard development — demonstrating my transition from airline operations to advanced analytics.
 
 ---
 
-## 📂 Featured Projects
+<p align="center">
+  <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/raw/main/Vikrant_Thenge_Data%20Analyst_Resume..pdf" download title="Download my resume">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume Badge">
+  </a>
+</p>
 
-| Project | Description | Live App | GitHub |
-|--------|-------------|----------|--------|
-| ✈️ Airline Delay Predictor | Predicts flight delays using historical data and weather patterns | [Live App](#) | [Repo](#) |
-| 🧠 Resume Analyzer Bot | NLP-powered tool that scores resumes for recruiter keywords | [Live App](#) | [Repo](#) |
-| 📦 Inventory Dashboard | Real-time dashboard for warehouse stock and reorder alerts | [Live App](#) | [Repo](#) |
-
-> Each app includes sample data, error handling, and recruiter-friendly UI.
+🎯 Data Analyst with cloud fluency, automation skills, and a focus on recruiter-facing dashboards and apps.
 
 ---
 
-## 🛠️ Tech Stack
+## 📱 Live Apps
 
-- **Languages**: Python, SQL, DAX  
-- **Tools**: Power BI, Streamlit, Pandas, Scikit-learn  
-- **Cloud**: Azure, Google Cloud  
-- **Versioning**: Git, GitHub  
-- **Design**: Markdown, Canva, Figma (for thumbnails)
+### 🔹 Job Application Automation Bot  
+Automates job searches using real-time data from the JSearch API.  
+[![Launch JobBot App](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=streamlit)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
 
 ---
 
-## 🎯 Goals
-
-- 🔗 Integrate live app links, badges, and designer thumbnails into resume and GitHub
-- 📝 Polish README intros and outreach emails for clarity and professionalism
-- 💼 Land a data analytics role by making my portfolio irresistible to recruiters
+### 🔹 Predictive Dashboard  
+Recruiter-facing dashboard with branded UI, robust CSV handling, and clean deployment.  
+[![Launch Predictive Dashboard](https://img.shields.io/badge/Launch-Dashboard-darkred?style=for-the-badge&logo=streamlit&logoColor=white)](https://predictivedashboard-vikrantthenge.streamlit.app/)
 
 ---
 
-## 📬 Let’s Connect
+### 🔹 Sentiment Trend Analyzer  
+Real-time NLP app that analyzes sentiment trends from uploaded CSVs using Hugging Face transformers.  
+[![Launch Sentiment App](https://img.shields.io/badge/Launch-App-purple?style=for-the-badge&logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
 
-- 📄 [Resume](#)
-- 💼 [LinkedIn](#)
-- 📧 vikrant.thenge@email.com
+---
 
-Thanks for stopping by! Every project here is built with clarity, polish, and recruiter impact in mind.
+## 🚀 Featured Projects
+
+🔹 **Job Application Automation Bot**  
+End-to-end automation of job search workflows using Python, Streamlit, and resume parsing.  
+- Scrapes job listings from LinkedIn, Naukri, and Indeed  
+- Matches resume keywords to job descriptions  
+- Tracks applications and recruiter outreach  
+👉 [Launch App](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
+
+🔹 **Job Bot Showcase (Demo)**  
+Lightweight preview of resume parsing and keyword matching.  
+👉 [Try Demo](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
+
+🔹 **Predictive Dashboard**  
+Branded dashboard with CSV upload, model predictions, and recruiter-ready UI.  
+👉 [Try Dashboard](https://predictivedashboard-vikrantthenge.streamlit.app/)
+
+🔹 **Sentiment Trend Analyzer**  
+Branded NLP app with animated header, CSV upload, and sentiment visualization.  
+- Uses Hugging Face transformer for real-time sentiment scoring  
+- Displays confidence trends and sentiment distribution  
+- Includes resume download, sample CSV, and recruiter-facing UI  
+👉 [Try App](https://sentiment-analyzer-vikrant.streamlit.app/)
+
+---
+
+## 🔍 Highlights
+
+- Built ETL pipelines using Databricks and Snowflake for multi-source data integration  
+- Developed predictive models improving resource planning by 25%  
+- Reduced unplanned maintenance by 20% through anomaly detection models  
+- Created interactive Power BI dashboards for executive decision-making
+
+---
+
+## 📁 Project Summaries
+
+- **Predictive Maintenance Optimization**  
+- **Operational Safety & Risk Analytics**  
+- **Revenue Forecasting & Optimization**  
+- **Big Data Pipeline Optimization**
+
+---
+
+## 🛠 Tools & Technologies  
+Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel | Matplotlib | Seaborn
+
+---
+
+## 📊 Other Work
+
+- **Predictive Maintenance Optimization**  
+  Time-series models reducing downtime by 25% and logistics cost by 18%.
+
+- **Operational Safety & Risk Analytics**  
+  ML models identifying risk triggers and delivery delay patterns.
+
+- **Revenue Forecasting & Optimization**  
+  Forecasting demand and pricing to improve profitability by 12%.
+
+- **Resource Monitoring Dashboards**  
+  Real-time Power BI dashboards improving dispatch decisions by 30%.
+
+- **Sentiment Trend Analyzer**  
+  NLP-powered app for analyzing text sentiment over time using transformer models.
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages & Tools:** Python · SQL · Power BI · Tableau · Excel · GitHub · Jupyter  
+**Cloud & Platforms:** AWS · GCP · Databricks · Snowflake (conceptual)  
+**Analytics:** Forecasting · Scenario Modeling · KPI Tracking · ETL · Dashboarding  
+**GenAI:** Prompt Engineering · ChatGPT · Copilot · Gemini · Claude
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools, automating workflows, and delivering business impact through dashboards and predictive models.
+
+📍 Mumbai, India  
+📧 vikrantthenge@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vthenge) · [GitHub](https://github.com/vikrantthenge)
