@@ -130,4 +130,4 @@ I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools
 📧 vikrantthenge@outlook.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vthenge) · [GitHub](https://github.com/vikrantthenge)
 
-📌 Every project here is built with clarity, polish, and recruiter impact in mind. Let’s connect!
+📌Thanks for visiting—each project is designed with usability, presentation, and real-world impact in mind.
