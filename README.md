@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-App%20Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Fluency-orange?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Cloud%20Fluency-blue?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Basic%20Familiarity-blue?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Basic%20Familiarity-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
