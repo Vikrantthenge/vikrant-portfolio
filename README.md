@@ -2,14 +2,13 @@
 
 **Data Analyst | Predictive Analytics | Python | Power BI | Cloud Automation**
 
-![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Pro-yellow?style=flat-square&logo=powerbi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-App%20Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Fluency-orange?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Basic%20Familiarity-blue?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Basic%20Familiarity-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-Used-blue?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Used-yellow?style=flat-square&logo=powerbi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Used-red?style=flat-square&logo=streamlit&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-Used-purple?style=flat-square&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Used-orange?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Used-blue?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Used-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
 ---
 
 Welcome! This portfolio showcases my transition from airline operations to advanced analytics—featuring live apps, predictive models, and recruiter-ready dashboards built for clarity, automation, and impact.
