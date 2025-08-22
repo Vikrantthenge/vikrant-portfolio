@@ -135,5 +135,14 @@ I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
 
+## 📬 Contact & Tools
+
+[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
+[![SQL](https://img.shields.io/badge/SQL-Structured%20Queries-darkblue?style=flat-square&logo=mysql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=flat-square&logo=mongodb&logoColor=white)](#)
+[![Kafka](https://img.shields.io/badge/Kafka-Streaming%20Data-black?style=flat-square&logo=apachekafka&logoColor=white)](#)
+
 
 📌 Every project here is built with clarity, polish, and recruiter impact in mind. Let’s connect!
