@@ -128,7 +128,12 @@ Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel |
 I'm Vikrant Thenge — a data analyst focused on building recruiter-facing tools, automating workflows, and delivering business impact through dashboards and predictive models.
 
 📍 Mumbai, India  
-📧 vikrantthenge@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vthenge) · [GitHub](https://github.com/vikrantthenge)
+
+## 📬 Contact
+
+[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
+
 
 📌 Every project here is built with clarity, polish, and recruiter impact in mind. Let’s connect!
