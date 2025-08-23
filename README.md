@@ -120,10 +120,6 @@ Branded NLP app with animated header, CSV upload, and sentiment visualization.
 
 ---
 
-## 🛠 Tools & Technologies  
-Python | SQL | Power BI | Tableau | AWS | GCP | Snowflake | Databricks | Excel | Matplotlib | Seaborn
-
----
 
 ## 📊 Other Work
 
