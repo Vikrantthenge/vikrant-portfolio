@@ -9,7 +9,7 @@ I specialize in building tools that are not just functional — but instantly ac
 
 📍 Dombivli,Mumbai Maharashtra, India  
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)  
-![Portfolio Thumbnail](https://your-thumbnail-link.com/image.png)
+
 
 ## 📬 Contact
 
