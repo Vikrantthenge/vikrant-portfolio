@@ -4,9 +4,12 @@
 
 ## 🙋‍♂️ About Me
 
-I'm Vikrant Thenge — a data analyst who transforms business goals into recruiter-facing tools, automated workflows, and decision-ready dashboards powered by predictive models.
+I'm **Vikrant Thenge**, a data analyst who turns business goals into **recruiter-ready dashboards**, **automated workflows**, and **live apps** powered by predictive models and GenAI.  
+I specialize in building tools that are not just functional — but instantly accessible, visually branded, and designed to impress.
 
-📍 Mumbai, India  
+📍 Dombivli,Mumbai Maharashtra, India  
+[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)  
+![Portfolio Thumbnail](https://your-thumbnail-link.com/image.png)
 
 ## 📬 Contact
 
