@@ -142,10 +142,42 @@ Branded NLP app with animated header, CSV upload, and sentiment visualization.
 
 ## 🧠 Skills & Tools
 
-**Languages & Tools:** Python · SQL · Power BI · Tableau · Excel · GitHub · Jupyter  
-**Cloud & Platforms:** AWS · GCP · Heroku · Databricks · Snowflake · Azure (basic)  
-**Analytics:** Forecasting · Scenario Modeling · KPI Tracking · ETL · Dashboarding  
-**GenAI:** Prompt Engineering · ChatGPT · Copilot · Gemini · Claude
+### 🔧 Languages & Tools  
+<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="30"/>  
+<img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="30"/>  
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="30"/>  
+<img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="30"/>  
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="30"/>  
+<img src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub" width="30"/>  
+<img src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter" width="30"/>
+
+---
+
+### ☁️ Cloud & Platforms  
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="30"/>  
+<img src="https://img.icons8.com/color/48/google-cloud.png" alt="GCP" width="30"/>  
+<img src="https://img.icons8.com/color/48/heroku.png" alt="Heroku" width="30"/>  
+<img src="https://img.icons8.com/color/48/databricks.png" alt="Databricks" width="30"/>  
+<img src="https://img.icons8.com/color/48/snowflake.png" alt="Snowflake" width="30"/>  
+<img src="https://img.icons8.com/color/48/microsoft-azure.png" alt="Azure" width="30"/>
+
+---
+
+### 📊 Analytics  
+- Forecasting  
+- Scenario Modeling  
+- KPI Tracking  
+- ETL  
+- Dashboarding  
+
+---
+
+### 🤖 GenAI  
+<img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="30"/>  
+<img src="https://img.icons8.com/color/48/copilot.png" alt="Copilot" width="30"/>  
+<img src="https://img.icons8.com/color/48/gemini.png" alt="Gemini" width="30"/>  
+<img src="https://img.icons8.com/color/48/claude.png" alt="Claude" width="30"/>  
+- Prompt Engineering
 
 ---
 
