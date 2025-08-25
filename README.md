@@ -60,6 +60,8 @@ From flight ops to data ops—this portfolio showcases my transformation into a 
 
 ## 📱 Live Apps
 
+> ⚠️ **Note**: If any app shows a “Zzzz” screen, it's just waking up from sleep. Click “Yes” to load — it takes only a few seconds!
+
 ### 🔹 Job Application Automation Bot  
 Automates job searches using real-time data from the JSearch API.  
 [![Launch JobBot App](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=streamlit)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
