@@ -5,7 +5,7 @@
 ---
 
 ### 📎 Scan to view my GitHub portfolio  
-![QR Code](https://your-hosted-qr-image-link.com)
+![QR Code](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png)
 
 ---
 
