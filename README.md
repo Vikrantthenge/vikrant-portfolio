@@ -2,50 +2,61 @@
 
 **Data Analyst | Predictive Analytics | Python | Power BI | Cloud Automation**
 
+---
+
+### 📎 Scan to view my GitHub portfolio  
+![QR Code](https://your-hosted-qr-image-link.com)
+
+---
+
 ## 🙋‍♂️ About Me
 
 I'm **Vikrant Thenge**, a data analyst who turns business goals into **recruiter-ready dashboards**, **automated workflows**, and **live apps** powered by predictive models and GenAI.  
 I specialize in building tools that are not just functional — but instantly accessible, visually branded, and designed to impress.
 
-📍 Dombivli,Mumbai Maharashtra, India  
+📍 Dombivli, Mumbai, Maharashtra, India  
 
+---
 
 ## 📬 Contact
 
-[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
+[![Outlook](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/vikrantthenge)
+
+---
 
 ## 🛠️ Tools & Technologies
 
-### 🔹 Programming & Analytics
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Queries-darkblue?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)
+### 🔹 Programming & Analytics  
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-Queries-darkblue?style=flat-square&logo=mysql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-green?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 🔹 Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Cloud-blue?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Cloud-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
+### 🔹 Cloud & Deployment  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-Cloud-blue?style=flat-square&logo=googlecloud&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-Cloud-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/Heroku-Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
 
-### 🔹 Data Engineering & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=flat-square&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-Streaming%20Data-black?style=flat-square&logo=apachekafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-ETL%20Platform-orange?style=flat-square&logo=databricks&logoColor=white)
+### 🔹 Data Engineering & Storage  
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=flat-square&logo=mongodb&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-Streaming%20Data-black?style=flat-square&logo=apachekafka&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-ETL%20Platform-orange?style=flat-square&logo=databricks&logoColor=white)  
 ![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-blue?style=flat-square&logo=snowflake&logoColor=white)
 
-### 🔹 GenAI & Productivity
-![ChatGPT](https://img.shields.io/badge/ChatGPT-GenAI-green?style=flat-square&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-GenAI-blue?style=flat-square&logo=microsoft&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?style=flat-square&logo=github&logoColor=white)
+### 🔹 GenAI & Productivity  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-GenAI-green?style=flat-square&logo=openai&logoColor=white)  
+![Copilot](https://img.shields.io/badge/Copilot-GenAI-blue?style=flat-square&logo=microsoft&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?style=flat-square&logo=github&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 From flight ops to data ops—this portfolio showcases my transformation into a strategic data analyst, with live apps, predictive models, and dashboards built to impress recruiters and drive decisions.
+
 ---
 
 <p align="center">
@@ -111,7 +122,7 @@ Branded NLP app with animated header, CSV upload, and sentiment visualization.
 - Built ETL pipelines using Databricks and Snowflake for multi-source data integration  
 - Developed predictive models improving resource planning by 25%  
 - Reduced unplanned maintenance by 20% through anomaly detection models  
-- Created interactive Power BI dashboards for executive decision-making  
+- Created interactive Power BI dashboards for executive decision-making
 
 ---
 
@@ -123,7 +134,6 @@ Branded NLP app with animated header, CSV upload, and sentiment visualization.
 - **Big Data Pipeline Optimization**
 
 ---
-
 
 ## 📊 Other Work
 
