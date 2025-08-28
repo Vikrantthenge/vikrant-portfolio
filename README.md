@@ -76,7 +76,7 @@ From flight ops to data ops—this portfolio showcases my transformation into a 
 ### 🔹 FlightPulse — Flight Delay Predictor
 Predicts flight delays using airline, route, and weather inputs with real-time model inference and branded visual insights.
 
-[![View in Streamlit](https://img.shields.io/badge/Launch%20App-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
+[![View in Streamlit](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
 
 
 ### 🔹 Job Application Automation Bot  
