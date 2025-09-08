@@ -105,4 +105,4 @@ Improved profitability by 12% through scenario modeling and KPI tracking.
 
 ---
 
-Let me know if you want to add screenshots, GIFs, or a collapsible section for mobile viewers. This README is now recruiter-optimized, visually branded, and ready to convert.
+
