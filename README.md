@@ -11,10 +11,9 @@
 
 ## 🙋‍♂️ About Me
 
-I'm Vikrant Thenge, an advanced data analyst with 18+ years in airline operations, now driving impact through predictive analytics, automation bots, and recruiter-ready dashboards.
-I build tools that are not just technically sound—but visually branded, instantly accessible, and designed to convert interest into interviews.
+I'm **Vikrant Thenge**, an advanced data analyst with 18+ years in airline operations, now driving impact through predictive analytics, automation bots, and recruiter-ready dashboards.  
+I build tools that are not just technically sound—but visually branded, instantly accessible, and designed to convert interest into interviews.  
 From Streamlit apps to Power BI dashboards, every project in this portfolio is crafted to showcase clarity, interactivity, and cross-industry versatility.
-
 
 📍 Dombivli, Mumbai, Maharashtra, India  
 
@@ -57,23 +56,19 @@ From Streamlit apps to Power BI dashboards, every project in this portfolio is c
 
 ---
 
-From flight ops to data ops—this portfolio showcases my transformation into a strategic data analyst, with live apps, predictive models, and dashboards built to impress recruiters and drive decisions.
-
----
-
 <p align="center">
-  <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant%20Thenge%20Data%20Analytics%20Resume%20.pdf" download title="Download Vikrant Thenge Resume">
+  <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant%20Thenge_Data_Analyst_Resume..pdf" download title="Download Vikrant Thenge Resume">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Vikrant Thenge Resume">
   </a>
 </p>
 
-🎯 Data Analyst with cloud fluency, automation skills, and a focus on recruiter-facing dashboards and apps.
+🎯 Available immediately for senior analytics roles across industries (₹24 LPA+)
 
 ---
 
 ## 📱 Live Projects
 
-> ⚠️ **Note**: If any app shows a “Zzzz” screen, it's just waking up from sleep. Click “Yes” to load — it takes only a few seconds!
+> ⚠️ If any app shows a “Zzzz” screen, it's just waking up from sleep. Click “Yes” to load — it takes only a few seconds!
 
 ### 🔹 Crew Ops – Airline Crew Optimization Dashboard  
 Simulates 500+ crew assignment scenarios with violation alerts and Gantt-style scheduling.  
@@ -105,6 +100,8 @@ Forecasts demand and pricing scenarios using Excel and Power BI dashboards.
 Improved profitability by 12% through scenario modeling and KPI tracking.  
 [![View Revenue Dashboard](https://img.shields.io/badge/View-Revenue%20Dashboard-green?style=for-the-badge&logo=powerbi)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Revenue_Forecasting)
 
+---
+
 ## 📁 Project Summaries
 
 - **Crew Ops Optimization** – Scheduling logic, Gantt views, and constraint violation tracking  
@@ -114,16 +111,17 @@ Improved profitability by 12% through scenario modeling and KPI tracking.
 - **Predictive Maintenance** – Time-series anomaly detection and cost optimization  
 - **Revenue Forecasting** – Excel + Power BI dashboards improving profitability by 12%
 
+---
+
 ## 📊 Highlights
 
--Reduced manual planning effort by 80% via CrewOps simulator  
--Boosted recruiter engagement 3× with branded dashboards and embedded resume access  
--Improved profitability by 12% through forecasting and scenario modeling  
--Cut downtime by 25% using anomaly detection models  
--Built ETL pipelines across Snowflake, Databricks, and cloud platforms  
--Deployed apps on Heroku and Streamlit Cloud with mobile-friendly UX
+- Reduced manual planning effort by **80%** via CrewOps simulator  
+- Boosted recruiter engagement **3×** with branded dashboards and embedded resume access  
+- Improved profitability by **12%** through forecasting and scenario modeling  
+- Cut downtime by **25%** using anomaly detection models  
+- Built ETL pipelines across **Snowflake, Databricks**, and major cloud platforms  
+- Deployed apps on **Heroku** and **Streamlit Cloud** with mobile-friendly UX
 
-- > 📌 Available immediately for senior analytics roles across industries (₹24 LPA+).  
-> Every project here is built for clarity, polish, and Optimized for visibility and callback potential.
+---
 
-
+📌 Every project here is built for clarity, polish, and recruiter conversion. Let’s connect!
