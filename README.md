@@ -69,95 +69,40 @@ From flight ops to data ops—this portfolio showcases my transformation into a 
 
 ---
 
-## 📱 Live Apps
+## 📱 Live Projects
 
 > ⚠️ **Note**: If any app shows a “Zzzz” screen, it's just waking up from sleep. Click “Yes” to load — it takes only a few seconds!
->
-### 🔹 FlightPulse — Flight Delay Predictor
-Predicts flight delays using airline, route, and weather inputs with real-time model inference and branded visual insights.
 
-[![View in Streamlit](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
+### 🔹 Crew Ops – Airline Crew Optimization Dashboard  
+Simulates 500+ crew assignment scenarios with violation alerts and Gantt-style scheduling.  
+Includes auto-loaded sample data, mobile layout, and embedded resume access.  
+[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?style=for-the-badge&logo=streamlit)](https://crewops-vikrant.streamlit.app/)
 
+### 🔹 Flight Delay Predictor  
+Predicts flight delays using airline, route, and weather data with real-time model inference.  
+Includes ML classification with probability outputs and interactive visualizations.  
+[![Launch Flight Delay App](https://img.shields.io/badge/Launch-FlightPulse-darkred?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
+
+### 🔹 Airline Sentiment Analyzer  
+Analyzes sentiment from uploaded CSVs using Hugging Face transformers.  
+Displays confidence scores and sentiment distribution in a recruiter-facing UI.  
+[![Launch Sentiment App](https://img.shields.io/badge/Launch-Sentiment%20Analyzer-purple?style=for-the-badge&logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
 
 ### 🔹 Job Application Automation Bot  
-Automates job searches using real-time data from the JSearch API.  
-[![Launch JobBot App](https://img.shields.io/badge/Launch-App-blue?style=for-the-badge&logo=streamlit)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
+Automates job search workflows with resume parsing and keyword matching.  
+Scrapes listings from LinkedIn, Naukri, and Indeed; tracks recruiter outreach.  
+[![Launch JobBot App](https://img.shields.io/badge/Launch-JobBot-blue?style=for-the-badge&logo=streamlit)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
+
+### 🔹 Predictive Maintenance Optimization  
+Detects anomalies and optimizes maintenance schedules using time-series models.  
+Reduced downtime by 25% and logistics costs by 18%.  
+[![View Project Summary](https://img.shields.io/badge/View-Maintenance%20Project-orange?style=for-the-badge&logo=python)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Predictive_Maintenance)
+
+### 🔹 Revenue Forecasting & Optimization  
+Forecasts demand and pricing scenarios using Excel and Power BI dashboards.  
+Improved profitability by 12% through scenario modeling and KPI tracking.  
+[![View Revenue Dashboard](https://img.shields.io/badge/View-Revenue%20Dashboard-green?style=for-the-badge&logo=powerbi)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Revenue_Forecasting)
 
 ---
 
-### 🔹 Predictive Dashboard  
-Recruiter-facing dashboard with branded UI, robust CSV handling, and clean deployment.  
-[![Launch Predictive Dashboard](https://img.shields.io/badge/Launch-Dashboard-darkred?style=for-the-badge&logo=streamlit&logoColor=white)](https://predictivedashboard-vikrantthenge.streamlit.app/)
-
----
-
-### 🔹 Sentiment Trend Analyzer  
-Real-time NLP app that analyzes sentiment trends from uploaded CSVs using Hugging Face transformers.  
-[![Launch Sentiment App](https://img.shields.io/badge/Launch-App-purple?style=for-the-badge&logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Job Application Automation Bot**  
-End-to-end automation of job search workflows using Python, Streamlit, and resume parsing.  
-- Scrapes job listings from LinkedIn, Naukri, and Indeed  
-- Matches resume keywords to job descriptions  
-- Tracks applications and recruiter outreach  
-👉 [Launch App](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
-
-🔹 **Job Bot Showcase (Demo)**  
-Lightweight preview of resume parsing and keyword matching.  
-👉 [Try Demo](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
-
-🔹 **Predictive Dashboard**  
-Branded dashboard with CSV upload, model predictions, and recruiter-ready UI.  
-👉 [Try Dashboard](https://predictivedashboard-vikrantthenge.streamlit.app/)
-
-🔹 **Sentiment Trend Analyzer**  
-Branded NLP app with animated header, CSV upload, and sentiment visualization.  
-- Uses Hugging Face transformer for real-time sentiment scoring  
-- Displays confidence trends and sentiment distribution  
-- Includes resume download, sample CSV, and recruiter-facing UI  
-👉 [Try App](https://sentiment-analyzer-vikrant.streamlit.app/)
-
----
-
-## 🔍 Highlights
-
-- Built ETL pipelines using Databricks and Snowflake for multi-source data integration  
-- Developed predictive models improving resource planning by 25%  
-- Reduced unplanned maintenance by 20% through anomaly detection models  
-- Created interactive Power BI dashboards for executive decision-making
-
----
-
-## 📁 Project Summaries
-
-- **Predictive Maintenance Optimization**  
-- **Operational Safety & Risk Analytics**  
-- **Revenue Forecasting & Optimization**  
-- **Big Data Pipeline Optimization**
-
----
-
-## 📊 Other Work
-
-- **Predictive Maintenance Optimization**  
-  Time-series models reducing downtime by 25% and logistics cost by 18%.
-
-- **Operational Safety & Risk Analytics**  
-  ML models identifying risk triggers and delivery delay patterns.
-
-- **Revenue Forecasting & Optimization**  
-  Forecasting demand and pricing to improve profitability by 12%.
-
-- **Resource Monitoring Dashboards**  
-  Real-time Power BI dashboards improving dispatch decisions by 30%.
-
-- **Sentiment Trend Analyzer**  
-  NLP-powered app for analyzing text sentiment over time using transformer models.
-
----
-
-📌 Every project here is built with clarity, polish, and recruiter impact in mind. Let’s connect!
+Let me know if you want to add screenshots, GIFs, or a collapsible section for mobile viewers. This README is now recruiter-optimized, visually branded, and ready to convert.
