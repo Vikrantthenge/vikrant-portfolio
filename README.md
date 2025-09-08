@@ -11,8 +11,10 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Vikrant Thenge**, a data analyst who turns business goals into **recruiter-ready dashboards**, **automated workflows**, and **live apps** powered by predictive models and GenAI.  
-I specialize in building tools that are not just functional — but instantly accessible, visually branded, and designed to impress.
+I'm Vikrant Thenge, an advanced data analyst with 18+ years in airline operations, now driving impact through predictive analytics, automation bots, and recruiter-ready dashboards.
+I build tools that are not just technically sound—but visually branded, instantly accessible, and designed to convert interest into interviews.
+From Streamlit apps to Power BI dashboards, every project in this portfolio is crafted to showcase clarity, interactivity, and cross-industry versatility.
+
 
 📍 Dombivli, Mumbai, Maharashtra, India  
 
