@@ -105,6 +105,25 @@ Forecasts demand and pricing scenarios using Excel and Power BI dashboards.
 Improved profitability by 12% through scenario modeling and KPI tracking.  
 [![View Revenue Dashboard](https://img.shields.io/badge/View-Revenue%20Dashboard-green?style=for-the-badge&logo=powerbi)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Revenue_Forecasting)
 
----
+## 📁 Project Summaries
+
+- **Crew Ops Optimization** – Scheduling logic, Gantt views, and constraint violation tracking  
+- **Flight Delay Predictor** – ML classification with weather, route, and airline inputs  
+- **Sentiment Analyzer** – NLP-powered app with transformer models and visual scoring  
+- **JobBot Automation** – Resume parsing, keyword matching, and job scraping  
+- **Predictive Maintenance** – Time-series anomaly detection and cost optimization  
+- **Revenue Forecasting** – Excel + Power BI dashboards improving profitability by 12%
+
+## 📊 Highlights
+
+- Reduced manual planning effort by 80% via CrewOps simulator  
+- Boosted recruiter engagement 3× with branded dashboards and embedded resume access  
+- Improved profitability by 12% through forecasting and scenario modeling  
+- Cut downtime by 25% using anomaly detection models  
+- Built ETL pipelines across Snowflake, Databricks, and cloud platforms  
+- Deployed apps on Heroku and Streamlit Cloud with mobile-friendly UX
+
+- > 📌 Available immediately for senior analytics roles across industries (₹24 LPA+).  
+> Every project here is built for clarity, polish, and Optimized for visibility and callback potential.
 
 
