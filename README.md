@@ -60,7 +60,7 @@ From flight ops to data ops—this portfolio showcases my transformation into a 
 ---
 
 <p align="center">
-  <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant%20Thenge_Data_Analyst_Resume..pdf" download title="Download Vikrant Thenge Resume">
+  <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant%20Thenge%20Data%20Analytics%20Resume%20.pdf" download title="Download Vikrant Thenge Resume">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Vikrant Thenge Resume">
   </a>
 </p>
