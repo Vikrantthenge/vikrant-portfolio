@@ -62,7 +62,7 @@ From Streamlit apps to Power BI dashboards, every project in this portfolio is c
   </a>
 </p>
 
-🎯 Available immediately for senior analytics roles across industries (₹24 LPA+)
+🎯 Available immediately for senior analytics roles across industries.
 
 ---
 
