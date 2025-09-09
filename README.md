@@ -133,6 +133,4 @@ Improved profitability by 12% through scenario modeling and KPI tracking.
 [![Job Application Bot](https://img.shields.io/badge/Job%20App-Automation%20Bot-purple?style=flat&logo=python)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
 [![Predictive Maintenance](https://img.shields.io/badge/Predictive-Maintenance-red?style=flat&logo=aws)](https://predictivedashboard-vikrantthenge.streamlit.app/)
 [![Revenue Forecasting](https://img.shields.io/badge/Revenue-Forecasting-yellow?style=flat&logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vthenge/)
 
