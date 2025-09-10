@@ -54,6 +54,8 @@ From Streamlit apps to Power BI dashboards, every project in this portfolio is c
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?style=flat-square&logo=github&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=flat-square&logo=jupyter&logoColor=white)
 
+### 🔹 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=flat-square&logo=githubactions&logoColor=white)
+
 ---
 
 <p align="center">
