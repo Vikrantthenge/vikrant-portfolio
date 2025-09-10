@@ -34,6 +34,7 @@ From Streamlit apps to Power BI dashboards, every project in this portfolio is c
 ![SQL](https://img.shields.io/badge/SQL-Queries-darkblue?style=flat-square&logo=mysql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)  
+
 ![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-green?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ### 🔹 Cloud & Deployment  
