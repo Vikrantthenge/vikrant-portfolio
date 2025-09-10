@@ -41,7 +41,7 @@ From Streamlit apps to Power BI dashboards, every project in this portfolio is c
 ![GCP](https://img.shields.io/badge/GCP-Cloud-blue?style=flat-square&logo=googlecloud&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-Cloud-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/Heroku-Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 🔹 Data Engineering & Storage  
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=flat-square&logo=mongodb&logoColor=white)  
