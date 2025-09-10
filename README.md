@@ -36,7 +36,7 @@ From Streamlit apps to Power BI dashboards, every project in this portfolio is c
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-green?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 🔹 Cloud Platforms & Hosting  
+### 🔹 Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white)  
 ![GCP](https://img.shields.io/badge/GCP-Cloud-blue?style=flat-square&logo=googlecloud&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-Cloud-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)  
