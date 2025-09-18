@@ -108,11 +108,13 @@ Improved profitability by 12% through scenario modeling and KPI tracking.
 ## 📁 Project Summaries
 
 - **Crew Ops Optimization** – Scheduling logic, Gantt views, and constraint violation tracking  
+- **Crew Ops Optimization** – Scheduling logic, Gantt views, and constraint violation tracking  
 - **Flight Delay Predictor** – ML classification with weather, route, and airline inputs  
 - **Sentiment Analyzer** – NLP-powered app with transformer models and visual scoring  
 - **JobBot Automation** – Resume parsing, keyword matching, and job scraping  
 - **Predictive Maintenance** – Time-series anomaly detection and cost optimization  
-- **Revenue Forecasting** – Excel + Power BI dashboards improving profitability by 12%
+- **Revenue Forecasting** – Excel + Power BI dashboards improving profitability by 12%  
+- **Safety Risk Analytics** – PySpark ETL, ML risk detection, Delta Lake storage, Unity Catalog integration
 
 ---
 
@@ -122,6 +124,8 @@ Improved profitability by 12% through scenario modeling and KPI tracking.
 - Boosted recruiter engagement **3×** with branded dashboards and embedded resume access  
 - Improved profitability by **12%** through forecasting and scenario modeling  
 - Cut downtime by **25%** using anomaly detection models  
+- Improved early risk detection by **15%** using ML classification on flight incidents  
+- Processed **50K+** rows of operational data using Delta Lake and Unity Catalog  
 - Built ETL pipelines across **Snowflake, Databricks**, and major cloud platforms  
 - Deployed apps on **Heroku** and **Streamlit Cloud** with mobile-friendly UX
 - 
@@ -137,4 +141,5 @@ Improved profitability by 12% through scenario modeling and KPI tracking.
 [![Job Application Bot](https://img.shields.io/badge/Job%20App-Automation%20Bot-purple?style=flat&logo=python)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
 [![Predictive Maintenance](https://img.shields.io/badge/Predictive-Maintenance-red?style=flat&logo=aws)](https://predictivedashboard-vikrantthenge.streamlit.app/)
 [![Revenue Forecasting](https://img.shields.io/badge/Revenue-Forecasting-yellow?style=flat&logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
+[![Safety Risk Analytics](https://img.shields.io/badge/Safety%20Risk-Analytics-orange?style=flat&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
