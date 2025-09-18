@@ -77,7 +77,6 @@ From Streamlit apps to Power BI dashboards, every project in this portfolio is c
 Simulates 500+ crew assignment scenarios with violation alerts and Gantt-style scheduling.  
 Includes auto-loaded sample data, mobile layout, and embedded resume access.  
 [![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?style=for-the-badge&logo=streamlit)](https://crew-optimizer.streamlit.app/)  
-> ⚠️ *Note: This app is currently under maintenance. Please refer to the GitHub summary for project details.*
 
 ### 🔹 Flight Delay Predictor  
 Predicts flight delays using airline, route, and weather data with real-time model inference.  
