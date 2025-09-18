@@ -99,14 +99,13 @@ Scrapes listings from LinkedIn, Naukri, and Indeed; tracks recruiter outreach.
 ### 🔹 Predictive Maintenance Optimization  
 Detects anomalies and optimizes maintenance schedules using time-series models.  
 Reduced downtime by 25% and logistics costs by 18%.  
-[![View Project Summary](https://img.shields.io/badge/View-Maintenance%20Project-orange?style=for-the-badge&logo=python)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Predictive_Maintenance)  
-> ⚠️ *Note: This app is currently under maintenance. Please refer to the GitHub summary for project details.*
+[![View Project Summary](https://img.shields.io/badge/View-Maintenance%20Project-orange?style=for-the-badge&logo=python)](https://predictivedashboard-vikrantthenge.streamlit.app/)  
 
 ### 🔹 Revenue Forecasting & Optimization  
 Forecasts demand and pricing scenarios using Excel and Power BI dashboards.  
 Improved profitability by 12% through scenario modeling and KPI tracking.  
 [![View Revenue Dashboard](https://img.shields.io/badge/View-Revenue%20Dashboard-green?style=for-the-badge&logo=powerbi)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Revenue_Forecasting)  
-> ⚠️ *Note: This app is currently under maintenance. Please refer to the GitHub summary for project details.*
+
 
 ### 🔹 Operational Safety & Risk Analytics  
 Detects flight incident patterns and operational risks using PySpark, Delta Lake, and Unity Catalog.  
