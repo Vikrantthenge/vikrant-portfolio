@@ -138,7 +138,6 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 - Processed **50K+** rows of operational data using Delta Lake and Unity Catalog  
 - Built ETL pipelines across **Snowflake, Databricks**, and major cloud platforms  
 - Deployed apps on **Heroku** and **Streamlit Cloud** with mobile-friendly UX
-- 
 
 ---
 
@@ -152,4 +151,3 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 [![Predictive Maintenance](https://img.shields.io/badge/Predictive-Maintenance-red?style=flat&logo=aws)](https://predictivedashboard-vikrantthenge.streamlit.app/)
 [![Revenue Forecasting](https://img.shields.io/badge/Revenue-Forecasting-yellow?style=flat&logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
 [![Safety Risk Analytics](https://img.shields.io/badge/Safety%20Risk-Analytics-orange?style=flat&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
-
