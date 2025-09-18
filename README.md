@@ -124,7 +124,7 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 - **JobBot Automation** – Resume parsing, keyword matching, and job scraping  
 - **Predictive Maintenance** – Time-series anomaly detection and cost optimization  
 - **Revenue Forecasting** – Excel + Power BI dashboards improving profitability by 12%  
-- **Safety Risk Analytics** – PySpark ETL, ML risk detection, Delta Lake storage, Unity Catalog integration
+- **Operational Safety & Risk Analytics** – PySpark ETL, ML risk detection, Delta Lake storage, Unity Catalog integration
 
 ---
 
