@@ -14,7 +14,7 @@
 
 I'm **Vikrant Thenge**, a strategic data analyst and analytics professional who transforms raw data into business clarity. My work spans predictive modeling, risk analytics, and dashboard-driven storytelling—built not just to inform, but to influence decisions across industries.
 
-With a strong foundation in Python, SQL, Power BI, and cloud platforms, I design solutions that combine **technical depth with strategic insight**. From anomaly detection to revenue forecasting, every project in this portfolio is crafted to demonstrate **real-world impact**, **cross-domain versatility**, and **recruiter-ready polish**.
+With a foundation in Python, SQL, Power BI, and cloud platforms, I design solutions that combine **technical depth with strategic insight**. From anomaly detection to revenue forecasting, every project in this portfolio is crafted to demonstrate **real-world impact**, **cross-domain versatility**, and **recruiter-ready polish**.
 
 I don’t just build apps—I architect data flows, optimize pipelines, and surface insights that drive measurable outcomes. Whether it's streamlining operations, forecasting demand, or detecting risk, I focus on what matters most: **turning data into decisions**.
 
