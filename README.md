@@ -119,7 +119,6 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 ## 📁 Project Summaries
 
 - **Crew Ops Optimization** – Scheduling logic, Gantt views, and constraint violation tracking  
-- **Crew Ops Optimization** – Scheduling logic, Gantt views, and constraint violation tracking  
 - **Flight Delay Predictor** – ML classification with weather, route, and airline inputs  
 - **Sentiment Analyzer** – NLP-powered app with transformer models and visual scoring  
 - **JobBot Automation** – Resume parsing, keyword matching, and job scraping  
