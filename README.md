@@ -76,7 +76,8 @@ From Streamlit apps to Power BI dashboards, every project in this portfolio is c
 ### 🔹 Crew Ops – Airline Crew Optimization Dashboard  
 Simulates 500+ crew assignment scenarios with violation alerts and Gantt-style scheduling.  
 Includes auto-loaded sample data, mobile layout, and embedded resume access.  
-[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?style=for-the-badge&logo=streamlit)](https://crewops-vikrant.streamlit.app/)
+[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?style=for-the-badge&logo=streamlit)](https://crew-optimizer.streamlit.app/)  
+> ⚠️ *Note: This app is currently under maintenance. Please refer to the GitHub summary for project details.*
 
 ### 🔹 Flight Delay Predictor  
 Predicts flight delays using airline, route, and weather data with real-time model inference.  
@@ -96,12 +97,21 @@ Scrapes listings from LinkedIn, Naukri, and Indeed; tracks recruiter outreach.
 ### 🔹 Predictive Maintenance Optimization  
 Detects anomalies and optimizes maintenance schedules using time-series models.  
 Reduced downtime by 25% and logistics costs by 18%.  
-[![View Project Summary](https://img.shields.io/badge/View-Maintenance%20Project-orange?style=for-the-badge&logo=python)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Predictive_Maintenance)
+[![View Project Summary](https://img.shields.io/badge/View-Maintenance%20Project-orange?style=for-the-badge&logo=python)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Predictive_Maintenance)  
+> ⚠️ *Note: This app is currently under maintenance. Please refer to the GitHub summary for project details.*
 
 ### 🔹 Revenue Forecasting & Optimization  
 Forecasts demand and pricing scenarios using Excel and Power BI dashboards.  
 Improved profitability by 12% through scenario modeling and KPI tracking.  
-[![View Revenue Dashboard](https://img.shields.io/badge/View-Revenue%20Dashboard-green?style=for-the-badge&logo=powerbi)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Revenue_Forecasting)
+[![View Revenue Dashboard](https://img.shields.io/badge/View-Revenue%20Dashboard-green?style=for-the-badge&logo=powerbi)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Revenue_Forecasting)  
+> ⚠️ *Note: This app is currently under maintenance. Please refer to the GitHub summary for project details.*
+
+### 🔹 Operational Safety & Risk Analytics  
+Detects flight incident patterns and operational risks using PySpark, Delta Lake, and Unity Catalog.  
+Processes 50K+ rows of incident data with ML classification and modular ETL pipelines.  
+Includes notebook-based summaries, branded markdown headers, and recruiter-facing clarity.  
+[![View Safety Risk Project](https://img.shields.io/badge/View-Safety%20Risk%20Analytics-orange?style=for-the-badge&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+
 
 ---
 
