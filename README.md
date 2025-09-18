@@ -1,6 +1,6 @@
 # Vikrant Thenge – Strategic Data Analyst
 
-**Data Analyst | Predictive Analytics | Python | Power BI | Cloud Automation**
+**Data Analyst | Predictive Analytics | Python | SQL |Power BI | Cloud Automation**
 
 ---
 
