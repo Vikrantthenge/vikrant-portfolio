@@ -9,7 +9,6 @@
 ---
 
 ### 📎 Scan to view my GitHub portfolio  
-
 ![QR Code](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png)
 
 <p align="left">
