@@ -1,6 +1,5 @@
-<div style="width:100%; background-color:#8B0000; padding:20px; border-radius:10px; border:3px solid #5A0000; text-align:center;">
-  <span style="color:white; font-size:2em; font-weight:bold;">
-    Vikrant Thenge – Strategic Data Analyst</span>
+<div style="background-color:#8B0000; padding:20px; border-radius:8px; text-align:center; border:2px solid #5A0000;">
+  <h1 style="color:white; font-size:2em; margin:0;">Vikrant Thenge – Strategic Data Analyst</h1>
 </div>
 
   
