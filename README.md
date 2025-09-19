@@ -2,6 +2,9 @@
   <img src="https://img.shields.io/badge/Vikrant%20Thenge%20–%20Strategic%20Data%20Analyst-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=5A0000" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Vikrant%20Thenge%20–%20Strategic%20Data%20Analyst-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=5A0000" />
+</p>
 
 <div style="width:100%; background-color:#8B0000; padding:25px; border-radius:10px; border:3px solid #5A0000; text-align:center;">
   <span style="color:white; font-size:2.5em; font-weight:bold;">
