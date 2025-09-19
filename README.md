@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Vikrant%20Thenge%20–%20Strategic%20Data%20Analyst-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=5A0000" />
-</p>
+# Vikrant Thenge – Strategic Data Analyst  
+![line](https://img.shields.io/badge/-______________________________-8B0000?style=flat-square)
+
 
 
   
