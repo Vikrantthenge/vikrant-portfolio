@@ -1,7 +1,7 @@
 # Vikrant Thenge – Strategic Data Analyst
 
-[![Badge](https://img.shields.io/badge/Vikrant%20Thenge-darkblue?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/Vikrantthenge)
-[![Badge](https://img.shields.io/badge/Strategic%20Analyst-GenAI%20Powered-green?style=flat-square&logo=openai&logoColor=white)](https://github.com/Vikrantthenge)
+[![Badge](https://img.shields.io/badge/**Vikrant%20Thenge**-Strategic%20Data%20Analyst?style=flat-square&color=8B0000&labelColor=2F2F2F)](https://github.com/Vikrantthenge)  
+[![Badge](https://img.shields.io/badge/GenAI%20Powered-Portfolio?style=flat-square&color=8B0000&labelColor=2F2F2F)](https://github.com/Vikrantthenge)
 
 **Data Analyst | Predictive Analytics | Python | SQL | Power BI | Cloud Automation**
 
