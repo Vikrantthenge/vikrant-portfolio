@@ -1,9 +1,5 @@
 # Vikrant Thenge – Strategic Data Analyst  
-![line](https://img.shields.io/badge/-______________________________-8B0000?style=flat-square)
 
-
-
-  
 [![Badge](https://img.shields.io/badge/GenAI%20Powered-Portfolio?style=flat-square&color=8B0000&labelColor=8B0000&borderColor=5A0000)](https://github.com/Vikrantthenge)  
 [![Badge](https://img.shields.io/badge/Cross%20Industry%20Ready-Open%20to%20All%20Domains?style=flat-square&color=8B0000&labelColor=8B0000&borderColor=5A0000)](https://github.com/Vikrantthenge)
 
