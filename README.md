@@ -1,6 +1,6 @@
-<div style="background-color:#8B0000; padding:15px; border-radius:6px; text-align:center;">
-  <h2 style="color:white; font-size:1.8em; margin:0;">Vikrant Thenge – Strategic Data Analyst</h2>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vikrant%20Thenge%20–%20Strategic%20Data%20Analyst-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=5A0000" />
+</p>
 
 
   
