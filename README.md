@@ -1,6 +1,10 @@
 # Vikrant Thenge – Strategic Data Analyst  
+<div style="background-color:#8B0000; padding:15px; border-radius:6px; text-align:left;">
+  <span style="color:white; font-size:28px; font-weight:bold;">
+    Vikrant Thenge – Strategic Data Analyst
+  </span>
+</div>
 
-[![Badge](https://img.shields.io/badge/GenAI%20Powered-Portfolio?style=flat-square&color=8B0000&labelColor=8B0000&borderColor=5A0000)](https://github.com/Vikrantthenge)  
 [![Badge](https://img.shields.io/badge/Cross%20Industry%20Ready-Open%20to%20All%20Domains?style=flat-square&color=8B0000&labelColor=8B0000&borderColor=5A0000)](https://github.com/Vikrantthenge)
 
 **Data Analyst | Predictive Analytics | Python | SQL | Power BI | Cloud Automation**
