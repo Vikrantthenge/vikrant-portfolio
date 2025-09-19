@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="your-genai-badge.png" alt="GenAI Powered" style="margin:5px;">
-  <img src="your-cross-industry-badge.png" alt="Cross Industry Ready" style="margin:5px;">
-</p>
-
+<div style="background-color:#8B0000; padding:15px; border-radius:6px; text-align:center;">
+  <h2 style="color:white; font-size:1.8em; margin:0;">Vikrant Thenge – Strategic Data Analyst</h2>
+</div>
 
 
   
