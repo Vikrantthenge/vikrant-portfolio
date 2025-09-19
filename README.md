@@ -1,5 +1,9 @@
-<div style="background-color:#8B0000; padding:20px; border-radius:8px; text-align:center; border:2px solid #5A0000;">
-  <h1 style="color:white; font-size:2em; margin:0;">Vikrant Thenge – Strategic Data Analyst</h1></div>
+<div style="width:100%; background-color:#8B0000; padding:20px; border-radius:10px; border:3px solid #5A0000; text-align:center;">
+  <span style="color:white; font-size:2em; font-weight:bold;">
+    Vikrant Thenge – Strategic Data Analyst
+  </span>
+</div>
+
   
 [![Badge](https://img.shields.io/badge/GenAI%20Powered-Portfolio?style=flat-square&color=8B0000&labelColor=8B0000&borderColor=5A0000)](https://github.com/Vikrantthenge)  
 [![Badge](https://img.shields.io/badge/Cross%20Industry%20Ready-Open%20to%20All%20Domains?style=flat-square&color=8B0000&labelColor=8B0000&borderColor=5A0000)](https://github.com/Vikrantthenge)
