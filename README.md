@@ -1,4 +1,4 @@
-# Vikrant Thenge – Strategic Data Analyst
+# Vikrant Thenge – Strategic Data Analyst [![Badge](https://img.shields.io/badge/Vikrant%20Thenge-Data%20Analytics%20Leader-darkblue?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/Vikrantthenge)
 
 **Data Analyst | Predictive Analytics | Python | SQL | Power BI | Cloud Automation**
 
