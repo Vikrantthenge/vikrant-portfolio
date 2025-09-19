@@ -2,7 +2,6 @@
   <img src="https://img.shields.io/badge/Vikrant%20Thenge%20–%20Strategic%20Data%20Analyst-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=5A0000" />
 </p>
 
-    Vikrant Thenge – Strategic Data Analyst
   </span>
   <br><br>
   <span style="display:inline-block; background-color:#8B0000; color:white; font-size:1em; font-weight:bold; padding:6px 12px; margin:4px; border:2px solid white; border-radius:6px;">
