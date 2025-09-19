@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Vikrant%20Thenge%20–%20Strategic%20Data%20Analyst-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=5A0000" />
 </p>
 
+[![Badge](https://img.shields.io/badge/GenAI%20Powered-Portfolio?style=flat-square&color=8B0000&labelColor=8B0000&borderColor=5A0000)](https://github.com/Vikrantthenge)  
 [![Badge](https://img.shields.io/badge/Cross%20Industry%20Ready-Open%20to%20All%20Domains?style=flat-square&color=8B0000&labelColor=8B0000&borderColor=5A0000)](https://github.com/Vikrantthenge)
 
 **Data Analyst | Predictive Analytics | Python | SQL | Power BI | Cloud Automation**
