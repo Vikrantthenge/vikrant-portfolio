@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Vikrant%20Thenge%20–%20Strategic%20Data%20Analyst-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=5A0000" />
+  <img src="your-genai-badge.png" alt="GenAI Powered" style="margin:5px;">
+  <img src="your-cross-industry-badge.png" alt="Cross Industry Ready" style="margin:5px;">
 </p>
+
 
 
   
