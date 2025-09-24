@@ -7,6 +7,8 @@
 
 
 ---
+### 📎 Scan to view my GitHub portfolio  
+<p align="left"><img src="https://img.shields.io/badge/Vikrant%20Thenge%20–%20Strategic%20Data%20Analyst-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=5A0000" /></p>
 
 ### 📎 Scan to view my GitHub portfolio  
 ![QR Code](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png)
