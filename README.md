@@ -16,8 +16,6 @@
 
 > 🔗 [Click here if QR doesn't scan](https://github.com/Vikrantthenge/vikrant-portfolio/tree/main)
 
-> 🔗 [Click here if QR doesn't scan](https://github.com/Vikrantthenge/vikrant-portfolio)
-
 ### 📎 Scan to view my GitHub portfolio  
 ![QR Code](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png)
 <p align="left">
