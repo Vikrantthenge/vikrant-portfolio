@@ -156,3 +156,6 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 [![Predictive Maintenance](https://img.shields.io/badge/Predictive-Maintenance-red?style=flat&logo=aws)](https://predictivedashboard-vikrantthenge.streamlit.app/)
 [![Revenue Forecasting](https://img.shields.io/badge/Revenue-Forecasting-yellow?style=flat&logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
 [![Safety Risk Analytics](https://img.shields.io/badge/Safety%20Risk-Analytics-orange?style=flat&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+
+
+[![JobBot](https://img.shields.io/badge/JobBot-Automation-8B0000?style=for-the-badge&logo=streamlit&logoColor=white)](https://jobsearchmatch.streamlit.app/)
