@@ -99,7 +99,14 @@ Displays confidence scores and sentiment distribution in a recruiter-facing UI.
 ### 🔹 Job Application Automation Bot  
 Automates job search workflows with resume parsing and keyword matching.  
 Scrapes listings from LinkedIn, Naukri, and Indeed; tracks recruiter outreach.  
-[![Launch JobBot App](https://img.shields.io/badge/Launch-JobBot-blue?style=for-the-badge&logo=streamlit)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
+
+<p align="center">
+  <a href="https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/">
+    <img src="https://img.shields.io/badge/Launch-JobBot-blue?style=for-the-badge&logo=streamlit" alt="Launch JobBot App">
+  </a>
+</p>
+[![Launch JobSearchMatch App](https://img.shields.io/badge/Launch-JobSearchMatch-blue?style=for-the-badge&logo=streamlit)](https://jobsearchmatch.streamlit.app/)
+
 
 ### 🔹 Predictive Maintenance Optimization  
 Detects anomalies and optimizes maintenance schedules using time-series models.  
