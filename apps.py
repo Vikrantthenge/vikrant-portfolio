@@ -28,14 +28,15 @@ try:
             <img src='data:image/png;base64,{img_base64}' width='60'>
             <span style='font-size: 20px; font-weight: 600; color: #8B0000;'>Built for Data. Ready for Impact.</span>
         </div>
-    """, unsafe_allow_html=True)
-except FileNotFoundError:
-    st.warning("Logo file not found.")
-    st.markdown("""
+        st.markdown("""
     <div style='text-align: center; font-size: 24px; font-weight: bold; color: #8B0000; margin-bottom: 20px;'>
         🧭 <span style='color:#333;'>Job Bot</span> – <span style='color:#8B0000;'>Auto Apply + Resume Enhancer + Drift Monitor</span>
     </div>
 """, unsafe_allow_html=True)
+    """, unsafe_allow_html=True)
+except FileNotFoundError:
+    st.warning("Logo file not found.")
+    
 
 # --- Resume Upload ---
 st.subheader("📤 Upload Your Resume")
