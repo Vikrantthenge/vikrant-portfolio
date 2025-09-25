@@ -154,7 +154,7 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 [![Crew Ops Dashboard](https://img.shields.io/badge/Crew%20Ops-Dashboard-blue?style=flat&logo=streamlit)](https://crew-optimizer.streamlit.app/)
 [![Flight Delay Predictor](https://img.shields.io/badge/Flight%20Delay-Predictor-orange?style=flat&logo=python)](https://flight-delay-predictor-pulse.streamlit.app/)
 [![Airline Sentiment Analyzer](https://img.shields.io/badge/Sentiment-Analyzer-green?style=flat&logo=huggingface)](https://sentiment-analyzer-vikrant.streamlit.app/)
-[![Job Application Bot](https://img.shields.io/badge/Job%20App-Automation%20Bot-purple?style=flat&logo=python)](https://job-bot-showcase-8dykqf8ngrqtzh5en7txnk.streamlit.app/)
+[![JobSearchMatch](https://img.shields.io/badge/Job%20Match-Search%20Optimizer-teal?style=flat&logo=streamlit)](https://jobsearchmatch.streamlit.app/)
 [![Predictive Maintenance](https://img.shields.io/badge/Predictive-Maintenance-red?style=flat&logo=aws)](https://predictivedashboard-vikrantthenge.streamlit.app/)
 [![Revenue Forecasting](https://img.shields.io/badge/Revenue-Forecasting-yellow?style=flat&logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
 [![Safety Risk Analytics](https://img.shields.io/badge/Safety%20Risk-Analytics-orange?style=flat&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
