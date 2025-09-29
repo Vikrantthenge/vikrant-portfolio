@@ -25,8 +25,7 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 
 📍 Dombivli, Mumbai, Maharashtra, India
 
-Dombivli, Mumbai](https://img.shields.io/badge/VT%20Based-Dombivli%2C%20Mumbai-darkgreen?style=for-the-badge&logo=googlemaps)
-
+![: Dombivli, Mumbai](https://img.shields.io/badge/VT%20Based-Dombivli%2C%20Mumbai-darkgreen?style=for-the-badge&logo=googlemaps)
 ---
 
 ## 📬 Contact
