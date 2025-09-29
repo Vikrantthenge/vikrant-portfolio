@@ -86,10 +86,12 @@ Simulates 500+ crew assignment scenarios with violation alerts and Gantt-style s
 Includes auto-loaded sample data, mobile layout, and embedded resume access.  
 [![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?style=for-the-badge&logo=streamlit)](https://crew-optimizer.streamlit.app/)  
 
+
 ### 🔹 Flight Delay Predictor  
-Predicts flight delays using airline, route, and weather data with real-time model inference.  
-Includes ML classification with probability outputs and interactive visualizations.  
+Predicts flight delays using airline, route, and weather data with real-time ML inference and probability outputs  
+Includes unclipped SHAP summary plots with toggle options for feature importance transparency
 [![Launch Flight Delay App](https://img.shields.io/badge/Launch-FlightPulse-darkred?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
+
 
 ### 🔹 Airline Sentiment Analyzer  
 Analyzes sentiment from uploaded CSVs using Hugging Face transformers.  
