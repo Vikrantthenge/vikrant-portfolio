@@ -160,6 +160,5 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 [![Safety Risk Analytics](https://img.shields.io/badge/Safety%20Risk-Analytics-orange?style=flat&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
 
-<img width="335" height="30" alt="image" src="https://github.com/user-attachments/assets/57d3d7ce-df60-4f4e-b0d9-023ac79a09fc" />
 
 🕒 **Last Updated:** September 2025  
