@@ -90,6 +90,7 @@ Includes auto-loaded sample data, mobile layout, and embedded resume access.
 ### 🔹 Flight Delay Predictor  
 Predicts flight delays using airline, route, and weather data with real-time ML inference and probability outputs  
 Includes unclipped SHAP summary plots with toggle options for feature importance transparency
+
 [![Launch Flight Delay App](https://img.shields.io/badge/Launch-FlightPulse-darkred?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
 
 
