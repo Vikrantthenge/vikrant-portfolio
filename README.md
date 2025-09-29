@@ -23,11 +23,6 @@ With a foundation in Python, SQL, Power BI, and cloud platforms, I design soluti
 
 I don’t just build apps—I architect data flows, optimize pipelines, and surface insights that drive measurable outcomes. Whether it's streamlining operations, forecasting demand, or detecting risk, I focus on what matters most: **turning data into decisions**.
 
-📍 Dombivli, Mumbai, Maharashtra, India
-
-![Dombivli, Mumbai, Maharashtra, India](https://img.shields.io/badge/Dombivli%2C%20Mumbai%2C%20Maharashtra%2C%20India-darkgreen?style=for-the-badge&logo=googlemaps)
-
-![Dombivli, Mumbai, Maharashtra, India](https://img.shields.io/badge/Dombivli%2C%20Mumbai%2C%20Maharashtra%2C%20India-gradient?style=for-the-badge&logo=googlemaps)
 
 ![Dombivli, Mumbai, Maharashtra, India](https://img.shields.io/badge/Dombivli%2C%20Mumbai%2C%20Maharashtra%2C%20India-darkred?style=for-the-badge&logo=googlemaps)
 ---
