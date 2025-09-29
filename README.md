@@ -42,15 +42,16 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 ![SQL](https://img.shields.io/badge/SQL-Queries-darkblue?style=flat-square&logo=mysql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-green?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-green?style=flat-square&logo=microsoftexcel&logoColor=white)  
+![SHAP](https://img.shields.io/badge/SHAP-Model%20Explainability-purple?style=flat-square&logo=plotly&logoColor=white)
 
-### 🔹 Cloud & Deployment
+### 🔹 Cloud & Deployment  
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white)  
 ![GCP](https://img.shields.io/badge/GCP-Cloud-blue?style=flat-square&logo=googlecloud&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-Cloud-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/Heroku-Deployment-purple?style=flat-square&logo=heroku&logoColor=white)
 
-### 🔹 CI/CD & Automation 
+### 🔹 CI/CD & Automation  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 🔹 Data Engineering & Storage  
