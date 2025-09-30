@@ -125,15 +125,6 @@ Processes 50K+ rows of incident data with ML classification and modular ETL pipe
 Includes notebook-based summaries, branded markdown headers, and recruiter-facing clarity.  
 [![View Safety Risk Project](https://img.shields.io/badge/View-Safety%20Risk%20Analytics-orange?style=for-the-badge&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
-### 🚀 Explore My Live Projects
-
-[![Crew Ops – Dashboard](https://img.shields.io/badge/Crew_Ops-Dashboard-gray?style=for-the-badge&logo=streamlit)](https://crew-optimizer.streamlit.app/)
-[![Flight Delay – Predictor](https://img.shields.io/badge/Flight_Delay-Predictor-blue?style=for-the-badge&logo=python)](https://flight-delay-predictor-pulse.streamlit.app/)
-[![Sentiment – Analyzer](https://img.shields.io/badge/Sentiment-Analyzer-orange?style=for-the-badge&logo=huggingface)](https://sentiment-analyzer-vikrant.streamlit.app/)
-[![Job Match – Search Optimizer](https://img.shields.io/badge/Job_Match-Search_Optimizer-red?style=for-the-badge&logo=streamlit)](https://jobsearchmatch.streamlit.app/)
-[![Predictive – Maintenance](https://img.shields.io/badge/Predictive-Maintenance-yellowgreen?style=for-the-badge&logo=aws)](https://predictivedashboard-vikrantthenge.streamlit.app/)
-[![Revenue – Forecasting](https://img.shields.io/badge/Revenue-Forecasting-green?style=for-the-badge&logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
-[![Safety Risk – Analytics](https://img.shields.io/badge/Safety_Risk-Analytics-lightgrey?style=for-the-badge&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 ---
 
 ## 📁 Project Summaries
