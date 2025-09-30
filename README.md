@@ -175,3 +175,21 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 
 
 🕒 **Last Updated:** September 2025  
+
+## 📌 Every project here is built for clarity, polish, and recruiter conversion. Let’s connect!
+
+### 🚀 Explore My Live Projects
+[![Crew Ops](...)](...)
+[![Flight Delay Predictor](...)](...)
+...
+
+## 📁 Project Summaries
+...
+
+## 📊 Highlights
+...
+
+---
+
+📌 Portfolio Footer  
+🕒 **Last Updated:** September 2025
