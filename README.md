@@ -161,7 +161,7 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 
 ---
 
-📌 Every project here is built for clarity, polish, and recruiter conversion. Let’s connect!
+🎯 Every project here is built for clarity, impact, and real-world problem solving—from dashboards to bots to predictive models.
 
 
 [![Crew Ops Dashboard](https://img.shields.io/badge/Crew%20Ops-Dashboard-blue?style=flat&logo=streamlit)](https://crew-optimizer.streamlit.app/)
