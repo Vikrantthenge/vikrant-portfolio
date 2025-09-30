@@ -82,15 +82,6 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 
 > ⚠️ If any app shows a “Zzzz” screen, it's just waking up from sleep. Click “Yes” to load — it takes only a few seconds!
 >
-> ### 📱 Live Projects
-
-[![Crew Ops – Dashboard](https://img.shields.io/badge/Crew_Ops-Dashboard-gray?style=for-the-badge&logo=streamlit)](https://crew-optimizer.streamlit.app/)
-[![Flight Delay – Predictor](https://img.shields.io/badge/Flight_Delay-Predictor-blue?style=for-the-badge&logo=python)](https://flight-delay-predictor-pulse.streamlit.app/)
-[![Sentiment – Analyzer](https://img.shields.io/badge/Sentiment-Analyzer-orange?style=for-the-badge&logo=huggingface)](https://sentiment-analyzer-vikrant.streamlit.app/)
-[![Job Match – Search Optimizer](https://img.shields.io/badge/Job_Match-Search_Optimizer-red?style=for-the-badge&logo=streamlit)](https://jobsearchmatch.streamlit.app/)
-[![Predictive – Maintenance](https://img.shields.io/badge/Predictive-Maintenance-yellowgreen?style=for-the-badge&logo=aws)](https://predictivedashboard-vikrantthenge.streamlit.app/)
-[![Revenue – Forecasting](https://img.shields.io/badge/Revenue-Forecasting-green?style=for-the-badge&logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
-[![Safety Risk – Analytics](https://img.shields.io/badge/Safety_Risk-Analytics-lightgrey?style=for-the-badge&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
 ### 🔹 Crew Ops – Airline Crew Optimization Dashboard  
 Simulates 500+ crew assignment scenarios with violation alerts and Gantt-style scheduling.  
@@ -136,14 +127,13 @@ Includes notebook-based summaries, branded markdown headers, and recruiter-facin
 
 ### 🚀 Explore My Live Projects
 
-[![Crew Ops](https://img.shields.io/badge/Launch-Crew_Ops-gray?style=for-the-badge)](https://crew-ops.streamlit.app)
-[![Flight Delay Predictor](https://img.shields.io/badge/Launch-Flight_Delay-blue?style=for-the-badge)](https://flight-delay-predictor-pulse.streamlit.app)
-[![Sentiment Analyzer](https://img.shields.io/badge/Launch-Sentiment_Analyzer-orange?style=for-the-badge)](https://sentiment-analyzer-vt.streamlit.app)
-[![Job Search Bot](https://img.shields.io/badge/Launch-Job_Search-red?style=for-the-badge)](https://job-search-match.streamlit.app)
-[![Maintenance Optimizer](https://img.shields.io/badge/View-Maintenance_Optimizer-yellowgreen?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio#predictive-maintenance-optimization)
-[![Revenue Forecasting](https://img.shields.io/badge/View-Revenue_Forecasting-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio#revenue-forecasting--optimization)
-[![Safety Risk Analytics](https://img.shields.io/badge/View-Safety_Risk_Analytics-lightgrey?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio#operational-safety--risk-analytics)
-
+[![Crew Ops – Dashboard](https://img.shields.io/badge/Crew_Ops-Dashboard-gray?style=for-the-badge&logo=streamlit)](https://crew-optimizer.streamlit.app/)
+[![Flight Delay – Predictor](https://img.shields.io/badge/Flight_Delay-Predictor-blue?style=for-the-badge&logo=python)](https://flight-delay-predictor-pulse.streamlit.app/)
+[![Sentiment – Analyzer](https://img.shields.io/badge/Sentiment-Analyzer-orange?style=for-the-badge&logo=huggingface)](https://sentiment-analyzer-vikrant.streamlit.app/)
+[![Job Match – Search Optimizer](https://img.shields.io/badge/Job_Match-Search_Optimizer-red?style=for-the-badge&logo=streamlit)](https://jobsearchmatch.streamlit.app/)
+[![Predictive – Maintenance](https://img.shields.io/badge/Predictive-Maintenance-yellowgreen?style=for-the-badge&logo=aws)](https://predictivedashboard-vikrantthenge.streamlit.app/)
+[![Revenue – Forecasting](https://img.shields.io/badge/Revenue-Forecasting-green?style=for-the-badge&logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
+[![Safety Risk – Analytics](https://img.shields.io/badge/Safety_Risk-Analytics-lightgrey?style=for-the-badge&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 ---
 
 ## 📁 Project Summaries
