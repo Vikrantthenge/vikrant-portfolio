@@ -124,6 +124,15 @@ Processes 50K+ rows of incident data with ML classification and modular ETL pipe
 Includes notebook-based summaries, branded markdown headers, and recruiter-facing clarity.  
 [![View Safety Risk Project](https://img.shields.io/badge/View-Safety%20Risk%20Analytics-orange?style=for-the-badge&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
+### 🚀 Explore My Live Projects
+
+[![Crew Ops](https://img.shields.io/badge/Launch-Crew_Ops-gray?style=for-the-badge)](https://crew-ops.streamlit.app)
+[![Flight Delay Predictor](https://img.shields.io/badge/Launch-Flight_Delay-blue?style=for-the-badge)](https://flight-delay-predictor-pulse.streamlit.app)
+[![Sentiment Analyzer](https://img.shields.io/badge/Launch-Sentiment_Analyzer-orange?style=for-the-badge)](https://sentiment-analyzer-vt.streamlit.app)
+[![Job Search Bot](https://img.shields.io/badge/Launch-Job_Search-red?style=for-the-badge)](https://job-search-match.streamlit.app)
+[![Maintenance Optimizer](https://img.shields.io/badge/View-Maintenance_Optimizer-yellowgreen?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio#predictive-maintenance-optimization)
+[![Revenue Forecasting](https://img.shields.io/badge/View-Revenue_Forecasting-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio#revenue-forecasting--optimization)
+[![Safety Risk Analytics](https://img.shields.io/badge/View-Safety_Risk_Analytics-lightgrey?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio#operational-safety--risk-analytics)
 
 ---
 
