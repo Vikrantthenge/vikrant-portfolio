@@ -43,8 +43,6 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=flat-square&logo=streamlit&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-green?style=flat-square&logo=microsoftexcel&logoColor=white)  
-![SHAP](https://img.shields.io/badge/SHAP-Model%20Explainability-purple?style=flat-square&logo=plotly&logoColor=white)
-[![spaCy](https://img.shields.io/badge/spaCy-NLP-blue?style=for-the-badge)](https://spacy.io/)
 ![SHAP](https://img.shields.io/badge/SHAP-Model%20Explainability-purple?style=flat-square&logo=plotly&logoColor=white)  
 ![spaCy](https://img.shields.io/badge/spaCy-NLP-blue?style=flat-square&logo=spacy&logoColor=white)
 
