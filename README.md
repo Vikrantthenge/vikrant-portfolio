@@ -45,6 +45,8 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 ![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-green?style=flat-square&logo=microsoftexcel&logoColor=white)  
 ![SHAP](https://img.shields.io/badge/SHAP-Model%20Explainability-purple?style=flat-square&logo=plotly&logoColor=white)
 [![spaCy](https://img.shields.io/badge/spaCy-NLP-blue?style=for-the-badge)](https://spacy.io/)
+![SHAP](https://img.shields.io/badge/SHAP-Model%20Explainability-purple?style=flat-square&logo=plotly&logoColor=white)  
+![spaCy](https://img.shields.io/badge/spaCy-NLP-blue?style=flat-square&logo=spacy&logoColor=white)
 
 ### 🔹 Cloud & Deployment  
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white)  
