@@ -96,7 +96,7 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 [![GitHub – Job Bot](https://img.shields.io/badge/GitHub-JobBot_Repo-gray?logo=github)](https://github.com/Vikrantthenge/job_search)
 
 [![Launch Maintenance App](https://img.shields.io/badge/Launch-Maintenance_App-orange?logo=streamlit)](https://predictivedashboard-vikrantthenge.streamlit.app/)
-[![GitHub – Maintenance](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive-maintenance-dashboard)
+[![GitHub – Maintenance](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive_dashboard)
 
 [![Launch Revenue Forecast App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=streamlit)](https://airline-revenue-forecast.streamlit.app/)
 [![GitHub – Revenue](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
