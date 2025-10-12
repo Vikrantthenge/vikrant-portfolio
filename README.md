@@ -79,52 +79,29 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 
 ---
 
-## 📱 Live Projects
+### 📱 Live Projects
 
 > ⚠️ If any app shows a “Zzzz” screen, it's just waking up from sleep. Click “Yes” to load — it takes only a few seconds!
->
 
-### 🔹 Crew Ops – Airline Crew Optimization Dashboard  
-Simulates 500+ crew assignment scenarios with violation alerts and Gantt-style scheduling.  
-Includes auto-loaded sample data, mobile layout, and embedded resume access.  
-[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?style=for-the-badge&logo=streamlit)](https://crew-optimizer.streamlit.app/)  
+[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-CrewOps_Repo-gray?logo=github)](https://github.com/Vikrantthenge/crew-optimizer)
 
+[![Launch FlightPulse App](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
+[![GitHub](https://img.shields.io/badge/GitHub-Flight_Delay_Repo-gray?logo=github)](https://github.com/Vikrantthenge/flight-delay-predictor)
 
-### 🔹 Flight Delay Predictor  
-Predicts flight delays using airline, route, and weather data with real-time ML inference and probability outputs  
-Includes unclipped SHAP summary plots with toggle options for feature importance transparency
+[![Launch Sentiment Analyzer](https://img.shields.io/badge/Launch-Sentiment_Analyzer-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/airline-sentiment-analyzer)
 
-[![Launch Flight Delay App](https://img.shields.io/badge/Launch-FlightPulse-darkred?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
+[![Launch JobSearchMatch](https://img.shields.io/badge/Launch-JobSearchMatch-blue?logo=streamlit)](https://jobsearchmatch.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-JobBot_Repo-gray?logo=github)](https://github.com/Vikrantthenge/job_search)
 
+[![Launch Maintenance App](https://img.shields.io/badge/Launch-Maintenance_App-orange?logo=streamlit)](https://predictivedashboard-vikrantthenge.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive-maintenance-dashboard)
 
-### 🔹 Airline Sentiment Analyzer  
-Analyzes sentiment from uploaded CSVs using Hugging Face transformers.  
-Displays confidence scores and sentiment distribution in a recruiter-facing UI.  
-[![Launch Sentiment App](https://img.shields.io/badge/Launch-Sentiment%20Analyzer-purple?style=for-the-badge&logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
+[![Launch Revenue Forecast App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=streamlit)](https://airline-revenue-forecast.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Revenue_Forecasting)
 
-### 🔹 Job Application Automation Bot  
-Automates job search workflows with resume parsing and keyword matching.  
-Scrapes listings from LinkedIn, Naukri, and Indeed; tracks recruiter outreach.
-
-[![Launch JobSearchMatch App](https://img.shields.io/badge/Launch-JobSearchMatch-blue?style=for-the-badge&logo=streamlit)](https://jobsearchmatch.streamlit.app/)
-
-
-### 🔹 Predictive Maintenance Optimization  
-Detects anomalies and optimizes maintenance schedules using time-series models.  
-Reduced downtime by 25% and logistics costs by 18%.  
-[![View Project Summary](https://img.shields.io/badge/View-Maintenance%20Project-orange?style=for-the-badge&logo=python)](https://predictivedashboard-vikrantthenge.streamlit.app/)  
-
-### 🔹 Revenue Forecasting & Optimization  
-Forecasts demand and pricing scenarios using Excel and Power BI dashboards.  
-Improved profitability by 12% through scenario modeling and KPI tracking.  
-[![View Revenue Dashboard](https://img.shields.io/badge/View-Revenue%20Dashboard-green?style=for-the-badge&logo=powerbi)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/tree/main/Revenue_Forecasting)  
-
-
-### 🔹 Operational Safety & Risk Analytics  
-Detects flight incident patterns and operational risks using PySpark, Delta Lake, and Unity Catalog.  
-Processes 50K+ rows of incident data with ML classification and modular ETL pipelines.  
-Includes notebook-based summaries, branded markdown headers, and recruiter-facing clarity.  
-[![View Safety Risk Project](https://img.shields.io/badge/View-Safety%20Risk%20Analytics-orange?style=for-the-badge&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+[![View Safety Risk Project](https://img.shields.io/badge/View-Safety_Risk_Analytics-orange?logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
 ---
 
