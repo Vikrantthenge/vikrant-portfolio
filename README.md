@@ -140,5 +140,5 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 [![Safety Risk Analytics](https://img.shields.io/badge/Safety%20Risk-Analytics-orange?style=flat&logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
 
-🕒 **Last Updated:** September 2025  
+🕒 **Last Updated:** October 2025  
 
