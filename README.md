@@ -97,6 +97,8 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 
 [![Launch Maintenance App](https://img.shields.io/badge/Launch-Maintenance_App-orange?logo=streamlit)](https://predictivedashboard-vikrantthenge.streamlit.app/)
 [![GitHub – Maintenance](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive_dashboard)
+[![View Safety Risk Project](https://img.shields.io/badge/View-Safety_Risk_Analytics-orange?logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+
 
 [![Launch Revenue Forecast App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=streamlit)](https://airline-revenue-forecast.streamlit.app/)
 [![GitHub – Revenue](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
@@ -123,7 +125,6 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 [![Launch Revenue Forecast App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=streamlit)](https://airline-revenue-forecast.streamlit.app/)
 [![GitHub – Revenue](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
 
-[![View Safety Risk Project](https://img.shields.io/badge/View-Safety_Risk_Analytics-orange?logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
 ## 📁 Project Summaries
 
