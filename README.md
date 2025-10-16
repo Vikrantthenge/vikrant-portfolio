@@ -90,25 +90,6 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 [![GitHub – Flight Delay](https://img.shields.io/badge/GitHub-Flight_Delay_Repo-gray?logo=github)](https://github.com/Vikrantthenge/flight-delay-predictor)
 
 [![Launch Sentiment Analyzer](https://img.shields.io/badge/Launch-Sentiment_Analyzer-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
-[![GitHub – Sentiment](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)
-
-[![Launch JobSearchMatch](https://img.shields.io/badge/Launch-JobSearchMatch-blue?logo=streamlit)](https://jobsearchmatch.streamlit.app/)
-[![GitHub – Job Bot](https://img.shields.io/badge/GitHub-JobBot_Repo-gray?logo=github)](https://github.com/Vikrantthenge/job_search)
-
-[![Launch Maintenance App](https://img.shields.io/badge/Launch-Maintenance_App-orange?logo=streamlit)](https://predictivedashboard-vikrantthenge.streamlit.app/)
-[![GitHub – Maintenance](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive_dashboard)
-[![View Safety Risk Project](https://img.shields.io/badge/View-Safety_Risk_Analytics-orange?logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
-
-[![Launch Revenue Forecast App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=streamlit)](https://airline-revenue-forecast.streamlit.app/)
-[![GitHub – Revenue](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
-
-[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)
-[![GitHub – CrewOps](https://img.shields.io/badge/GitHub-CrewOps_Repo-gray?logo=github)](https://github.com/Vikrantthenge/crew-optimizer)
-
-[![Launch FlightPulse App](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
-[![GitHub – Flight Delay](https://img.shields.io/badge/GitHub-Flight_Delay_Repo-gray?logo=github)](https://github.com/Vikrantthenge/flight-delay-predictor)
-
-[![Launch Sentiment Analyzer](https://img.shields.io/badge/Launch-Sentiment_Analyzer-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
 [![Hugging Face – Sentiment](https://img.shields.io/badge/HF_Space-Sentiment_Analyzer-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)
 [![GitHub – Sentiment](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)
 
