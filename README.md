@@ -99,11 +99,10 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 [![GitHub – Maintenance](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive_dashboard)
 [![View Safety Risk Project](https://img.shields.io/badge/View-Safety_Risk_Analytics-orange?logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
-
 [![Launch Revenue Forecast App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=streamlit)](https://airline-revenue-forecast.streamlit.app/)
 [![GitHub – Revenue](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
 
-[![[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)
+[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)
 [![GitHub – CrewOps](https://img.shields.io/badge/GitHub-CrewOps_Repo-gray?logo=github)](https://github.com/Vikrantthenge/crew-optimizer)
 
 [![Launch FlightPulse App](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
