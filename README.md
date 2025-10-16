@@ -89,8 +89,7 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 [![Launch FlightPulse App](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
 [![GitHub – Flight Delay](https://img.shields.io/badge/GitHub-Flight_Delay_Repo-gray?logo=github)](https://github.com/Vikrantthenge/flight-delay-predictor)
 
-[![Launch Sentiment Analyzer](https://img.shields.io/badge/Launch-Sentiment_Analyzer-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
-[![Hugging Face – Sentiment](https://img.shields.io/badge/HF_Space-Sentiment_Analyzer-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)
+[![Launch Sentiment Analyzer](https://img.shields.io/badge/Launch-Sentiment_Analyzer-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/) [![Hugging Face – Sentiment](https://img.shields.io/badge/HF_Space-Sentiment_Analyzer-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)
 [![GitHub – Sentiment](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)
 
 [![Hugging Face – Risk Analytics](https://img.shields.io/badge/HF_Space-Risk_Analytics-DC143C?logo=huggingface)](https://huggingface.co/spaces/vthenge/risk-analytics)
