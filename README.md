@@ -101,20 +101,17 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 [![Launch Revenue Forecast App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=streamlit)](https://airline-revenue-forecast.streamlit.app/)
 [![GitHub – Revenue](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
 
-[![View Safety Risk Project](https://img.shields.io/badge/View-Safety_Risk_Analytics-orange?logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
-
-[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)
+[![[![Launch CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)
 [![GitHub – CrewOps](https://img.shields.io/badge/GitHub-CrewOps_Repo-gray?logo=github)](https://github.com/Vikrantthenge/crew-optimizer)
 
 [![Launch FlightPulse App](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
 [![GitHub – Flight Delay](https://img.shields.io/badge/GitHub-Flight_Delay_Repo-gray?logo=github)](https://github.com/Vikrantthenge/flight-delay-predictor)
 
 [![Launch Sentiment Analyzer](https://img.shields.io/badge/Launch-Sentiment_Analyzer-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
-[![Hugging Face – Sentiment](https://img.shields.io/badge/HF_Space-Sentiment_Analyzer-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vikrant/airline-sentiment)
+[![Hugging Face – Sentiment](https://img.shields.io/badge/HF_Space-Sentiment_Analyzer-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)
 [![GitHub – Sentiment](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)
 
-[![Launch Risk Analytics](https://img.shields.io/badge/Launch-Risk_Analytics-maroon?logo=streamlit)](https://risk-analytics.streamlit.app/)
-[![Hugging Face – Risk](https://img.shields.io/badge/HF_Space-Risk_Analytics-DC143C?logo=huggingface)](https://huggingface.co/spaces/vikrant/risk-analytics)
+[![Hugging Face – Risk Analytics](https://img.shields.io/badge/HF_Space-Risk_Analytics-DC143C?logo=huggingface)](https://huggingface.co/spaces/vthenge/risk-analytics)
 [![GitHub – Risk](https://img.shields.io/badge/GitHub-Risk_Analytics_Repo-gray?logo=github)](https://github.com/Vikrantthenge/risk-analytics)
 
 [![Launch JobSearchMatch](https://img.shields.io/badge/Launch-JobSearchMatch-blue?logo=streamlit)](https://jobsearchmatch.streamlit.app/)
@@ -127,6 +124,7 @@ I don’t just build apps—I architect data flows, optimize pipelines, and surf
 [![GitHub – Revenue](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
 
 [![View Safety Risk Project](https://img.shields.io/badge/View-Safety_Risk_Analytics-orange?logo=databricks)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+
 ## 📁 Project Summaries
 
 - **Crew Ops Optimization** – Scheduling logic, Gantt views, and constraint violation tracking  
