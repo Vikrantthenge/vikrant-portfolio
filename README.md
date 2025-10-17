@@ -121,31 +121,6 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 
 ---
 
-## 📱 Vikrant Thenge – Live Project Suite
-
-> ⚠️ *If any app shows a “Zzzz” screen, it’s just waking up — click “Yes” to load (a few seconds only!)*
-
-🔹 **CrewOps Optimization**  
-[🔗 Launch App](https://crew-optimizer.streamlit.app/) | [📁 GitHub Repo](https://github.com/Vikrantthenge/crew-optimizer)
-
-🔹 **FlightPulse Delay Predictor**  
-[🔗 Launch App](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py) | [📁 GitHub Repo](https://github.com/Vikrantthenge/flight-delay-predictor)
-
-🔹 **Airline Sentiment Analyzer**  
-[🔗 Streamlit App](https://sentiment-analyzer-vikrant.streamlit.app/) | [🔗 Hugging Face Space](https://huggingface.co/spaces/vthenge/sentiment-analyzer) | [📁 GitHub Repo](https://github.com/Vikrantthenge/sentiment-Analyzer)
-
-🔹 **JobSearchMatch Automation**  
-[🔗 Launch App](https://jobsearchmatch.streamlit.app/) | [📁 GitHub Repo](https://github.com/Vikrantthenge/job_search)
-
-🔹 **Predictive Maintenance Dashboard**  
-[🔗 Launch App](https://predictivedashboard-vikrantthenge.streamlit.app/) | [📁 GitHub Repo](https://github.com/Vikrantthenge/predictive_dashboard)
-
-🔹 **Revenue Forecasting System**  
-[🔗 Launch App](https://airline-revenue-forecast.streamlit.app/) | [📁 GitHub Repo](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
-
-🔹 **Operational Safety & Risk Analytics**  
-[🔗 Hugging Face Space](https://huggingface.co/spaces/vthenge/risk-analytics) | [📁 GitHub Repo](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
-
 ### 📱 All Apps – One Scan Access  
 > 📲 *Scan the QR code below to explore all live apps and GitHub repos in one place.*
 
