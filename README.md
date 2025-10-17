@@ -6,8 +6,6 @@
 
 **Data Strategist | Analytics Engineer | Business Intelligence | Predictive Analytics | Cloud Automation**
 
-##  Connect with Me 
-
 <table>
   <tr>
     <td align="center">
