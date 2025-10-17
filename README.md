@@ -31,6 +31,7 @@
   </tr>
 </table>
 
+
 ### 📎 Scan to View My GitHub Portfolio   
 
 <table>
