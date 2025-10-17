@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-
+[![Badge](https://img.shields.io/badge/View_All_Projects-red?style=for-the-badge)](https://github.com/Vikrantthenge/Apps)
 ---
 ## 🙋‍♂️ About Me  
 
