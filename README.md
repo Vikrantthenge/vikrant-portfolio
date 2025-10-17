@@ -6,10 +6,10 @@
 
 **Data Strategist | Analytics Engineer | Business Intelligence | Predictive Analytics | Cloud Automation**
 
-[![Outlook](https://img.shields.io/badge/📧_vikrantthenge@outlook.com-darkgreen?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
-[![GitHub](https://img.shields.io/badge/💻_GitHub_Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge)
----
+[![GitHub](https://img.shields.io/badge/GitHub-VikrantThenge-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vthenge-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
+[![Outlook](https://img.shields.io/badge/Outlook-vikrantthenge@outlook.com-darkgreen?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
+
 
 ### 📎 Scan to View My GitHub Portfolio   
 
