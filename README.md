@@ -11,6 +11,15 @@
 ### 📎 Scan to View My GitHub Portfolio  
 ![QR Code](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png)
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150"/></td>
+    <td><a href="https://github.com/Vikrantthenge/Apps">
+      <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    </a></td>
+  </tr>
+</table>
+
 ### 📎 Scan to Access All Projects  
 📲 *Use the QR code below to explore all live apps and GitHub repos in one place.*
 
