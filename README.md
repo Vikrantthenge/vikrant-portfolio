@@ -215,7 +215,7 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
       <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png" width="180" height="180"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="180" height="180"/><br/>
+      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="75" height="75"/><br/>
       <a href="https://github.com/Vikrantthenge/Apps">
         <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge"/>
       </a>
