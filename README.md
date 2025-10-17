@@ -23,6 +23,7 @@
 
 
 
+
 ## 🙋‍♂️ About Me  
 
 I'm **Vikrant Thenge**, a strategic and solution-driven analytics professional who builds **intelligent data ecosystems** — uniting business insight, machine learning, and automation.  
@@ -182,3 +183,24 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 ### 🔹 Operational Safety & Risk Analytics  
 [![Hugging Face Space](https://img.shields.io/badge/Launch-Risk_Analytics_(HF_Space)-DC143C?logo=huggingface)](https://huggingface.co/spaces/vthenge/risk-analytics)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Risk_Analytics_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png" width="150"/><br/>
+      <a href="https://github.com/Vikrantthenge/Apps">
+        <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150"/><br/>
+      <a href="https://github.com/Vikrantthenge/Apps">
+        <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
