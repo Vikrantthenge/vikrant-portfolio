@@ -8,15 +8,19 @@
 
 ---
 
-### 📎 Scan to View My GitHub Portfolio  
-![QR Code](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png)
+### 📎 Scan to View My GitHub Portfolio   
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150"/></td>
-    <td><a href="https://github.com/Vikrantthenge/Apps">
-      <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge&"/>
-    </a></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png" width="180" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150" height="150"/><br/>
+      <a href="https://github.com/Vikrantthenge/Apps">
+        <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge"/>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -130,18 +134,4 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 🎯 **Open to senior analyst, analytics engineer, and data strategy roles across industries.**  
 🕒 *Last Updated: October 2025*
 
----
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png" width="180" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150" height="150"/><br/>
-      <a href="https://github.com/Vikrantthenge/Apps">
-        <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
