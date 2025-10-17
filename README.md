@@ -109,8 +109,6 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 
 ## 📄 Resume Access  
 
-[![📄 Resume Access](https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant%20Thenge%20Data%20Analytics%20Resume%20.pdf)
-
 
 <p align="center">
   <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant%20Thenge%20Data%20Analytics%20Resume%20.pdf" download title="Download Vikrant Thenge Resume">
