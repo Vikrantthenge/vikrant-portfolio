@@ -12,19 +12,19 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Vikrantthenge" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/github.png" width="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/><br/>
         <span style="font-size:14px; font-weight:bold; color:#0077cc;">GitHub</span>
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/vthenge" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/><br/>
         <span style="font-size:14px; font-weight:bold; color:#0077cc;">LinkedIn</span>
       </a>
     </td>
     <td align="center">
       <a href="mailto:vikrantthenge@outlook.com">
-        <img src="https://img.icons8.com/ios-filled/50/microsoft-outlook.png" width="30"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="30"/><br/>
         <span style="font-size:14px; font-weight:bold; color:#0077cc;">Outlook</span>
       </a>
     </td>
