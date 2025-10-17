@@ -189,7 +189,7 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png" width="150"/><br/>
+      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png" width="150"/><br/>
       <a href="https://github.com/Vikrantthenge/Apps">
         <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge"/>
       </a>
