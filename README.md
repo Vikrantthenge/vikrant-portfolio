@@ -15,7 +15,7 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150"/></td>
     <td><a href="https://github.com/Vikrantthenge/Apps">
-      <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge&"/>
     </a></td>
   </tr>
 </table>
