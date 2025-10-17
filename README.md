@@ -20,8 +20,15 @@
   </tr>
 </table>
 
+### 📎 Scan to Access All Projects  
+📲 *Use the QR code below to explore all live apps and GitHub repos in one place.*
+
+![QR Code](https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png)
+
 [![Badge](https://img.shields.io/badge/View_All_Projects-red?style=for-the-badge)](https://github.com/Vikrantthenge/Apps)
----
+
+
+
 ## 🙋‍♂️ About Me  
 
 I'm **Vikrant Thenge**, a strategic and solution-driven analytics professional who builds **intelligent data ecosystems** — uniting business insight, machine learning, and automation.  
