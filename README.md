@@ -24,12 +24,13 @@
     </td>
     <td align="center">
       <a href="mailto:vikrantthenge@outlook.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="30"/><br/>
+        <img src="https://img.icons8.com/color/48/000000/microsoft-outlook.png" width="30"/><br/>
         <span style="font-size:14px; font-weight:bold; color:#0077cc;">Outlook</span>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ### 📎 Scan to View My GitHub Portfolio   
