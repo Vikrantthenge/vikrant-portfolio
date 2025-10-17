@@ -107,6 +107,15 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 
 ---
 
+## 📌 Signature Block  
+
+📌 Vikrant Thenge  
+🔍 Strategic Data & Analytics Professional  
+📂 [GitHub Portfolio](https://github.com/Vikrantthenge) | 📄 [Resume PDF](https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant%20Thenge%20Data%20Analytics%20Resume%20.pdf)  
+📬 Open to senior analyst, analytics engineer, and data strategy roles
+
+---
+
 ## 📄 Resume Access  
 
 <p align="center">
