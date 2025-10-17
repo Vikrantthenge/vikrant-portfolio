@@ -208,10 +208,7 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png" width="150"/><br/>
-      <a href="https://github.com/Vikrantthenge/Apps">
-        <img src="https://img.shields.io/badge/"/>
-      </a>
+      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png" width="150"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150"/><br/>
