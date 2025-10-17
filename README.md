@@ -29,8 +29,6 @@
 </a>
 </p>
 
-<p><b>📍 Dombivli, Mumbai, Maharashtra, India</b></p>
-
 ---
 
 <h3>💡 About Me</h3>
@@ -59,41 +57,33 @@ Every project here demonstrates how I turn <b>data into strategy</b> through:
 
 ---
 
-<h3>📂 Featured Work</h3>
+<h3>📂 Featured Projects & Live Apps</h3>
 
 <p align="justify">
-Explore my end-to-end analytics and automation projects — showcasing how I connect 
-<b>data engineering</b>, <b>machine learning</b>, and <b>business intelligence</b> for practical outcomes.
+A curated set of my <b>end-to-end data and analytics applications</b> — showcasing predictive intelligence, BI design, automation, and GenAI integration.
 </p>
 
-<p>
-🔹 <b>Risk & Operations Dashboard:</b> Predictive safety model for site-level risk reduction  
-🔹 <b>Sentiment Analyzer App:</b> NLP-powered airline review analysis  
-🔹 <b>Forecasting Simulator:</b> Regression-based demand & risk forecasting tool  
-🔹 <b>Automation Pipelines:</b> Databricks ETL + Power BI refresh automation  
-</p>
+<ul align="left">
+
+<li>🔹 <b><a href="https://vikrantthenge-safety-risk-app.streamlit.app/" target="_blank">Safety Risk Predictor</a></b> – Predicts site-level safety risks using logistic regression and visual risk segmentation.</li>
+
+<li>🔹 <b><a href="https://vikrantthenge-sentiment-trend-app.streamlit.app/" target="_blank">Airline Sentiment Analyzer</a></b> – Performs NLP sentiment classification on real airline review data using transformers.</li>
+
+<li>🔹 <b><a href="https://vikrantthenge-forecast-simulator.streamlit.app/" target="_blank">Forecasting Simulator</a></b> – Interactive regression-based forecasting app to simulate demand, risk, or temperature trends.</li>
+
+<li>🔹 <b><a href="https://vikrantthenge-maintenance-insight-app.streamlit.app/" target="_blank">Maintenance Insight Dashboard</a></b> – Analyzes equipment performance, age, and risk to improve maintenance planning.</li>
+
+<li>🔹 <b><a href="https://vikrantthenge-ops-analytics-app.streamlit.app/" target="_blank">Operations Analytics App</a></b> – Unifies logistics and safety KPIs into a live Power BI–style Streamlit analytics suite.</li>
+
+<li>🔹 <b><a href="https://vikrantthenge-genai-reporter.streamlit.app/" target="_blank">GenAI Insight Reporter</a></b> – Converts raw Excel/CSV data into summarized narratives using an LLM pipeline.</li>
+
+<li>🔹 <b><a href="https://vikrantthenge-dashboard-automation.streamlit.app/" target="_blank">Dashboard Automation System</a></b> – End-to-end BI automation using Databricks ETL + Power BI refresh pipeline.</li>
+
+</ul>
 
 ---
 
-<h3>📫 Connect With Me</h3>
-
-<p>
-<a href='mailto:vikrantthenge@outlook.com' style='text-decoration: none; margin: 0 10px;' title='Email'>
-    <img src='https://img.icons8.com/color/48/000000/microsoft-outlook.png' alt='Email'/>
-</a>
-<a href='https://www.linkedin.com/in/vthenge' style='text-decoration: none; margin: 0 10px;' title='LinkedIn'>
-    <img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='LinkedIn'/>
-</a>
-<a href='https://github.com/vikrantthenge' style='text-decoration: none; margin: 0 10px;' title='GitHub'>
-    <img src='https://img.icons8.com/glyph-neue/48/000000/github.png' alt='GitHub'/>
-</a>
-</p>
-
-<p><b>📍 Dombivli, Mumbai, Maharashtra, India</b></p>
-
----
-
-<h3>📎 Scan to View My Portfolio</h3>
+<h3>📎 Scan to View My GitHub Portfolio</h3>
 
 <img src="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/qr-code.png" alt="QR Code" width="160"/>
 
