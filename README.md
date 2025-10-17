@@ -153,8 +153,4 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 
 [![Badge](https://img.shields.io/badge/🔗_View_All_Projects-Click_Here-darkred?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-central-page-link.com)
 
-🚀 **Live App Suite**  
-🔹 [CrewOps](https://crew-optimizer.streamlit.app/) | 🔹 [FlightPulse](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)  
-🔹 [Sentiment Analyzer](https://sentiment-analyzer-vikrant.streamlit.app/) | 🔹 [JobSearchMatch](https://jobsearchmatch.streamlit.app/)  
-🔹 [Maintenance Dashboard](https://predictivedashboard-vikrantthenge.streamlit.app/) | 🔹 [Revenue Forecast](https://airline-revenue-forecast.streamlit.app/)  
-🔹 [Risk Analytics](https://huggingface.co/spaces/vthenge/risk-analytics)
+
