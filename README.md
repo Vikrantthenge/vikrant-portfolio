@@ -97,6 +97,10 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 [![GitHub – Risk](https://img.shields.io/badge/GitHub-Risk_Analytics_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)  
 **Operational Safety & Risk Analytics** – PySpark + Databricks ML pipeline for real-time risk scoring, Delta Lake ETL, and Unity Catalog integration.
 
+[![Streamlit – KPI Risk Tracker](https://img.shields.io/badge/Launch-KPI_Risk_Tracker-darkgreen?logo=streamlit)](https://kpi-risk-tracker.streamlit.app/)
+[![GitHub – KPI Risk Tracker](https://img.shields.io/badge/GitHub-KPI_Risk_Repo-gray?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)  
+**KPI Risk Tracker & Forecasting App** – Streamlit dashboard for tracking financial KPIs, forecasting risk scores, and visualizing performance trends using modular demo datasets and fallback logic.
+
 
 ---
 
