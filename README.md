@@ -148,12 +148,15 @@
 
 ## 📁 Project Highlights  
 
-- 🧭 Reduced manual planning by **80%** via CrewOps Simulator  
-- ✈️ Improved delay prediction accuracy by **15%** using SHAP + Logistic Regression  
-- 📈 Boosted profitability by **12%** through forecasting dashboards  
-- ⚙️ Cut downtime by **25%** using predictive maintenance insights  
-- 🧠 Enhanced recruiter matching accuracy by **30%** via JobBot automation  
-- 🧮 Processed **50K+ operational records** with Delta Lake & Databricks pipelines  
+- 🧭 Reduced manual crew planning by **80%** using optimization logic in CrewOps Simulator  
+- ✈️ Improved flight delay prediction accuracy by **15%** through SHAP-based model explainability  
+- 💬 Analyzed **10K+ passenger reviews** with transformer-based sentiment models to identify service pain points  
+- 📈 Boosted profitability by **12%** through airline revenue forecasting dashboards (Power BI + Streamlit)  
+- ⚙️ Cut equipment downtime by **25%** using predictive maintenance time-series forecasting  
+- 💰 Improved financial forecast accuracy by **25%** and reduced reporting time by **70%** with KPI Risk Tracker  
+- 🧠 Enhanced recruiter-job matching precision by **30%** through NLP-driven JobSearchMatch automation  
+- 🧮 Processed **50K+ operational records** with PySpark and Databricks for real-time risk analytics
+
 
 ---
 
