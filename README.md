@@ -29,9 +29,9 @@
   </tr>
 </table>
 
+---
 
-
-### 📎 Scan to View My GitHub Portfolio   
+### 📎 Scan to View My GitHub Portfolio  
 
 <table>
   <tr>
@@ -47,60 +47,68 @@
   </tr>
 </table>
 
+---
 
+## 📱 Live Projects – Central Access  
 
-
-
-## 🙋‍♂️ About Me  
-
-I'm **Vikrant Thenge**, a strategic and solution-driven analytics professional who builds **intelligent data ecosystems** — uniting business insight, machine learning, and automation.  
-My work spans across **predictive modeling, BI strategy, and cloud-based deployments**, designed to **turn analytics into action** across industries.  
-
-With hands-on experience in **Python, SQL, Power BI, Streamlit, and Databricks**, I focus on creating end-to-end systems — from **ETL pipelines** to **decision dashboards** — that deliver measurable business impact.  
-
-I don’t just visualize data — I **engineer intelligence** that predicts outcomes, optimizes performance, and scales across cloud environments.
-
-🎯 *Every project you’ll see here demonstrates a blend of technical depth, design thinking, and business alignment.*
+> ⚠️ *If any app shows a “Zzzz” screen, it’s just waking up — click “Yes” to load (a few seconds only!)*
 
 ---
 
-## 📱 Live Projects  
+### 🔹 Financial KPI Forecast & Risk Tracker  
+📌 *Forecasts revenue, expenses, and cash flow using Prophet models and Power BI integration*  
+[![Launch App](https://img.shields.io/badge/Launch-Financial_KPI_Tracker-0A66C2?logo=streamlit)](https://kpi-risk-tracker-finance.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Financial_KPI_Repo-gray?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
 
-> ⚠️ *If any app shows a “Zzzz” screen, it’s just waking up — click “Yes” to load (a few seconds only!)*  
+---
 
-[![CrewOps App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)
-[![GitHub – CrewOps](https://img.shields.io/badge/GitHub-CrewOps_Repo-gray?logo=github)](https://github.com/Vikrantthenge/crew-optimizer)  
-**CrewOps Optimization** – Streamlined crew scheduling & planning system reducing manual workload by 80% through optimization logic and Gantt visualization.  
+### 🔹 FlightPulse Delay Predictor  
+📌 *Predicts flight delays using ML models with SHAP-based transparency*  
+[![Launch App](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Flight_Delay_Repo-gray?logo=github)](https://github.com/Vikrantthenge/flight-delay-predictor)
 
-[![FlightPulse App](https://img.shields.io/badge/Launch-FlightPulse-darkred?logo=streamlit)](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)
-[![GitHub – Flight Delay](https://img.shields.io/badge/GitHub-Flight_Delay_Repo-gray?logo=github)](https://github.com/Vikrantthenge/flight-delay-predictor)  
-**FlightPulse Delay Predictor** – ML classification app predicting delays using weather & route data with SHAP-based feature transparency.  
+---
 
-[![Sentiment Analyzer – Streamlit](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(Streamlit)-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)
-[![Hugging Face – Sentiment](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(HF_Space)-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)
-[![GitHub – Sentiment](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)  
-**Airline Sentiment Analyzer** – Dual deployment (Streamlit & Hugging Face) for airline sentiment analysis using transformers + VADER hybrid NLP pipeline.  
+### 🔹 Airline Sentiment Analyzer  
+📌 *Analyzes passenger sentiment using hybrid NLP pipeline (VADER + Transformers)*  
+[![Streamlit App](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(Streamlit)-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)  
+[![Hugging Face Space](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(HF_Space)-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)
 
-[![JobSearchMatch App](https://img.shields.io/badge/Launch-JobSearchMatch-blue?logo=streamlit)](https://jobsearchmatch.streamlit.app/)
-[![GitHub – Job Bot](https://img.shields.io/badge/GitHub-JobBot_Repo-gray?logo=github)](https://github.com/Vikrantthenge/job_search)  
-**JobSearchMatch Automation** – AI-driven job recommender matching resumes with live postings using keyword and NLP-based ranking.  
+---
 
-[![Maintenance App](https://img.shields.io/badge/Launch-Predictive_Maintenance-orange?logo=streamlit)](https://predictivedashboard-vikrantthenge.streamlit.app/)
-[![GitHub – Maintenance](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive_dashboard)  
-**Predictive Maintenance Dashboard** – Time-series anomaly detection and predictive maintenance optimizer minimizing downtime and cost.  
+### 🔹 Predictive Maintenance Optimization  
+📌 *Detects equipment anomalies using time-series forecasting and alerting*  
+[![Launch App](https://img.shields.io/badge/Launch-Predictive_Maintenance-orange?logo=streamlit)](https://predictivedashboard-vikrantthenge.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive_dashboard)
 
-[![Revenue Forecast App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)
-[![GitHub – Revenue](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)  
-**Revenue Forecasting System** – Power BI + Streamlit hybrid app for profitability forecasting and business performance analytics.  
+---
 
-[![Hugging Face – Risk Analytics](https://img.shields.io/badge/Launch-Risk_Analytics_(HF_Space)-DC143C?logo=huggingface)](https://huggingface.co/spaces/vthenge/risk-analytics)
-[![GitHub – Risk](https://img.shields.io/badge/GitHub-Risk_Analytics_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)  
-**Operational Safety & Risk Analytics** – PySpark + Databricks ML pipeline for real-time risk scoring, Delta Lake ETL, and Unity Catalog integration.
+### 🔹 CrewOps Optimization  
+📌 *Automates crew scheduling with 80% manual reduction across airline operations*  
+[![Launch App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-CrewOps_Repo-gray?logo=github)](https://github.com/Vikrantthenge/crew-optimizer)
 
-[![Streamlit – KPI Risk Tracker](https://img.shields.io/badge/Launch-KPI_Risk_Tracker-darkgreen?logo=streamlit)](https://kpi-risk-tracker.streamlit.app/)
-[![GitHub – KPI Risk Tracker](https://img.shields.io/badge/GitHub-KPI_Risk_Repo-gray?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)  
-**KPI Risk Tracker & Forecasting App** – Streamlit dashboard for tracking financial KPIs, forecasting risk scores, and visualizing performance trends using modular demo datasets and fallback logic.
+---
 
+### 🔹 Revenue Forecasting System  
+📌 *Forecasts airline revenue using historical trends and Power BI integration*  
+[![Launch App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
+
+---
+
+### 🔹 Operational Safety & Risk Analytics  
+📌 *Scores operational risk in real time using PySpark + Databricks pipelines*  
+[![Hugging Face Space](https://img.shields.io/badge/Launch-Risk_Analytics_(HF_Space)-DC143C?logo=huggingface)](https://huggingface.co/spaces/vthenge/risk-analytics)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Risk_Analytics_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+
+---
+
+### 🔹 JobSearchMatch Automation  
+📌 *Matches resumes to job descriptions using NLP-based ranking and scoring*  
+[![Launch App](https://img.shields.io/badge/Launch-JobSearchMatch-blue?logo=streamlit)](https://jobsearchmatch.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-JobBot_Repo-gray?logo=github)](https://github.com/Vikrantthenge/job_search)
 
 ---
 
@@ -145,12 +153,11 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 - 📈 Boosted profitability by **12%** through forecasting dashboards  
 - ⚙️ Cut downtime by **25%** using predictive maintenance insights  
 - 🧠 Enhanced recruiter matching accuracy by **30%** via JobBot automation  
-- 🧮 Processed **50K+** operational records** with Delta Lake & Databricks pipelines  
+- 🧮 Processed **50K+ operational records** with Delta Lake & Databricks pipelines  
 
 ---
 
 ## 📄 Resume Access  
-
 
 <p align="center">
   <a href="https://github.com/Vikrantthenge/vikrant-data-analytics-portfolio/blob/main/Vikrant%20Thenge%20Data%20Analytics%20Resume%20.pdf" download title="Download Vikrant Thenge Resume">
@@ -160,5 +167,3 @@ I don’t just visualize data — I **engineer intelligence** that predicts outc
 
 🎯 **Open to senior analyst, analytics engineer, and data strategy roles across industries.**  
 🕒 *Last Updated: October 2025*
-
-
