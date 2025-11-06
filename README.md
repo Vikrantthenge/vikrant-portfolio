@@ -70,7 +70,7 @@
 ---
 
 ### 🔹 Airline Sentiment Analyzer  
-📌 *Analyzes passenger sentiment using hybrid NLP pipeline (VADER + Transformers)*  
+📌 *Analyzes passenger sentiment using hybrid NLP pipeline (VADER + Transformers), compatible with CSV and Qualtrics survey data*
 [![Streamlit App](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(Streamlit)-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)  
 [![Hugging Face Space](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(HF_Space)-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)
@@ -122,6 +122,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-green?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Model%20Explainability-purple?style=flat-square&logo=plotly&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-NLP-blue?style=flat-square&logo=spacy&logoColor=white)
+![Qualtrics](https://img.shields.io/badge/Qualtrics-Survey%20Analytics-darkred?style=flat-square&logo=qualtrics&logoColor=white)
 
 ### 🔹 Cloud & Deployment  
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white)
@@ -156,6 +157,7 @@
 - 💰 Improved financial forecast accuracy by **25%** and reduced reporting time by **70%** with KPI Risk Tracker  
 - 🧠 Enhanced recruiter-job matching precision by **30%** through NLP-driven JobSearchMatch automation  
 - 🧮 Processed **50K+ operational records** with PySpark and Databricks for real-time risk analytics
+- 🧾 Integrated Qualtrics survey compatibility into sentiment analysis pipeline for recruiter and passenger feedback loops
 
 
 ---
