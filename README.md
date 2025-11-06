@@ -70,8 +70,7 @@
 ---
 
 ### 🔹 Airline Sentiment Analyzer  
-📌 *Analyzes passenger sentiment using hybrid NLP pipeline (VADER + Transformers), compatible with CSV and Qualtrics survey data*
-
+📌 *Analyzes passenger sentiment using hybrid NLP pipeline (VADER + Transformers), compatible with CSV and Qualtrics survey data* 
 [![Streamlit App](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(Streamlit)-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)  
 [![Hugging Face Space](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(HF_Space)-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)
