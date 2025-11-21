@@ -4,7 +4,7 @@
 [![Badge](https://img.shields.io/badge/Cross_Industry_Ready-Open_to_All_Domains?style=flat-square&color=8B0000&labelColor=8B0000)](https://github.com/Vikrantthenge)
 [![Badge](https://img.shields.io/badge/End_to_End_Analytics-Solutions_Architect?style=flat-square&color=8B0000&labelColor=8B0000)](https://github.com/Vikrantthenge)
 
-**Data Strategist | Analytics Engineer | Business Intelligence | Predictive Analytics | Cloud Automation**
+**Data Analyst | Python • SQL • Power BI | Forecasting & Automation Projects**
 
 
 ## 🔗 Connect with Me
