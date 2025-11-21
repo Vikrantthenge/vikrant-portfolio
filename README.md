@@ -1,4 +1,4 @@
-# 🟥 **Vikrant Thenge – Strategic Data & Analytics Professional** 🟥  
+# 🟥 **Vikrant Thenge** 🟥  
 
 [![Badge](https://img.shields.io/badge/GenAI%20Integrated-Portfolio?style=flat-square&color=8B0000&labelColor=8B0000)](https://github.com/Vikrantthenge)
 [![Badge](https://img.shields.io/badge/Cross_Industry_Ready-Open_to_All_Domains?style=flat-square&color=8B0000&labelColor=8B0000)](https://github.com/Vikrantthenge)
