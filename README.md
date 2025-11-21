@@ -2,9 +2,13 @@
 
 **Data Analyst | Python • SQL • Power BI | Forecasting & Automation Projects**
 
-[![Badge](https://img.shields.io/badge/GenAI%20Integrated-Portfolio?style=flat-square&color=8B0000&labelColor=8B0000)](https://github.com/Vikrantthenge)
-[![Badge](https://img.shields.io/badge/Cross_Industry_Ready-Open_to_All_Domains?style=flat-square&color=8B0000&labelColor=8B0000)](https://github.com/Vikrantthenge)
-[![Badge](https://img.shields.io/badge/End_to_End_Analytics-Solutions_Architect?style=flat-square&color=8B0000&labelColor=8B0000)](https://github.com/Vikrantthenge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+
 
 
 ## 🔗 Connect with Me
