@@ -185,4 +185,4 @@ ChatGPT • GitHub Copilot
 
 ---
 
-🎯 **Open to Data Analytics, BI, ML Analyst, and Analytics Engineering roles across industries.**  
+🎯 **Open to Data Analyst, BI Analyst, and Analytics roles (Mumbai · Pune · Hybrid · Remote)**
