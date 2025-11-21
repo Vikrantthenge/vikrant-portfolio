@@ -11,11 +11,7 @@
 ## 🔗 Connect with Me
 
 <table> <tr> <td align="center"> <a href="https://github.com/Vikrantthenge" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/><br/> <span style="font-size:14px; font-weight:bold; color:#0077cc;">GitHub</span> </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/vthenge" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/><br/> <span style="font-size:14px; font-weight:bold; color:#0077cc;">LinkedIn</span> </a> </td> <td align="center"> <td align="center">
-  <a href="mailto:vikrantthenge@outlook.com">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-outlook.png" width="30"/><br/>
-    <span style="font-size:14px; font-weight:bold; color:#0077cc;">Outlook</span>
-  </a>
-</td>
+  <a href="mailto:vikrantthenge@outlook.com"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook.png" width="30"/><br/><span style="font-size:14px; font-weight:bold; color:#0077cc;">Outlook</span></a></td>
 
 
 
