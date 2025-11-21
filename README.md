@@ -30,6 +30,37 @@
 
 ---
 
+## Connect with Me  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Vikrantthenge" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+        GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/vthenge" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/><br/>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:vikrantthenge@outlook.com">
+        <img src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" width="40"/><br/>
+        Outlook
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## Scan to View My GitHub Portfolio
+
+
 # 📱 **Live Projects – Central Access**
 
 > ⚠️ Some apps sleep on Streamlit Cloud ("Zzzz"). Click once to wake — loads in seconds.
