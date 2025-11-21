@@ -9,29 +9,6 @@
 
 ## 🔗 Connect with Me
 
-<table> <tr> <td align="center"> <a href="https://github.com/Vikrantthenge" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/><br/> <span style="font-size:14px; font-weight:bold; color:#0077cc;">GitHub</span> </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/vthenge" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/><br/> <span style="font-size:14px; font-weight:bold; color:#0077cc;">LinkedIn</span> </a> </td> <td align="center"> <a href="mailto:vikrantthenge@outlook.com"><img src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" width="30"/><br/><span style="font-size:14px; font-weight:bold; color:#0077cc;">Outlook</span></a></td>
-
-
-## 📎 Scan to View My GitHub Portfolio  
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png" width="180" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150" height="150"/><br/>
-      <a href="https://github.com/Vikrantthenge/Apps">
-        <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Connect with Me  
-
 <table>
   <tr>
     <td align="center">
@@ -55,10 +32,23 @@
   </tr>
 </table>
 
+## 📎 Scan to View My GitHub Portfolio  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png" width="180" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Vikrantthenge/vikrant-portfolio/main/apps.png" width="150" height="150"/><br/>
+      <a href="https://github.com/Vikrantthenge/Apps">
+        <img src="https://img.shields.io/badge/View_All_Projects-darkred?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-## Scan to View My GitHub Portfolio
 
 
 # 📱 **Live Projects – Central Access**
