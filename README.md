@@ -178,7 +178,7 @@ ChatGPT • GitHub Copilot
 ## 📄 **Resume Download**
 
 <p align="center">
-  <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant%20Thenge%20Data%20Analytics%20Resume.pdf" download>
+  <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Data_Analytics_Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader"/>
   </a>
 </p>
