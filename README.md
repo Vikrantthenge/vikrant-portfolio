@@ -128,7 +128,7 @@ ETL Pipelines, Data Cleaning, Automation Scripts
 
 # 📄 Resume
 
-[**Download Resume (PDF)**](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Data_Analytics_Resume.pdf)
+[**Download Resume (PDF)**](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Data_Science_Analytics_Resume.pdf)
 
 ---
 
