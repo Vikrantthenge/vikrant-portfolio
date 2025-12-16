@@ -124,7 +124,7 @@ AWS (EC2, S3) · Databricks · Streamlit · GitHub Actions
 ---
 
 # 📄 Resume
-[**Download Resume (PDF)**](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Data_Science_Analytics_Resume.pdf)
+[**Download Resume (PDF)**](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf)
 
 ---
 
