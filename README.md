@@ -84,7 +84,7 @@ Analyzes 50K+ operational records to identify safety risks and performance gaps.
 _VADER • Transformers • Text Classification_
 
 Extracts sentiment, flags pain points, and groups themes from unstructured feedback.  
-[**Launch App**](https://sentiment-analyzer-vikrantthenge.streamlit.app/) •  
+[**Launch App**](https://sentiment-analyzer-vikrant.streamlit.app/) •  
 [**Repository**](https://github.com/Vikrantthenge/sentiment-Analyzer)
 
 ---
