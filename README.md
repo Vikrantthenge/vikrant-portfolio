@@ -98,7 +98,7 @@ Designed KPI frameworks to track **SLA performance, delay drivers, and resource 
 
 ## 📄 Resume
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume-green?logo=adobeacrobatreader)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-green?logo=adobeacrobatreader)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Senior_Analytics_Manager.pdf)
 
 ---
 
