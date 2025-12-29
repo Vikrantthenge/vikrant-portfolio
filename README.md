@@ -1,6 +1,8 @@
-# 🟥 **Vikrant Thenge**
-### Data Science & Analytics Professional  
-### Python • SQL • Power BI • ML • Forecasting • Automation • Streamlit
+# 🟥 Vikrant Thenge
+### Senior Analytics Manager | Decision Analytics & Planning  
+### Forecasting • KPI Ownership • Capacity Planning • Automation • Python • SQL • Power BI
+
+> ⚠️ **Note:** If any Streamlit app shows a sleep message due to inactivity, click **“Yes, get this app back up!”** to continue.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
@@ -11,122 +13,120 @@
 
 ---
 
-## 📌 About This Portfolio
-I build end-to-end analytics and ML solutions that automate reporting, improve planning, and support decision-making.  
-My work spans forecasting, classification, anomaly detection, NLP, dashboards, and deployment using Streamlit and cloud tools.
+## 👤 About Me
+
+I am a **Senior Analytics Manager** focused on converting operational and business challenges into **forecasting models, KPI frameworks, and decision-support systems** that leadership teams rely on for planning, risk mitigation, and performance management.
+
+My work sits at the intersection of:
+- **Forecasting & capacity planning**
+- **Performance analytics & KPI governance**
+- **Automation of recurring analytics**
+- **Decision-ready dashboards and insights**
+
+I specialize in **reducing decision latency**, improving planning accuracy, and replacing reactive reporting with forward-looking analytics across operations-heavy environments.
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect
+
 - **GitHub:** https://github.com/Vikrantthenge  
 - **LinkedIn:** https://www.linkedin.com/in/vthenge  
 - **Email:** vikrantthenge@outlook.com  
 
 ---
 
-## 📱 Portfolio Access
-Scan to view all projects:
+## 📌 Pinned Projects (Recruiter-First)
 
-![Portfolio QR](https://raw.githubusercontent.com/Vikrantthenge/vikrant-data-analytics-portfolio/main/qr-code.png)
-
-👉 **https://github.com/Vikrantthenge/Apps**
+> These two projects best represent how my work is used in **real leadership decisions**.
 
 ---
 
-# 🔥 Flagship Projects
+## 🔥 1. Workforce & Resource Forecasting System  
+**Time Series • Scenario Modeling • Python • Power BI • Automation**
 
-## **1. Workforce & Resource Forecasting**  
-_Time Series • Python • Power BI • Automation_
+Forecasts workload vs manpower and supports **staffing, capacity planning, and SLA risk mitigation** using scenario-based models and automated pipelines.
 
-Forecasts workload vs manpower with automated pipelines and scenario planning dashboards.  
-[**Launch App**](https://kpi-risk-tracker-finance.streamlit.app/) •  
-[**Repository**](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
+**Key Highlights**
+- Demand forecasting with what-if scenarios  
+- Staffing gap identification & SLA risk indicators  
+- Automated data pipelines feeding leadership dashboards  
 
----
-
-## **2. Predictive Maintenance System**  
-_Anomaly Detection • ML • Streamlit_
-
-ML pipeline predicting component failures using historical maintenance logs and sensor data.  
-[**Launch App**](https://predictivedashboard-vikrantthenge.streamlit.app/) •  
-[**Repository**](https://github.com/Vikrantthenge/predictive_dashboard)
+🔗 **Live App:** https://forecasting-demo.streamlit.app/  
+📂 **Repository:** https://github.com/Vikrantthenge/KPI-Risk-Tracker  
 
 ---
 
-## **3. FlightPulse Delay Predictor (Explainable ML)**  
-_Classification • SHAP • Operational Risk_
+## 🔥 2. Performance & SLA Analytics Framework  
+**KPI Design • Operational Risk • Decision Dashboards**
 
-Predicts delay probability and provides interpretability with SHAP score breakdowns.  
-[**Launch App**](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py) •  
-[**Repository**](https://github.com/Vikrantthenge/flight-delay-predictor)
+Designed KPI frameworks and dashboards to monitor **SLA performance, delay drivers, resource gaps, and operational bottlenecks**, enabling structured performance reviews and faster interventions.
 
----
+**Key Highlights**
+- KPI governance for performance & risk  
+- Automated reporting replacing manual MIS  
+- Leadership-ready dashboards for weekly/monthly reviews  
 
-## **4. Customer Analytics & Segmentation**  
-_RFM • K-Means • Cohorts • SQL_
-
-Processes 430K+ transactions to generate segments, RFM scores, cohorts, and retention insights.  
-[**Launch App**](https://customer-analytic.streamlit.app/) •  
-[**Repository**](https://github.com/Vikrantthenge/customer-analytics)
+📂 **Repository:** https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
 
 ---
 
-## **5. Operational Safety & Risk Analytics**  
-_PySpark • Databricks • Risk Scoring_
+## 📁 Additional Projects (Selective)
 
-Analyzes 50K+ operational records to identify safety risks and performance gaps.  
-[**Launch App**](https://huggingface.co/spaces/vthenge/risk-analytics) •  
-[**Repository**](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+- **Predictive Maintenance Risk Framework** – Risk-based prioritization of high-impact components  
+- **FlightPulse Delay Predictor** – Explainable ML for operational delay risk  
+- **Customer Analytics & Segmentation** – RFM, cohorts, and retention analytics  
+- **NLP Feedback Analyzer** – Structured insights from unstructured feedback  
 
----
-
-## **6. NLP Feedback Analyzer**  
-_VADER • Transformers • Text Classification_
-
-Extracts sentiment, flags pain points, and groups themes from unstructured feedback.  
-[**Launch App**](https://sentiment-analyzer-vikrant.streamlit.app/) •  
-[**Repository**](https://github.com/Vikrantthenge/sentiment-Analyzer)
+👉 View all projects: https://github.com/Vikrantthenge/Apps
 
 ---
 
-# 📁 More Projects
-- **Revenue Forecasting System** — Time series + scenario modelling  
-- **CrewOps Scheduler Optimization** — Automated rostering logic  
-- **JobSearchMatch (NLP)** — Resume–JD similarity scoring  
+## 🛠 Core Skills
 
-👉 View all: https://github.com/Vikrantthenge/Apps
+### **Decision Analytics & Planning**
+- Forecasting & scenario modeling  
+- Capacity & workforce planning  
+- Operational risk indicators  
+- Decision-support analytics  
 
----
+### **Performance Management**
+- KPI frameworks & SLA/OTP analytics  
+- Executive dashboards  
+- Performance review reporting  
 
-# 🛠 Core Skills
+### **Analytics & Automation**
+- Python & SQL automation  
+- Recurring reporting workflows  
+- Data cleaning & transformation  
 
-### **Programming & ML**
-Python · SQL · scikit-learn · Feature Engineering · SHAP · NLP · Time Series  
+### **Business Intelligence**
+- Power BI (data modeling, DAX)  
+- Leadership reporting & insight delivery  
 
-### **BI & Visualization**
-Power BI (DAX, Modelling) · Excel Automation  
-
-### **Data Engineering**
-ETL Pipelines · Data Cleaning · Automation Scripts  
-
-### **Cloud & Deployment**
-AWS (EC2, S3) · Databricks · Streamlit · GitHub Actions  
-
----
-
-# 📊 Impact Highlights
-- Improved forecast accuracy by **20–25%**  
-- Reduced manual reporting by **40–70%**  
-- Automated analytics workflows end-to-end  
-- Built **9+ production-style apps** with ML + dashboards  
-- Processed datasets up to **50K+ records** with PySpark  
+### **Platforms**
+- AWS (EC2, S3)  
+- Databricks  
+- Streamlit  
+- GitHub  
 
 ---
 
-# 📄 Resume
-[**Download Resume (PDF)**](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf)
+## 📊 Impact Highlights
+
+- Improved planning accuracy by **15–25%** using forecasting & scenario models  
+- Reduced manual reporting effort by **40–50%** through automation  
+- Accelerated leadership decision cycles with forward-looking analytics  
+- Built **production-style analytics apps** used for planning & reviews  
 
 ---
 
-### 🎯 Open to Data Analyst, ML Analyst, Analytics Engineer, and BI roles  
-**Mumbai · Pune · Hybrid · Remote**
+## 📄 Resume
+
+📥 **Download Resume (PDF):**  
+https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf
+
+---
+
+### 🎯 Target Roles
+**Senior Analytics Manager | Analytics Manager | Decision Analytics | Planning & Performance Analytics**  
+📍 Mumbai • Pune • Bengaluru • Hybrid / Remote
