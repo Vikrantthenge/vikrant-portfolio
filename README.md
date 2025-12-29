@@ -4,6 +4,20 @@
 
 > ⚠️ **Note:** If any Streamlit app shows a sleep message due to inactivity, click **“Yes, get this app back up!”** to continue.
 
+---
+
+## 🔗 Quick Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Vikrantthenge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vthenge)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vikrantthenge@outlook.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?logo=adobeacrobatreader)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf)
+[![All Apps](https://img.shields.io/badge/Apps-View%20All-orange?logo=streamlit)](https://github.com/Vikrantthenge/Apps)
+
+---
+
+## 🛠 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
@@ -17,113 +31,74 @@
 
 I am a **Senior Analytics Manager** focused on converting operational and business challenges into **forecasting models, KPI frameworks, and decision-support systems** that leadership teams rely on for planning, risk mitigation, and performance management.
 
-My work sits at the intersection of:
-- **Forecasting & capacity planning**
-- **Performance analytics & KPI governance**
-- **Automation of recurring analytics**
-- **Decision-ready dashboards and insights**
+I work at the intersection of:
+- Forecasting & capacity planning  
+- Performance analytics & KPI governance  
+- Automation of recurring analytics  
+- Decision-ready dashboards  
 
-I specialize in **reducing decision latency**, improving planning accuracy, and replacing reactive reporting with forward-looking analytics across operations-heavy environments.
-
----
-
-## 🔗 Connect
-
-- **GitHub:** https://github.com/Vikrantthenge  
-- **LinkedIn:** https://www.linkedin.com/in/vthenge  
-- **Email:** vikrantthenge@outlook.com  
+My strength is **reducing decision latency** and replacing reactive reporting with **forward-looking analytics**.
 
 ---
 
 ## 📌 Pinned Projects (Recruiter-First)
 
-> These two projects best represent how my work is used in **real leadership decisions**.
+> These two projects best represent how my work supports **real leadership decisions**.
 
 ---
 
 ## 🔥 1. Workforce & Resource Forecasting System  
-**Time Series • Scenario Modeling • Python • Power BI • Automation**
+_Time Series • Scenario Modeling • Python • Power BI • Automation_
 
-Forecasts workload vs manpower and supports **staffing, capacity planning, and SLA risk mitigation** using scenario-based models and automated pipelines.
+Forecasts workload vs manpower to support **staffing, capacity planning, and SLA risk mitigation**.
 
-**Key Highlights**
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?logo=streamlit)](https://forecasting-demo.streamlit.app/)
+[![Repository](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
+
+**Highlights**
 - Demand forecasting with what-if scenarios  
-- Staffing gap identification & SLA risk indicators  
-- Automated data pipelines feeding leadership dashboards  
-
-🔗 **Live App:** https://forecasting-demo.streamlit.app/  
-📂 **Repository:** https://github.com/Vikrantthenge/KPI-Risk-Tracker  
+- Staffing gap & SLA risk identification  
+- Automated pipelines feeding leadership dashboards  
 
 ---
 
 ## 🔥 2. Performance & SLA Analytics Framework  
-**KPI Design • Operational Risk • Decision Dashboards**
+_KPI Design • Operational Risk • Decision Dashboards_
 
-Designed KPI frameworks and dashboards to monitor **SLA performance, delay drivers, resource gaps, and operational bottlenecks**, enabling structured performance reviews and faster interventions.
+Designed KPI frameworks to track **SLA performance, delay drivers, and resource gaps**.
 
-**Key Highlights**
+[![Repository](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+
+**Highlights**
 - KPI governance for performance & risk  
-- Automated reporting replacing manual MIS  
-- Leadership-ready dashboards for weekly/monthly reviews  
-
-📂 **Repository:** https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
+- Automated MIS replacing manual reporting  
+- Leadership-ready dashboards for reviews  
 
 ---
 
-## 📁 Additional Projects (Selective)
+## 📁 Additional Projects
 
-- **Predictive Maintenance Risk Framework** – Risk-based prioritization of high-impact components  
-- **FlightPulse Delay Predictor** – Explainable ML for operational delay risk  
-- **Customer Analytics & Segmentation** – RFM, cohorts, and retention analytics  
-- **NLP Feedback Analyzer** – Structured insights from unstructured feedback  
+- Predictive Maintenance Risk Framework  
+- FlightPulse Delay Predictor (Explainable ML)  
+- Customer Analytics & Segmentation  
+- NLP Feedback Analyzer  
 
-👉 View all projects: https://github.com/Vikrantthenge/Apps
-
----
-
-## 🛠 Core Skills
-
-### **Decision Analytics & Planning**
-- Forecasting & scenario modeling  
-- Capacity & workforce planning  
-- Operational risk indicators  
-- Decision-support analytics  
-
-### **Performance Management**
-- KPI frameworks & SLA/OTP analytics  
-- Executive dashboards  
-- Performance review reporting  
-
-### **Analytics & Automation**
-- Python & SQL automation  
-- Recurring reporting workflows  
-- Data cleaning & transformation  
-
-### **Business Intelligence**
-- Power BI (data modeling, DAX)  
-- Leadership reporting & insight delivery  
-
-### **Platforms**
-- AWS (EC2, S3)  
-- Databricks  
-- Streamlit  
-- GitHub  
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-GitHub-orange?logo=github)](https://github.com/Vikrantthenge/Apps)
 
 ---
 
 ## 📊 Impact Highlights
 
-- Improved planning accuracy by **15–25%** using forecasting & scenario models  
-- Reduced manual reporting effort by **40–50%** through automation  
-- Accelerated leadership decision cycles with forward-looking analytics  
-- Built **production-style analytics apps** used for planning & reviews  
+- **15–25%** improvement in planning accuracy  
+- **40–50%** reduction in manual reporting effort  
+- Faster leadership decision cycles  
+- Multiple production-style analytics apps  
 
 ---
 
 ## 📄 Resume
 
-📥 **Download Resume (PDF):**  
-https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf
+[![Download Resume](https://img.shields.io/badge/Download-Resume-green?logo=adobeacrobatreader)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf)
 
 ---
 
