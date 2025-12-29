@@ -2,6 +2,10 @@
 ### Senior Analytics Manager | Decision Analytics & Planning  
 ### Forecasting • KPI Ownership • Capacity Planning • Automation • Python • SQL • Power BI
 
+
+[![View Full Portfolio](https://img.shields.io/badge/View%20Full%20Portfolio-Decision%20Analytics%20%26%20Architecture-blue?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/README.md)
+
+
 > ⚠️ **Note:** If any Streamlit app shows a sleep message due to inactivity, click **“Yes, get this app back up!”** to continue.
 
 ---
