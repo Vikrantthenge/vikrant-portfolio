@@ -98,15 +98,6 @@ Designed KPI frameworks to track **SLA performance, delay drivers, and resource 
 - Faster leadership decision cycles  
 - Multiple production-style analytics apps  
 
----
-
-## 📘 Full Portfolio 
-
-📊 **End-to-end analytics work, architecture, and decision frameworks:**  
-👉 https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/README.md
-
-> This portfolio shows how I approach forecasting, KPI design, risk analytics,  
-> and decision-support systems used in real leadership planning scenarios.
 
 ---
 
