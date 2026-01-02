@@ -1,12 +1,15 @@
-# 🟥 Vikrant Thenge
+# 🟥 Vikrant Thenge  
 ### Senior Analytics Manager | Decision Analytics & Planning  
-### Forecasting • KPI Ownership • Capacity Planning • Automation • Python • SQL • Power BI
-
+Forecasting • KPI Ownership • Capacity Planning • Automation • Python • SQL • Power BI
 
 [![View Full Portfolio](https://img.shields.io/badge/View%20Full%20Portfolio-Decision%20Analytics%20%26%20Architecture-blue?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/README.md)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Senior_Analytics_Manager.pdf)
 
+I build **decision-grade analytics systems** that replace reactive reporting with  
+**forecasting models, KPI governance, and early risk signals** used by leadership to plan, prioritize, and act.
 
-⚠️ **Note:** If any Streamlit app shows a sleep message due to inactivity, click **“Yes, get this app back up!”** to continue.
+⚠️ **Note:** If any Streamlit app shows a sleep message due to inactivity, click  
+**“Yes, get this app back up!”** — it wakes up in a few seconds.
 
 ---
 
@@ -15,12 +18,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Vikrantthenge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vthenge)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vikrantthenge@outlook.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-green?logo=adobeacrobatreader)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf)
 [![All Apps](https://img.shields.io/badge/Apps-View%20All-orange?logo=streamlit)](https://github.com/Vikrantthenge/Apps)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Analytics & Platform Exposure
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
@@ -33,35 +35,37 @@
 
 ## 👤 About Me
 
-I am a **Senior Analytics Manager** focused on converting operational and business challenges into **forecasting models, KPI frameworks, and decision-support systems** that leadership teams rely on for planning, risk mitigation, and performance management.
+I am a **Senior Analytics Manager** focused on converting complex operational and business challenges into:
 
-I work at the intersection of:
-- Forecasting & capacity planning  
-- Performance analytics & KPI governance  
-- Automation of recurring analytics  
-- Decision-ready dashboards  
+- Forecasting and scenario models  
+- KPI frameworks and performance governance  
+- Risk indicators and decision dashboards  
+- Automated analytics pipelines  
 
-My strength is **reducing decision latency** and replacing reactive reporting with **forward-looking analytics**.
+My work supports **staffing decisions, capacity planning, SLA risk mitigation, and leadership performance reviews** — not just reporting.
+
+I specialize in **reducing decision latency** and replacing backward-looking MIS with **forward-looking analytics**.
 
 ---
 
 ## 📌 Pinned Projects (Recruiter-First)
 
-> These two projects best represent how my work supports **real leadership decisions**.
+> These projects reflect how analytics is consumed in **real enterprise environments** —  
+> planning forums, performance reviews, and risk governance — not ad-hoc exploration.
 
 ---
 
 ## 🔥 1. Workforce & Resource Forecasting System  
 _Time Series • Scenario Modeling • Python • Power BI • Automation_
 
-Forecasts workload vs manpower to support **staffing, capacity planning, and SLA risk mitigation**.
+Forecasts workload versus manpower to support **staffing, capacity planning, and SLA risk mitigation**.
 
 [![Live App](https://img.shields.io/badge/Live_App-Streamlit-red?logo=streamlit)](https://forecasting-demo.streamlit.app/)
-[![Repository](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-black?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
 
 **Highlights**
 - Demand forecasting with what-if scenarios  
-- Staffing gap & SLA risk identification  
+- Staffing gap and SLA risk identification  
 - Automated pipelines feeding leadership dashboards  
 
 ---
@@ -69,14 +73,14 @@ Forecasts workload vs manpower to support **staffing, capacity planning, and SLA
 ## 🔥 2. Performance & SLA Analytics Framework  
 _KPI Design • Operational Risk • Decision Dashboards_
 
-Designed KPI frameworks to track **SLA performance, delay drivers, and resource gaps**.
+Designed KPI frameworks to track **SLA performance, delay drivers, and resource gaps** across operations.
 
-[![Repository](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-black?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
 **Highlights**
-- KPI governance for performance & risk  
+- KPI governance for performance and risk  
 - Automated MIS replacing manual reporting  
-- Leadership-ready dashboards for reviews  
+- Leadership-ready dashboards for structured reviews  
 
 ---
 
@@ -93,14 +97,13 @@ Designed KPI frameworks to track **SLA performance, delay drivers, and resource 
 
 ## 📊 Impact Highlights
 
-- **15–25%** improvement in planning accuracy  
-- **40–50%** reduction in manual reporting effort  
-- Faster leadership decision cycles  
-- Multiple production-style analytics apps  
-
+- **15–25%** improvement in planning accuracy through forecasting and scenario modeling  
+- **40–50%** reduction in manual reporting via analytics automation  
+- Faster leadership decision cycles with decision-ready insights  
+- Multiple production-style analytics applications supporting planning and reviews  
 
 ---
 
 ### 🎯 Target Roles
-**Senior Analytics Manager | Analytics Manager | Decision Analytics | Planning & Performance Analytics**  
+**Senior Analytics Manager | Decision Analytics Manager | Planning & Performance Analytics**  
 📍 Mumbai • Pune • Bengaluru • Hybrid / Remote
