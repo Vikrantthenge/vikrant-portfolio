@@ -3,7 +3,7 @@
 Forecasting • KPI Ownership • Capacity Planning • Automation • Python • SQL • Power BI
 
 [![View Full Portfolio](https://img.shields.io/badge/View%20Full%20Portfolio-Decision%20Analytics%20%26%20Architecture-blue?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/README.md)
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Senior_Analytics_Manager.pdf)
+[![Download Resume](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf)
 
 I build **decision-grade analytics systems** that replace reactive reporting with  
 **forecasting models, KPI governance, and early risk signals** used by leadership to plan, prioritize, and act.
