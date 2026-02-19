@@ -3,7 +3,7 @@
 Forecasting • KPI Governance • Scenario Planning • Capacity Optimization • Automation
 
 [![View Full Technical Portfolio](https://img.shields.io/badge/View%20Technical%20Apps-Operational%20Intelligence-blue?style=for-the-badge)](https://github.com/Vikrantthenge/Apps)  
-[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Analytics_Manager-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Analytics_Manager.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Analytics_Manager-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/vikrant%20Thenge%20_Operations%20Performance.pdf)
 
 I design **decision-grade analytics systems** that replace reactive reporting with  
 forecasting models, KPI governance frameworks, and early risk signals used by leadership to plan and act proactively.
