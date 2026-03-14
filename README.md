@@ -1,74 +1,119 @@
-# 🟥 Vikrant Thenge 🟥
-### Operations Intelligence & Decision Analytics Leader  
-Forecasting • KPI Governance • Scenario Planning • Capacity Optimization • Automation
+# Vikrant Thenge
+### Operations Performance & Intelligence Leader  
+Operational Performance • KPI Governance • Workforce Planning • Forecasting • Decision Systems
 
-[![View Full Technical Portfolio](https://img.shields.io/badge/View%20Technical%20Apps-Operational%20Intelligence-blue?style=for-the-badge)](https://github.com/Vikrantthenge/Apps)  
-[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Analytics_Manager-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/vikrant%20Thenge%20_Operations%20Performance.pdf)
+[![Operational Intelligence Systems](https://img.shields.io/badge/View%20Operational%20Systems-Portfolio-blue?style=for-the-badge)](https://github.com/Vikrantthenge/Apps)  
+[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Performance_Manager-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/vikrant%20Thenge%20_Operations%20Performance.pdf)
 
-I design **decision-grade analytics systems** that replace reactive reporting with  
-forecasting models, KPI governance frameworks, and early risk signals used by leadership to plan and act proactively.
+I design **operational intelligence systems** that support leadership decision-making across complex operational environments.  
 
----
-
-## 🔗 Professional Links
-
-- GitHub: https://github.com/Vikrantthenge  
-- LinkedIn: https://www.linkedin.com/in/vthenge  
-- Email: vikrantthenge@outlook.com  
+These systems combine forecasting models, KPI governance frameworks, and performance analytics platforms to improve operational visibility, planning accuracy, and resource optimization.
 
 ---
 
-## 👤 About
+## Professional Links
 
-Operations & Performance leader with 15+ years in airline operations, applying predictive analytics and decision-intelligence systems to high-variability operational ecosystems.
+GitHub  
+https://github.com/Vikrantthenge  
 
-My work focuses on:
+LinkedIn  
+https://www.linkedin.com/in/vthenge  
 
-- Workforce & capacity forecasting  
-- KPI governance & SLA performance tracking  
-- Risk modelling & early-warning systems  
-- Automation of reporting pipelines  
-- Scenario-based planning frameworks  
-
-The goal: reduce decision latency and enable structured, forward-looking operational planning.
+Email  
+vikrantthenge@outlook.com  
 
 ---
 
-## 📌 Flagship Decision Systems
+## About
 
-### 🔥 Workforce & Capacity Forecasting System  
-_Time Series • Scenario Modeling • Decision Analytics_
+Operations performance leader with experience across airline operations, operational control, and station management.
 
-Forecasts workload versus manpower to support staffing, capacity planning, and SLA risk mitigation.
+My work focuses on applying analytics and operational intelligence systems to support leadership decision-making in high-variability operational environments such as aviation and logistics networks.
 
-- Live App: https://forecasting-demo.streamlit.app/  
-- Code: https://github.com/Vikrantthenge/KPI-Risk-Tracker  
+Key focus areas include:
 
----
+- Workforce planning and capacity forecasting  
+- Operational KPI governance and performance monitoring  
+- Operational risk monitoring and early-warning systems  
+- Scenario-based operational planning  
+- Automation of operational reporting frameworks  
 
-### 🔥 Performance & SLA Governance Framework  
-_KPI Design • Operational Risk • Leadership Dashboards_
-
-KPI governance system to track SLA performance, delay drivers, and operational risk exposure.
-
-- Code: https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-  
+The objective is to strengthen operational planning, improve performance visibility, and enable data-informed operational decision-making.
 
 ---
 
-## 📊 Impact Orientation
+## Operational Intelligence Architecture
 
-- 15–25% improvement in planning accuracy via forecasting & scenario modelling  
-- 40–50% reduction in manual reporting through automation  
-- Structured leadership-ready dashboards replacing static MIS  
-- Designed for recurring planning forums and performance reviews  
+The portfolio systems are designed as an integrated operational intelligence framework supporting decision-making across airline operations.
+
+The architecture models how operational data flows through analytics layers to support leadership decision systems.
+
+Operational Data Sources  
+→ Flight schedules  
+→ Crew allocation and workforce data  
+→ Operational performance metrics  
+→ Financial and cost performance indicators  
+
+Analytics & Modelling Layer  
+→ Forecasting models for workforce and capacity planning  
+→ Machine learning models for delay prediction and anomaly detection  
+→ Scenario modelling for operational planning  
+
+Operational Intelligence Systems  
+→ Network and delay monitoring systems  
+→ Workforce optimization platforms  
+→ Financial KPI forecasting dashboards  
+→ Operational risk monitoring systems  
+
+Decision Support Layer  
+→ KPI governance dashboards  
+→ Operational performance monitoring  
+→ Operational planning insights for leadership  
 
 ---
 
-## 🎯 Target Roles
+## Flagship Operational Intelligence Systems
 
-Operations Analytics Manager  
-Performance Analytics Manager  
+### Workforce & Capacity Forecasting System  
+Operational forecasting system designed to analyse workload trends, staffing demand, and resource allocation patterns.
+
+Supports workforce planning, capacity optimization, and SLA risk mitigation.
+
+Live App  
+https://forecasting-demo.streamlit.app/
+
+Code  
+https://github.com/Vikrantthenge/KPI-Risk-Tracker  
+
+---
+
+### Operational Risk & Performance Monitoring System  
+Operational risk monitoring platform designed to track safety indicators, operational risk exposure, and performance trends.
+
+Supports proactive operational performance monitoring and risk visibility.
+
+Code  
+https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-  
+
+---
+
+## Operational Impact Orientation
+
+Examples of operational outcomes demonstrated through these systems:
+
+- 15–25% improvement in operational planning accuracy through forecasting and scenario modelling  
+- 40–50% reduction in manual reporting through automation workflows  
+- Improved operational visibility through structured KPI performance dashboards  
+- Decision-support systems designed for operational review forums and leadership planning cycles  
+
+---
+
+## Target Roles
+
+Operations Performance Manager  
+Operations Excellence Manager  
 Operations Intelligence Lead  
+Operational Analytics Manager  
 
-📍 Mumbai • Pune • Bengaluru • Hybrid / Remote
-
+Location  
+Mumbai • Pune • Bengaluru • Hybrid / Remote
