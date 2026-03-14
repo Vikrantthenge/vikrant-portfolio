@@ -115,5 +115,14 @@ Operations Excellence Manager
 Operations Intelligence Lead  
 Operational Analytics Manager  
 
-Location  
-Mumbai • Pune • Bengaluru • Hybrid / Remote UAE Qatar Singapore Europe
+## Location
+
+Mumbai • Pune • Bengaluru  
+
+## Open to Opportunities In
+
+UAE • Qatar • Singapore • Europe  
+
+## Work Mode
+
+Hybrid • Remote
