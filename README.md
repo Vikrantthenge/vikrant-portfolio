@@ -116,4 +116,4 @@ Operations Intelligence Lead
 Operational Analytics Manager  
 
 Location  
-Mumbai • Pune • Bengaluru • Hybrid / Remote
+Mumbai • Pune • Bengaluru • Hybrid / Remote UAE Qatar Singapore Europe
