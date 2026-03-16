@@ -3,7 +3,7 @@
 Operational Performance • KPI Governance • Workforce Planning • Forecasting • Decision Systems
 
 [![Operational Intelligence Systems](https://img.shields.io/badge/View%20Operational%20Systems-Portfolio-blue?style=for-the-badge)](https://github.com/Vikrantthenge/Apps)  
-[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Performance_Manager-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/vikrant%20Thenge%20_Operations%20Performance.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Performance_Manager-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/VIKRANT%20THENGE_Operations%20Analytics%20.pdf)
 
 I design **operational intelligence systems** that support leadership decision-making across complex operational environments.  
 
