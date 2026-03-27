@@ -3,7 +3,7 @@
 Decision Systems • Predictive Modeling • Performance Optimization • Operational Intelligence  
 
 [![Operational Intelligence Systems](https://img.shields.io/badge/View%20Operational%20Systems-Portfolio-blue?style=for-the-badge)](https://github.com/Vikrantthenge/Apps)  
-[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Analytics-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/VIKRANT%20THENGE_Operations%20Analytics%20.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Analytics-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant%20Thenge%20Resume%20Operations%20Analytics%20.pdf)
 
 ---
 
