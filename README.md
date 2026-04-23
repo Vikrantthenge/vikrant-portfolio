@@ -118,18 +118,7 @@ UAE • Qatar • Singapore • Europe
 
 ## 🔗 Connect
 
-<p align="left">
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/Vikrantthenge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vthenge)
+[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge\&logo=microsoftoutlook)](mailto:vikrantthenge@outlook.com)
 
-<a href="https://github.com/Vikrantthenge">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="20"/> GitHub
-</a> &nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/vthenge">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> LinkedIn
-</a> &nbsp;&nbsp;
-
-<a href="mailto:vikrantthenge@outlook.com">
-  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="20"/> Email
-</a>
-
-</p>
