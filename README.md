@@ -1,149 +1,135 @@
-# Vikrant Thenge  
-### Operations Performance & Analytics Leader  
-Decision Systems • Predictive Modeling • Performance Optimization • Operational Intelligence  
+# Vikrant Thenge
 
-[![Operational Intelligence Systems](https://img.shields.io/badge/View%20Operational%20Systems-Portfolio-blue?style=for-the-badge)](https://github.com/Vikrantthenge/Apps)  
-[![Download Resume](https://img.shields.io/badge/Download_Resume-Operations_Analytics-green?style=for-the-badge)](https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant%20Thenge%20Resume%20Operations%20Analytics%20.pdf)
+### Operational Intelligence • Decision Systems • Performance Optimization
 
----
+Improving cost efficiency, network performance, and operational decision-making through forecasting, automation, and real-time intelligence systems.
 
-## What I Do
-
-I build **data-driven decision systems** that improve operational performance (SLA, cost, capacity) using forecasting, automation, and analytics.
-
----
-
-## Key Impact
-
-- ₹1.5 Cr cost recovery through operational audits  
-- 40–50% reduction in manual reporting via automation  
-- 20–25% improvement in forecasting accuracy  
-- 7–8 deployed analytics applications (Streamlit, cloud-hosted)  
+<p align="left">
+<a href="https://github.com/Vikrantthenge/Apps">
+  <img src="https://img.shields.io/badge/View%20Systems-Portfolio-blue?style=for-the-badge">
+</a>
+<a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant%20Thenge%20Resume%20Operations%20Analytics%20.pdf">
+  <img src="https://img.shields.io/badge/Download%20Resume-Operations%20Analytics-green?style=for-the-badge">
+</a>
+</p>
 
 ---
 
-## Professional Links
+## 🚀 Key Impact
 
-**GitHub**  
-https://github.com/Vikrantthenge  
-
-**LinkedIn**  
-https://www.linkedin.com/in/vthenge  
-
-**Email**  
-vikrantthenge@outlook.com  
+* ₹1.5 Cr cost recovery through operational performance optimization
+* 40–50% reduction in manual reporting via automation systems
+* 20–25% improvement in forecasting accuracy (workforce & capacity)
+* 7+ deployed operational analytics systems (Streamlit, cloud-based)
 
 ---
 
-## About
+## ⚙️ What I Build
 
-Operations performance leader with experience across airline operations, flight operations, and station management.
+I design and deploy **operational decision systems** that enable:
 
-I combine **operational expertise with analytics and decision systems** to improve performance visibility, forecasting accuracy, and operational planning.
-
-Experience includes:
-
-- Workforce planning and capacity forecasting  
-- KPI governance and performance monitoring  
-- Operational risk monitoring and early-warning systems  
-- Scenario-based operational planning  
-- Automation of operational reporting workflows  
+* Performance visibility across network operations
+* Cost and resource optimization
+* Forecast-driven planning and decision-making
+* Early risk detection and proactive intervention
 
 ---
 
-## What I Bring
+## 🧠 Leadership & Ownership
 
-- Operations + Analytics + Decision Systems (end-to-end ownership)  
-- Ability to translate operational problems into deployable analytics solutions  
-- Experience across aviation operations, forecasting, and performance optimization  
-
----
-
-## Operational Intelligence Architecture
-
-End-to-end operational intelligence framework combining data, forecasting models, and decision systems to support real-time operational planning and performance monitoring.
-
-**Operational Data Sources**  
-→ Flight schedules  
-→ Workforce and crew allocation data  
-→ Operational performance metrics  
-→ Cost and financial performance data  
-
-**Analytics & Modelling Layer**  
-→ Forecasting models for workforce and capacity planning  
-→ Predictive models for delay detection and anomaly identification  
-→ Scenario modelling for operational planning  
-
-**Operational Intelligence Systems**  
-→ Network and delay monitoring systems  
-→ Workforce optimization platforms  
-→ KPI and cost performance dashboards  
-→ Operational risk monitoring systems  
-
-**Decision Support Layer**  
-→ KPI governance dashboards  
-→ Operational performance monitoring  
-→ Planning and decision support for leadership teams  
+* Led cross-functional initiatives across operations, planning, and analytics
+* Converted operational problems into deployable analytics systems
+* Enabled leadership decision-making through data visibility and forecasting
 
 ---
 
-## Flagship Operational Intelligence Systems
+## 🧩 How It Works
 
-### Workforce & Capacity Forecasting System  
+**Data → Models → Decision Systems**
 
-Forecasting system for workforce and capacity planning, enabling proactive staffing decisions and SLA risk reduction.
+* **Data:** Operational, workforce, performance, cost
+* **Models:** Forecasting, anomaly detection, scenario planning
+* **Systems:** Dashboards, monitoring tools, decision platforms
 
-**Live App**  
+---
+
+## 🏗️ Flagship Systems
+
+### 📊 Workforce & Capacity Forecasting System
+
+Forecast-driven system enabling proactive workforce planning and improved operational readiness.
+
+🔗 **Live App**
 https://forecasting-demo.streamlit.app/
 
-**Code**  
-https://github.com/Vikrantthenge/KPI-Risk-Tracker  
+💻 **Code**
+https://github.com/Vikrantthenge/KPI-Risk-Tracker
 
-**Impact:** Improved planning visibility and enabled proactive operational decision-making  
-
----
-
-### Operational Risk & Performance Monitoring System  
-
-Operational risk monitoring platform for tracking safety indicators, performance trends, and operational risk exposure.
-
-**Code**  
-https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-  
-
-**Impact:** Enhanced operational visibility and enabled proactive performance monitoring  
+📈 **Impact**
+Improved planning visibility and proactive decision-making
 
 ---
 
-## Additional Systems
+### ⚠️ Operational Risk & Performance Monitoring
 
-- KPI performance dashboards for operational monitoring  
-- Automated reporting systems using Python and SQL  
-- Scenario-based planning tools for operational decision support  
+System for tracking operational risk, performance trends, and early warning signals.
 
----
+💻 **Code**
+https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
 
-## Target Roles
-
-- Operations Performance Manager  
-- Operations Excellence Manager  
-- Operations Intelligence Lead  
-- Operational Analytics Manager  
+📈 **Impact**
+Enhanced operational visibility and proactive performance monitoring
 
 ---
 
-## Location
+## 🧱 Additional Systems
 
-Mumbai • Pune • Bengaluru  
-
----
-
-## Open to Opportunities
-
-UAE • Qatar • Singapore • Europe  
+* KPI and performance monitoring dashboards
+* Automated reporting (Python, SQL)
+* Scenario-based planning tools
 
 ---
 
-## Work Mode
+## 🛠️ Tools & Technologies
 
-Hybrid • Remote  
+Python • SQL • Power BI • Streamlit • Excel • Cloud Platforms
 
+---
+
+## 🎯 Target Roles
+
+* Operations Analytics Manager
+* Operations Excellence / Performance Manager
+* Operations Intelligence Lead
+
+---
+
+## 🌍 Location
+
+Mumbai • Pune • Bengaluru
+
+---
+
+## ✈️ Open to Opportunities
+
+UAE • Qatar • Singapore • Europe
+
+---
+
+## 🔗 Connect
+
+<p align="left">
+
+<a href="https://github.com/Vikrantthenge">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="20"/> GitHub
+</a> &nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/vthenge">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> LinkedIn
+</a> &nbsp;&nbsp;
+
+<a href="mailto:vikrantthenge@outlook.com">
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="20"/> Email
+</a>
+
+</p>
