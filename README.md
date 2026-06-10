@@ -8,7 +8,7 @@ Improving cost efficiency, network performance, and operational decision-making 
 <a href="https://github.com/Vikrantthenge/Apps">
   <img src="https://img.shields.io/badge/View%20Systems-Portfolio-blue?style=for-the-badge">
 </a>
-<a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant%20Thenge%20Operations%20Analytics%20Lead.pdf">
+<a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Operations_Excellence_Analytics_Leader_Resume.pdf">
   <img src="https://img.shields.io/badge/Download%20Resume-Operations%20Analytics-green?style=for-the-badge">
 </a>
 </p>
