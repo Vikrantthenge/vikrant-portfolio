@@ -113,3 +113,24 @@ Open to relevant opportunities in the UAE, Qatar, Singapore, and Europe.
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-24292F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vthenge)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:vikrantthenge@outlook.com)
+
+
+
+
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)](https://forecasting-demo.streamlit.app/)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+
+[![Live Showcase](https://img.shields.io/badge/Live_Showcase-View_Project-3ED598?style=flat-square\&logo=githubpages\&logoColor=white)](https://vikrantthenge.github.io/ai-ops-assistant/)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/ai-ops-assistant)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-24292F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vthenge)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:vikrantthenge@outlook.com)
+
