@@ -79,7 +79,7 @@ Manager • Supply Chain & Network Analytics
 ---
 
 ## 🌍 Location
-Mumbai • Pune • Bengaluru — open to UAE, Qatar, Singapore, Europe
+Mumbai • Pune • Bengaluru • Chennai • Pan India — open to UAE, Qatar, Singapore, Europe
 
 ---
 
