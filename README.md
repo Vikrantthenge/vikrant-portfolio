@@ -1,12 +1,13 @@
 # Vikrant Thenge
+### Aviation Operations Leader → Operations Analytics & Decision Systems
 
-### Operational Intelligence • Decision Systems • Performance Optimization
-
-Improving cost efficiency, network performance, and operational decision-making through forecasting, automation, and real-time intelligence systems.
+20+ years in airline and high-volume operations, now building analytics
+and decision-support tools that apply that operational experience to
+forecasting, KPI tracking, and performance monitoring.
 
 <p align="left">
 <a href="https://github.com/Vikrantthenge/Apps">
-  <img src="https://img.shields.io/badge/View%20Systems-Portfolio-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/View%20Projects-Portfolio-blue?style=for-the-badge">
 </a>
 <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant%20Thenge%20Operations%20Analytics%20Manager.pdf">
   <img src="https://img.shields.io/badge/Download%20Resume-Operations%20Analytics-green?style=for-the-badge">
@@ -15,110 +16,74 @@ Improving cost efficiency, network performance, and operational decision-making 
 
 ---
 
-## 🚀 Key Impact
-
-* ₹1.5 Cr cost recovery through operational performance optimization
-* 40–50% reduction in manual reporting via automation systems
-* 20–25% improvement in forecasting accuracy (workforce & capacity)
-* 7+ deployed operational analytics systems (Streamlit, cloud-based)
-
----
-
 ## ⚙️ What I Build
 
-I design and deploy **operational decision systems** that enable:
+Self-directed projects applying 20+ years of airline operations
+experience to modern analytics tooling:
 
-* Performance visibility across network operations
-* Cost and resource optimization
-* Forecast-driven planning and decision-making
-* Early risk detection and proactive intervention
-
----
-
-## 🧠 Leadership & Ownership
-
-* Led cross-functional initiatives across operations, planning, and analytics
-* Converted operational problems into deployable analytics systems
-* Enabled leadership decision-making through data visibility and forecasting
+* Forecasting and capacity-planning models
+* KPI tracking and performance-monitoring dashboards
+* Reporting-automation workflows
+* Early-stage anomaly/risk-monitoring tools
 
 ---
 
-## 🧩 How It Works
+## 🏗️ Projects
 
-**Data → Models → Decision Systems**
+### 📊 Workforce & Capacity Forecasting
+Forecasting tool exploring proactive workforce and capacity planning,
+built on operational planning principles from airline scheduling.
 
-* **Data:** Operational, workforce, performance, cost
-* **Models:** Forecasting, anomaly detection, scenario planning
-* **Systems:** Dashboards, monitoring tools, decision platforms
-
----
-
-## 🏗️ Flagship Systems
-
-### 📊 Workforce & Capacity Forecasting System
-
-Forecast-driven system enabling proactive workforce planning and improved operational readiness.
-
-🔗 **Live App**
-https://forecasting-demo.streamlit.app/
-
-💻 **Code**
-https://github.com/Vikrantthenge/KPI-Risk-Tracker
-
-📈 **Impact**
-Improved planning visibility and proactive decision-making
-
----
+🔗 **Live demo:** https://forecasting-demo.streamlit.app/
+💻 **Code:** https://github.com/Vikrantthenge/KPI-Risk-Tracker
 
 ### ⚠️ Operational Risk & Performance Monitoring
+Dashboard prototype for tracking performance trends and surfacing
+early warning signals in operational data.
 
-System for tracking operational risk, performance trends, and early warning signals.
+💻 **Code:** https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
 
-💻 **Code**
-https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
-
-📈 **Impact**
-Enhanced operational visibility and proactive performance monitoring
+### 🤖 AI-Powered Operations Intelligence Assistant
+Local Generative AI assistant (Ollama, Docker, Open WebUI) exploring
+prompt-engineering workflows for operational risk analysis and
+executive-style reporting summaries.
 
 ---
 
-## 🧱 Additional Systems
+## 🧩 Approach
 
-* KPI and performance monitoring dashboards
-* Automated reporting (Python, SQL)
-* Scenario-based planning tools
+**Data → Models → Decision Tools**
+* **Data:** Operational, workforce, performance, cost
+* **Models:** Forecasting, scenario planning, anomaly detection
+* **Tools:** Dashboards, monitoring prototypes, automation scripts
 
 ---
 
 ## 🛠️ Tools & Technologies
+Python • SQL • Power BI • Streamlit • Excel • AWS • Docker • Generative AI
 
-Python • SQL • Power BI • Streamlit • Excel • Cloud Platforms
+---
+
+## ✈️ Background
+20+ years in airline operations — All Nippon Airways, Garuda Indonesia,
+Uganda Airlines — in flight operations, station management, and
+network performance roles. FAA Flight Dispatch licensed. Currently
+applying that operational depth to analytics and decision-support tooling.
 
 ---
 
 ## 🎯 Target Roles
-
-* Operations Analytics Manager
-* Operations Excellence / Performance Manager
-* Operations Intelligence Lead
+Operations Analytics Manager • Operations Excellence / Performance
+Manager • Supply Chain & Network Analytics
 
 ---
 
 ## 🌍 Location
-
-Mumbai • Pune • Bengaluru
-
----
-
-## ✈️ Open to Opportunities
-
-UAE • Qatar • Singapore • Europe
+Mumbai • Pune • Bengaluru — open to UAE, Qatar, Singapore, Europe
 
 ---
 
 ## 🔗 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/Vikrantthenge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vthenge)
-[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge\&logo=microsoftoutlook)](mailto:vikrantthenge@outlook.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Vikrantthenge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vthenge)
+[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:vikrantthenge@outlook.com)
