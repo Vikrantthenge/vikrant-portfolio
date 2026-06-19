@@ -10,7 +10,7 @@ I build practical analytics solutions that turn operational data into better pla
   <a href="https://github.com/Vikrantthenge/Apps">
     <img src="https://img.shields.io/badge/Portfolio-View_Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant%20Thenge%20Operations%20Analytics%20Manager.pdf">
+  <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Aviation_Operations_Analytics_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View_PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://vikrantthenge.github.io/ai-ops-assistant/">
