@@ -1,4 +1,3 @@
-```md
 # Vikrant Thenge
 
 ### Aviation Operations & Performance Leader | OCC, Station & Flight Operations | Aviation Analytics
@@ -23,30 +22,30 @@ I combine operational leadership with applied analytics to build practical decis
 
 ## ✈️ Professional Focus
 
-I develop aviation-focused analytics and decision-support solutions grounded in practical airline and airport operations experience.
+I develop aviation-focused analytics and decision-support solutions grounded in practical airline, airport and aviation-services experience.
 
 My work focuses on:
 
-- Flight-delay risk prediction and explainability
-- Workforce, roster and resource planning
-- Demand forecasting and capacity planning
-- KPI and operational-performance monitoring
-- Operational risk and early-warning analysis
-- Reporting and data-automation workflows
-- Generative AI for management reporting and operational intelligence
+* Flight-delay risk prediction and explainability
+* Workforce, roster and resource planning
+* Demand forecasting and capacity planning
+* KPI and operational-performance monitoring
+* Operational risk and early-warning analysis
+* Reporting and data-automation workflows
+* Generative AI for management reporting and operational intelligence
 
 ---
 
 ## 📈 Selected Career Impact
 
-- Recovered approximately **₹1.5 Cr in vendor overbilling**
-- Avoided **₹40–50 lakh in potential financial and compliance exposure**
-- Improved staffing efficiency by **32%**
-- Improved manpower productivity by **23%**
-- Reduced passenger complaints by **45%**
-- Managed an approximately **₹2 Cr annual station budget**
-- Led teams of **20+ employees**
-- Managed **45-minute international aircraft turnarounds**
+* Recovered approximately **₹1.5 Cr in vendor overbilling**
+* Avoided **₹40–50 lakh in potential financial and compliance exposure**
+* Improved staffing efficiency by **32%**
+* Improved manpower productivity by **23%**
+* Reduced passenger complaints by **45%**
+* Managed an approximately **₹2 Cr annual station budget**
+* Led teams of **20+ employees**
+* Managed **45-minute international aircraft turnarounds**
 
 ---
 
@@ -60,13 +59,13 @@ The project was designed to move beyond a simple delayed or not-delayed predicti
 
 **Key capabilities:**
 
-- Flight-delay risk classification
-- Approximately 82% test-set classification accuracy during portfolio testing
-- SHAP-based model explainability
-- Operational risk-driver identification
-- Management-oriented decision-support outputs
+* Flight-delay risk classification
+* Approximately 82% test-set classification accuracy during portfolio testing
+* SHAP-based model explainability
+* Operational risk-driver identification
+* Management-oriented decision-support outputs
 
-[![Project Collection](https://img.shields.io/badge/Project_Collection-View_on_GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Vikrantthenge/Apps)
+[![Project Collection](https://img.shields.io/badge/Project_Collection-View_on_GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/Apps)
 
 ---
 
@@ -76,13 +75,13 @@ Scenario-based workforce and roster-planning solution designed to support staffi
 
 **Key capabilities:**
 
-- Staffing-demand assessment
-- Shift-coverage analysis
-- Workforce-capacity scenarios
-- Roster comparison
-- Resource-planning decision support
+* Staffing-demand assessment
+* Shift-coverage analysis
+* Workforce-capacity scenarios
+* Roster comparison
+* Resource-planning decision support
 
-[![Project Collection](https://img.shields.io/badge/Project_Collection-View_on_GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Vikrantthenge/Apps)
+[![Project Collection](https://img.shields.io/badge/Project_Collection-View_on_GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/Apps)
 
 ---
 
@@ -92,14 +91,14 @@ Forecasting and planning tool designed to support proactive workforce allocation
 
 **Key capabilities:**
 
-- Demand forecasting
-- Capacity assessment
-- Workforce-planning scenarios
-- KPI monitoring
-- Management decision support
+* Demand forecasting
+* Capacity assessment
+* Workforce-planning scenarios
+* KPI monitoring
+* Management decision support
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://forecasting-demo.streamlit.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)](https://forecasting-demo.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
 
 ---
 
@@ -109,13 +108,13 @@ Dashboard prototype for monitoring operational-performance trends, identifying e
 
 **Key capabilities:**
 
-- KPI and performance tracking
-- Operational-risk monitoring
-- Trend and variance analysis
-- Early-warning indicators
-- Management reporting
+* KPI and performance tracking
+* Operational-risk monitoring
+* Trend and variance analysis
+* Early-warning indicators
+* Management reporting
 
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
 ---
 
@@ -127,16 +126,16 @@ The project explores how locally hosted language models can support operational-
 
 **Key capabilities:**
 
-- Aviation-safety data analysis
-- Operational-risk identification
-- Human-factors pattern analysis
-- KPI assessment
-- Executive summarisation
-- Local LLM deployment
-- Prompt-engineered management workflows
+* Aviation-safety data analysis
+* Operational-risk identification
+* Human-factors pattern analysis
+* KPI assessment
+* Executive summarisation
+* Local LLM deployment
+* Prompt-engineered management workflows
 
-[![Live Showcase](https://img.shields.io/badge/Live_Showcase-View_Project-3ED598?style=flat-square&logo=githubpages&logoColor=white)](https://vikrantthenge.github.io/ai-ops-assistant/)
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Vikrantthenge/ai-ops-assistant)
+[![Live Showcase](https://img.shields.io/badge/Live_Showcase-View_Project-3ED598?style=flat-square\&logo=githubpages\&logoColor=white)](https://vikrantthenge.github.io/ai-ops-assistant/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Vikrantthenge/ai-ops-assistant)
 
 ---
 
@@ -144,10 +143,10 @@ The project explores how locally hosted language models can support operational-
 
 ### Data → Analysis → Operational Decision
 
-- **Data:** Operational, workforce, service, performance, safety and cost data
-- **Analysis:** Forecasting, scenario planning, KPI assessment, risk analysis and anomaly detection
-- **Decision support:** Dashboards, planning models, monitoring systems and automated reporting workflows
-- **Management outcome:** Better visibility, earlier intervention, stronger resource planning and more structured operational decisions
+* **Data:** Operational, workforce, service, performance, safety and cost data
+* **Analysis:** Forecasting, scenario planning, KPI assessment, risk analysis and anomaly detection
+* **Decision support:** Dashboards, planning models, monitoring systems and automated reporting workflows
+* **Management outcome:** Better visibility, earlier intervention, stronger resource planning and more structured operational decisions
 
 ---
 
@@ -177,25 +176,25 @@ More than 20 years of experience across international airlines, aviation service
 
 My professional background includes experience with:
 
-- Uganda Airlines
-- All Nippon Airways
-- Garuda Indonesia Airways
-- BWFS Ground Handling
-- Saudi Arabian Airlines
-- Cathay Pacific / CNS
+* Uganda Airlines
+* All Nippon Airways
+* Garuda Indonesia Airways
+* BWFS Ground Handling
+* Saudi Arabian Airlines
+* Cathay Pacific / CNS
 
 My operational experience covers:
 
-- Station and flight operations
-- OCC and disruption support
-- Aircraft turnaround management
-- On-time performance
-- Workforce and capacity planning
-- Vendor and SLA governance
-- Operational risk and compliance
-- Budget and cost control
-- KPI governance
-- Cross-functional stakeholder coordination
+* Station and flight operations
+* OCC and disruption support
+* Aircraft turnaround management
+* On-time performance
+* Workforce and capacity planning
+* Vendor and SLA governance
+* Operational risk and compliance
+* Budget and cost control
+* KPI governance
+* Cross-functional stakeholder coordination
 
 I hold an **FAA Aircraft Dispatcher Certificate** and apply my aviation domain experience to analytics, forecasting, operational-performance management and decision-support solutions.
 
@@ -203,14 +202,14 @@ I hold an **FAA Aircraft Dispatcher Certificate** and apply my aviation domain e
 
 ## 🎯 Target Roles
 
-- Aviation Operations Analytics Manager
-- Aviation Operations Performance Manager
-- Senior Manager, Airline Operations Performance
-- OCC Performance & Transformation Manager
-- Network Operations Performance Manager
-- Airport or Ground Handling Performance Manager
-- Aviation Operations Technology Program Manager
-- Aviation Technology Domain Consultant
+* Aviation Operations Analytics Manager
+* Aviation Operations Performance Manager
+* Senior Manager, Airline Operations Performance
+* OCC Performance & Transformation Manager
+* Network Operations Performance Manager
+* Airport or Ground Handling Performance Manager
+* Aviation Operations Technology Program Manager
+* Aviation Technology Domain Consultant
 
 ---
 
@@ -235,4 +234,3 @@ Open to relevant aviation opportunities in the UAE, Qatar, Singapore and Europe.
     <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
 </p>
-```
