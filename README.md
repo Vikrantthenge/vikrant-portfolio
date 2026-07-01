@@ -10,7 +10,7 @@ I combine operational leadership with applied analytics to build practical decis
   <a href="https://github.com/Vikrantthenge/Apps">
     <img src="https://img.shields.io/badge/Portfolio-View_Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Aviation_Operations_Analytics_Resume.pdf">
+  <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Aviation_Operations_Analytics.pdf">
     <img src="https://img.shields.io/badge/Resume-View_PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://vikrantthenge.github.io/ai-ops-assistant/">
