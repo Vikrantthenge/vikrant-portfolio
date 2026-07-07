@@ -182,7 +182,7 @@ Currently exploring senior opportunities in:
 - Airport or Ground Handling Performance Manager
 - Senior Manager, Airline Operations Transformation
 
-**Location:** Mumbai · Pune · Bengaluru · Hyderabad · Delhi NCR · Pan India
+**Location:** Mumbai · Pune · Bengaluru · Chennai · Delhi · NCR Hyderabad · Pan India
 **International:** UAE · Qatar · Singapore · Europe (with visa support)
 
 ---
