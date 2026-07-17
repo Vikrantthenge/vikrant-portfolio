@@ -10,7 +10,7 @@ That is where I add value.
   <a href="https://www.linkedin.com/in/vthenge">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Aviation_Operations_Analytics.pdf">
+  <a href="https://github.com/Vikrantthenge/vikrant-portfolio/blob/main/Vikrant_Thenge_Resume_Ops%20Analytics.pdf">
     <img src="https://img.shields.io/badge/Resume-View_PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://vikrantthenge.github.io/ai-ops-assistant/">
