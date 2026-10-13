@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/vthenge">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Vikrantthenge">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Vikrantthenge/Apps">
+    <img src="https://img.shields.io/badge/GitHub-Apps-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:vikrantthenge@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
