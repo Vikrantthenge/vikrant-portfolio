@@ -135,6 +135,58 @@ https://github.com/Vikrantthenge/operations-control-tower
 
 ---
 
+# Airline Ground Turnaround Performance Case Study
+
+## Monitoring turnaround variance, SLA compliance and on-time performance
+
+### Operational Problem
+
+Ground turnaround performance depends on coordinated activities across stations, ground handlers and scheduled time bands. When turnaround time exceeds the planned or assumed threshold, it can contribute to departure delays and make it harder for operations teams to identify where performance needs investigation.
+
+### Solution
+
+An interactive airline operations dashboard built to monitor turnaround performance, highlight SLA breaches and compare operational KPIs across stations and ground handlers. Users can filter the simulated records by operational dimensions and examine patterns in turnaround variance, SLA compliance and on-time performance.
+
+### Key Indicators
+
+The dashboard currently analyses **1,500 simulated flight-turnaround records** covering January–March 2026.
+
+| Indicator | Result from simulated dataset |
+|---|---:|
+| SLA breach rate | Approximately 45.7% |
+| On-time performance (OTP) | Approximately 74.7% |
+| Average turnaround variance | +10.1 minutes |
+| Records analysed | 1,500 |
+
+These are descriptive results from the demonstration dataset, not verified results from a real airline operation.
+
+### What the Case Study Demonstrates
+
+- Monitoring turnaround variance and assumed SLA compliance
+- Tracking on-time performance and departure-delay indicators
+- Comparing performance across stations and ground handlers
+- Filtering results by station, handler and scheduled time band
+- Using KPI views to support operational investigation and management decisions
+
+### Technology
+
+`Python` · `Streamlit` · `Pandas` · `Plotly` · `CSV` · `Operations Performance Analytics`
+
+🔗 **Live Interactive Dashboard:**  
+https://ground-turnaround-performance-analysis.streamlit.app/
+
+🔗 **GitHub Repository:**  
+https://github.com/Vikrantthenge/ground-turnaround-performance-analysis
+
+🔗 **HTML Dashboard Preview:**  
+https://vikrantthenge.github.io/ground-turnaround-performance-analysis/Dashboard_Preview.html
+
+### Data and Scope Disclaimer
+
+The dataset and reported figures are simulated for portfolio demonstration. They do not represent actual airline performance, verified operational improvements or cost savings. SLA and OTP definitions are assumptions for this exercise, not official airline-wide standards. The HTML preview is a standalone dashboard preview, not a native Power BI `.pbix` file.
+
+---
+
 # Aviation Operations & Network Analytics
 
 ## ✈️ Flight Delay Predictor
