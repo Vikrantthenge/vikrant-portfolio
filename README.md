@@ -2,9 +2,9 @@
 
 ## Operations & Aviation Domain Leader
 
-### Business Analysis · Operations Analytics · Process Improvement · Technology-Enabled Operations
+### Operations Performance · Control Tower & Network Operations · Workforce & Capacity Planning · Operations Analytics
 
-**20+ Years Airline Operations | FAA Aircraft Dispatcher | KPI & SLA Governance | Python | SQL | Power BI | Applied Analytics**
+**20+ Years Airline Operations | FAA Aircraft Dispatcher | KPI & SLA Governance | Python | Power BI | Applied Analytics**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vthenge">
@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
 </p>
+
+**Open to:** Operations Performance, Control Tower, Network Operations, Workforce / Capacity Planning and Operational Excellence roles in aviation, air cargo and logistics. Mumbai, Pune or remote within India.
 
 ---
 
@@ -42,7 +44,7 @@ My experience spans:
 
 I have led teams of **20+ staff**, managed an operating budget of approximately **₹2 Cr**, handled international airline operations against tight turnaround requirements and delivered measurable improvements in cost, productivity, service and operational governance.
 
-Since 2024, I have extended this operational background into **business analysis, operations analytics and technology-enabled decision support**, independently developing applications using Python, SQL, Power BI, machine learning, forecasting and Streamlit.
+Since 2024, I have extended this operational background into **operations analytics and technology-enabled decision support**, independently developing applications using Python, Power BI, machine learning, forecasting and Streamlit.
 
 My value sits at the intersection of **domain expertise, operational problem-solving and technology**.
 
@@ -52,7 +54,7 @@ My value sits at the intersection of **domain expertise, operational problem-sol
 
 | Operational Outcome | Result |
 |---|---:|
-| Vendor overbilling recovered | ~₹1.5 Cr |
+| Vendor overbilling corrected before invoicing | ~₹1.5 Cr |
 | Financial / penalty exposure averted | ₹40–50 lakh |
 | Staffing efficiency improvement | +32% |
 | Manpower productivity improvement | +23% |
@@ -61,9 +63,20 @@ My value sits at the intersection of **domain expertise, operational problem-sol
 | Operating cost savings delivered | ~₹3.5 lakh in 3 months |
 | Annual station budget managed | ~₹2 Cr |
 | Operational team leadership | 20+ staff |
-| Flight-delay model test-set accuracy | ~82% |
 
-These outcomes come from operational leadership roles and independently developed analytics work. They are not presented as results delivered for external analytics clients.
+These outcomes come from my operational leadership roles. They are not results delivered for external analytics clients, and none of the portfolio projects below produced them.
+
+---
+
+## Start Here: Portfolio at a Glance
+
+| Project | Decision it supports | Best fit for |
+|---|---|---|
+| [Operations Intelligence Control Tower](#operations-intelligence-control-tower) | Where to intervene first when KPIs, SLAs or capacity slip | Control Tower, Operations Performance |
+| [Ground Turnaround Case Study](#airline-ground-turnaround-performance-case-study) | Which stations and handlers need investigation on turnaround variance | Station and Network Operations |
+| [Flight Delay Predictor](#flight-delay-predictor) | Which flights carry elevated delay risk, and why | Network Operations, OCC Performance |
+| [CrewOps Workforce Optimization](#crewops-workforce-optimization) | How many people to roster for a given demand scenario | Workforce and Capacity Planning |
+| [Operational Safety & Risk Analytics](#operational-safety--risk-analytics) | Where safety attention should go first | Safety, Compliance, Decision Support |
 
 ---
 
@@ -73,24 +86,9 @@ The portfolio explores a simple question:
 
 > **How can operational data be converted into information that helps managers identify problems earlier, understand why they are happening and decide what to do next?**
 
-The applications address operational problems including:
+The objective is not technology for its own sake. It is to combine **operational judgement with analytics** so decisions are faster, more measurable and more consistent.
 
-- Real-time performance visibility
-- KPI and SLA monitoring
-- Capacity and workforce planning
-- Flight-delay risk
-- Revenue forecasting
-- Operational safety
-- Predictive maintenance
-- Financial performance
-- Customer analytics
-- Management decision support
-
-The objective is not technology for its own sake.
-
-The objective is to combine **operational judgement with analytics** to make decisions faster, more measurable and more consistent.
-
-> **Portfolio Disclosure:** These applications are independently conceived, self-funded and self-developed portfolio projects. No employer or external client set the project briefs. Operational problem selection and functional logic are informed by my professional experience, while the applications use synthetic, public or demonstration data where applicable.
+> **Portfolio Disclosure:** These applications are independently conceived, self-funded and self-developed portfolio projects. No employer or external client set the project briefs. Operational problem selection and functional logic are informed by my professional experience, while the applications use synthetic, public or demonstration data where applicable. Python and Power BI were self-taught from 2021 onward and were not part of my formal airline roles.
 
 ---
 
@@ -189,7 +187,7 @@ The dataset and reported figures are simulated for portfolio demonstration. They
 
 # Aviation Operations & Network Analytics
 
-## ✈️ Flight Delay Predictor
+## Flight Delay Predictor
 
 ### Operational Problem
 
@@ -197,15 +195,13 @@ Traditional performance reporting explains delays after they occur. Operations t
 
 ### Solution
 
-A machine-learning application that estimates flight-delay probability and surfaces the factors influencing the prediction.
-
-The application demonstrates how predictive analytics and model explainability can support earlier operational intervention.
+A machine-learning application that estimates flight-delay probability and surfaces the factors influencing the prediction, so a non-technical operations lead can see why a flight is flagged.
 
 ### Technology
 
 `Python` · `Machine Learning` · `SHAP` · `Predictive Analytics` · `Streamlit`
 
-**Model performance:** ~82% test-set accuracy.
+**Model performance:** ~82% test-set accuracy on historical data. This is a held-out test result, not a live deployment.
 
 🔗 **Live Application:**  
 https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py
@@ -215,7 +211,7 @@ https://github.com/Vikrantthenge/flight-delay-predictor
 
 ---
 
-## 👥 CrewOps Workforce Optimization
+## CrewOps Workforce Optimization
 
 ### Operational Problem
 
@@ -236,6 +232,30 @@ https://crew-optimizer.streamlit.app/
 
 🔗 **GitHub:**  
 https://github.com/Vikrantthenge/crew-optimizer
+
+---
+
+## Operational Safety & Risk Analytics
+
+### Operational Problem
+
+Safety and operational-risk data can become fragmented across reports, events and performance indicators, making emerging patterns difficult to identify.
+
+### Solution
+
+An operational risk-monitoring application designed to analyse safety indicators and identify patterns of operational exposure.
+
+The project demonstrates how analytics can support structured risk monitoring and management review.
+
+### Technology
+
+`Python` · `Risk Analytics` · `Operational Monitoring` · `Data Visualization`
+
+🔗 **Live Application:**  
+https://huggingface.co/spaces/vthenge/risk-analytics
+
+🔗 **GitHub:**  
+https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
 
 ---
 
@@ -283,90 +303,6 @@ https://github.com/Vikrantthenge/predictive_dashboard
 
 ---
 
-## ⚠️ Operational Safety & Risk Analytics
-
-### Operational Problem
-
-Safety and operational-risk data can become fragmented across reports, events and performance indicators, making emerging patterns difficult to identify.
-
-### Solution
-
-An operational risk-monitoring application designed to analyse safety indicators and identify patterns of operational exposure.
-
-The project demonstrates how analytics can support structured risk monitoring and management review.
-
-### Technology
-
-`Python` · `Risk Analytics` · `Operational Monitoring` · `Data Visualization`
-
-🔗 **Live Application:**  
-https://huggingface.co/spaces/vthenge/risk-analytics
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
-
----
-
-# Performance & Business Analytics
-
-## 💰 Financial KPI Forecasting System
-
-Operational and financial forecasting application combining KPI monitoring with scenario-based analysis.
-
-The system explores how financial and operational indicators can be analysed together to support planning and performance-management decisions.
-
-### Technology
-
-`Python` · `Power BI` · `Forecasting` · `KPI Analytics` · `Scenario Modelling`
-
-🔗 **Live Application:**  
-https://kpi-risk-tracker-finance.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/KPI-Risk-Tracker
-
----
-
-## 👤 Customer Analytics Platform
-
-Customer analytics application focused on behavioural analysis and segmentation for service-performance improvement.
-
-The project demonstrates how customer data can be structured into meaningful segments and translated into decision-support insights.
-
-### Technology
-
-`Python` · `Customer Analytics` · `Segmentation` · `Data Visualization`
-
-🔗 **Live Application:**  
-https://customer-analytic.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/customer-analytics
-
----
-
-## 💬 Airline Sentiment Analyzer
-
-### Operational Problem
-
-Passenger feedback is largely unstructured, making it difficult to identify recurring service issues and customer-experience patterns at scale.
-
-### Solution
-
-A natural-language-processing application that analyses passenger sentiment and converts customer feedback into structured service insights.
-
-### Technology
-
-`Python` · `NLP` · `Sentiment Analysis` · `Streamlit`
-
-🔗 **Live Application:**  
-https://sentiment-analyzer-vikrantthenge.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/sentiment-Analyzer
-
----
-
 # Applied AI & Automation
 
 ## 🤖 AI Operations Intelligence Assistant
@@ -381,7 +317,7 @@ Operational information may also require careful consideration before being sent
 
 A locally hosted Generative AI proof-of-concept using **Ollama, Docker and Open WebUI**.
 
-The project explores how locally deployed language models can analyse aviation safety and operational information and generate structured management summaries without relying on an externally hosted inference service.
+The project explores how locally deployed language models can analyse aviation safety and operational information and generate structured management summaries without relying on an externally hosted inference service. Summaries need human review.
 
 ### Technology
 
@@ -395,21 +331,44 @@ https://github.com/Vikrantthenge/ai-ops-assistant
 
 ---
 
-## 🔎 JobSearchMatch Automation
+<details>
+<summary><strong>Additional analytics projects (outside aviation)</strong></summary>
 
-NLP-based application designed to compare resume content with job descriptions and generate similarity-based matching insights.
+<br>
 
-The project demonstrates practical text analytics and workflow automation outside the aviation domain.
+### 💰 Financial KPI Forecasting System
 
-### Technology
+Operational and financial forecasting application combining KPI monitoring with scenario-based analysis, exploring how financial and operational indicators can be analysed together to support planning and performance-management decisions.
+
+`Python` · `Power BI` · `Forecasting` · `KPI Analytics` · `Scenario Modelling`
+
+🔗 [Live Application](https://kpi-risk-tracker-finance.streamlit.app/) · [GitHub](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
+
+### 👤 Customer Analytics Platform
+
+Customer analytics application focused on behavioural analysis and segmentation for service-performance improvement.
+
+`Python` · `Customer Analytics` · `Segmentation` · `Data Visualization`
+
+🔗 [Live Application](https://customer-analytic.streamlit.app/) · [GitHub](https://github.com/Vikrantthenge/customer-analytics)
+
+### 💬 Airline Sentiment Analyzer
+
+Natural-language-processing application that analyses passenger sentiment and converts customer feedback into structured service insights.
+
+`Python` · `NLP` · `Sentiment Analysis` · `Streamlit`
+
+🔗 [Live Application](https://sentiment-analyzer-vikrantthenge.streamlit.app/) · [GitHub](https://github.com/Vikrantthenge/sentiment-Analyzer)
+
+### 🔎 JobSearchMatch Automation
+
+NLP-based application that compares resume content with job descriptions and generates similarity-based matching insights.
 
 `Python` · `NLP` · `Text Similarity` · `Streamlit`
 
-🔗 **Live Application:**  
-https://jobsearchmatch.streamlit.app/
+🔗 [Live Application](https://jobsearchmatch.streamlit.app/) · [GitHub](https://github.com/Vikrantthenge/job_search)
 
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/job_search
+</details>
 
 ---
 
@@ -431,3 +390,4 @@ MANAGEMENT DECISION
 OPERATIONAL ACTION
        ↓
 MEASURABLE OUTCOME
+```
