@@ -24,7 +24,7 @@
 
 ## Professional Profile
 
-I am an operations professional with **18+ years of experience**, including about **10 years in airline operations** across flight operations, dispatch support, load control, Operations Control Centre coordination and station operations.
+I am an operations professional with **18+ years of experience**, including about **10+ years in airline operations** across flight operations, dispatch support, load control, Operations Control Centre coordination and station operations.
 
 My career has included operational roles with **All Nippon Airways (ANA), Garuda Indonesia, Uganda Airlines, Saudi Arabian Airlines, BWFS and Cathay Pacific / CNS**, working in high-volume, time-critical and regulated environments.
 
