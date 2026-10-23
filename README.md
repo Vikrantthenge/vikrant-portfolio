@@ -4,7 +4,7 @@
 
 ### Operations Performance · Control Tower & Network Operations · Workforce & Capacity Planning · Operations Analytics
 
-**18+ Years Experience | About 10 Years in Airline Operations | FAA Aircraft Dispatcher | KPI & SLA Governance | Power BI | Applied Analytics**
+**18+ Years Experience | About 10+ Years in Airline Operations | FAA Aircraft Dispatcher | KPI & SLA Governance | Power BI | Applied Analytics**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vthenge">
