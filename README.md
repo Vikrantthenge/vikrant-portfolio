@@ -1,10 +1,10 @@
 # Vikrant Thenge
 
-## Operations & Aviation Domain Leader
+## Operations Performance & Analytics Leader
 
 ### Operations Performance · Control Tower & Network Operations · Workforce & Capacity Planning · Operations Analytics
 
-**20+ Years Airline Operations | FAA Aircraft Dispatcher | KPI & SLA Governance | Python | Power BI | Applied Analytics**
+**18+ Years Experience | About 10 Years in Airline Operations | FAA Aircraft Dispatcher | KPI & SLA Governance | Power BI | Applied Analytics**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vthenge">
@@ -18,13 +18,13 @@
   </a>
 </p>
 
-**Open to:** Operations Performance, Control Tower, Network Operations, Workforce / Capacity Planning and Operational Excellence roles in aviation, air cargo and logistics. Mumbai, Pune or remote within India.
+**Open to:** Operations Performance, Control Tower, Network Operations, Workforce / Capacity Planning and Operational Excellence roles in aviation, air cargo and logistics. Mumbai, Pune, Bengaluru or remote within India.
 
 ---
 
 ## Professional Profile
 
-I am an operations and aviation-domain professional with **20+ years of experience** across airline flight operations, load control, Operations Control Centre coordination and station operations.
+I am an operations professional with **18+ years of experience**, including about **10 years in airline operations** across flight operations, dispatch support, load control, Operations Control Centre coordination and station operations.
 
 My career has included operational roles with **All Nippon Airways (ANA), Garuda Indonesia, Uganda Airlines, Saudi Arabian Airlines, BWFS and Cathay Pacific / CNS**, working in high-volume, time-critical and regulated environments.
 
@@ -42,7 +42,7 @@ My experience spans:
 - Operational process improvement
 - Cross-functional stakeholder management
 
-I have led teams of **20+ staff**, managed an operating budget of approximately **₹2 Cr**, handled international airline operations against tight turnaround requirements and delivered measurable improvements in cost, productivity, service and operational governance.
+I have prepared rosters for three ANA staff and overseen 10–12 ground-handling staff, managed an operating budget of approximately **₹2 Cr** at Uganda Airlines, handled international airline operations against tight turnaround requirements and delivered measurable improvements in cost, productivity, service and operational governance.
 
 Since 2024, I have extended this operational background into **operations analytics and technology-enabled decision support**, independently developing applications using Python, Power BI, machine learning, forecasting and Streamlit.
 
@@ -52,17 +52,16 @@ My value sits at the intersection of **domain expertise, operational problem-sol
 
 ## Career Impact
 
-| Operational Outcome | Result |
-|---|---:|
-| Vendor overbilling corrected before invoicing | ~₹1.5 Cr |
-| Financial / penalty exposure averted | ₹40–50 lakh |
-| Staffing efficiency improvement | +32% |
-| Manpower productivity improvement | +23% |
-| Passenger complaint reduction | −45% |
-| Reporting & escalation cycle reduction | −25% |
-| Operating cost savings delivered | ~₹3.5 lakh in 3 months |
-| Annual station budget managed | ~₹2 Cr |
-| Operational team leadership | 20+ staff |
+| Operational Outcome | Result | Where |
+|---|---:|---|
+| Erroneous vendor charges prevented before invoicing | ~₹1.5 Cr | Garuda Indonesia |
+| Potential penalty exposure averted | ₹40–50 lakh | Garuda Indonesia |
+| Staffing efficiency improvement | +32% | Uganda Airlines |
+| Passenger complaint reduction | −45% | Uganda Airlines |
+| Manpower productivity improvement | +23% | ANA |
+| Reporting & escalation cycle reduction | −25% | ANA |
+| Annual station operating budget managed | ~₹2 Cr | Uganda Airlines |
+| Ground-handling staff overseen | 10–12 | ANA |
 
 These outcomes come from my operational leadership roles. They are not results delivered for external analytics clients, and none of the portfolio projects below produced them.
 
@@ -88,7 +87,7 @@ The portfolio explores a simple question:
 
 The objective is not technology for its own sake. It is to combine **operational judgement with analytics** so decisions are faster, more measurable and more consistent.
 
-> **Portfolio Disclosure:** These applications are independently conceived, self-funded and self-developed portfolio projects. No employer or external client set the project briefs. Operational problem selection and functional logic are informed by my professional experience, while the applications use synthetic, public or demonstration data where applicable. Python and Power BI were self-taught from 2021 onward and were not part of my formal airline roles.
+> **Portfolio Disclosure:** These applications are independently conceived, self-funded and self-developed portfolio projects. No employer or external client set the project briefs. Operational problem selection and functional logic are informed by my professional experience, while the applications use synthetic, public or demonstration data where applicable. Python and Power BI were self-taught, starting in 2020, and were not part of my formal airline roles.
 
 ---
 
@@ -204,7 +203,7 @@ A machine-learning application that estimates flight-delay probability and surfa
 **Model performance:** ~82% test-set accuracy on historical data. This is a held-out test result, not a live deployment.
 
 🔗 **Live Application:**  
-https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py
+https://flight-delay-predictor-pulse.streamlit.app/
 
 🔗 **GitHub:**  
 https://github.com/Vikrantthenge/flight-delay-predictor
