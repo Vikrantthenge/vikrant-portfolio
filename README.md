@@ -1,10 +1,10 @@
 # Vikrant Thenge
 
-## Operations Performance & Analytics Leader
+## Operations & Decision Analytics Leader | Performance Optimization | Strategic Planning
 
-### Operations Performance · Control Tower & Network Operations · Workforce & Capacity Planning · Operations Analytics
+### Control Tower Operations · Forecasting & Scenario Planning · KPI Governance · Cost Optimization
 
-**18+ Years Experience | About 10+ Years in Airline Operations | FAA Aircraft Dispatcher | KPI & SLA Governance | Power BI | Applied Analytics**
+**18+ Years of Professional Experience | Airline Operations Leadership | FAA Aircraft Dispatcher | KPI & SLA Governance | Power BI | Applied Decision Analytics**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vthenge">
@@ -18,13 +18,13 @@
   </a>
 </p>
 
-**Open to:** Operations Management, Operations Performance, Control Tower, Service Delivery, Workforce / Capacity Planning, Vendor & SLA Governance, and Operational Excellence roles across aviation, logistics, transport, shared services, and other KPI-driven environments. Mumbai, Pune, Bengaluru or remote within India.
+**Open to:** Operations Management, Operations & Decision Analytics, Business Performance, Control Tower Operations, Strategic Planning, Service Delivery, Workforce / Capacity Planning, Vendor & SLA Governance, and Operational Excellence across industries. Mumbai, Pune, Bengaluru or remote within India.
 
 ---
 
 ## Professional Profile
 
-I am an operations and performance professional with **18+ years of professional experience**, including about **10+ years in airline operations**, across flight operations, dispatch support, load control, Operations Control Centre coordination, station operations, vendor coordination and operational performance.
+I am an operations and decision analytics professional with **18+ years of professional experience**, with extensive experience in airline operations, spanning flight operations, dispatch support, load control, Operations Control Centre coordination, station operations, vendor coordination and operational performance.
 
 My career has included roles with **All Nippon Airways (ANA), Garuda Indonesia, Uganda Airlines, Saudi Arabian Airlines, BWFS and Cathay Pacific / CNS**, working in time-critical, service-driven and regulated environments.
 
@@ -43,7 +43,7 @@ My experience includes:
 
 I have prepared rosters for three ANA staff and overseen 10–12 ground-handling staff, managed an operating budget of approximately **₹2 Cr** at Uganda Airlines, coordinated international airline operations against tight turnaround requirements, and contributed to measurable improvements in cost, productivity, service and operational governance.
 
-Since 2024, I have extended this operational background into **operations analytics and technology-enabled decision support**, independently developing portfolio applications using Python, Power BI, machine learning, forecasting and Streamlit.
+Since 2024, I have extended this operational background through **independent operations analytics and technology-enabled decision-support projects**, developing portfolio applications using Python, Power BI, machine learning, forecasting and Streamlit.
 
 My value sits at the intersection of **operational judgement, performance management, structured problem-solving and analytics**. The skills are relevant not only to aviation, but also to logistics, service delivery, shared services, resource planning and other operational environments.
 
@@ -70,6 +70,7 @@ These outcomes relate to my operational leadership and coordination roles. They 
 
 | Project | Decision it supports | Best fit for |
 |---|---|---|
+| [InventOpt 2.0 — Inventory Intelligence & MEIO Control Tower](#inventopt-20--inventory-intelligence--meio-control-tower) | How inventory targets and replenishment plans change under alternative assumptions | Inventory Planning, Supply Chain Analytics, Decision Support |
 | [Operations Intelligence Control Tower](#operations-intelligence-control-tower) | Which KPI, SLA, capacity or cost exception needs attention first | Operations Performance, Service Delivery, Control Tower |
 | [Ground Turnaround Case Study](#airline-ground-turnaround-performance-case-study) | Which stations or handlers need further investigation | Aviation, Logistics, Vendor / SLA Performance |
 | [CrewOps Workforce Optimization](#crewops-workforce-optimization) | How staffing and resource allocation can be evaluated against demand | Workforce Planning, Resource Coordination |
@@ -89,6 +90,38 @@ The portfolio explores a practical management question:
 The objective is not technology for its own sake. It is to combine **operational context with structured analysis** so that performance reviews and decisions can be more informed and consistent.
 
 > **Portfolio Disclosure:** These applications are independently conceived, self-funded and self-developed portfolio projects. No employer or external client set the project briefs. Operational problem selection and functional logic are informed by my professional experience, while the applications use synthetic, public or demonstration data where applicable. Python and Power BI were self-taught, starting in 2020, and were not part of my formal airline roles.
+
+---
+
+# Featured Cross-Industry Project: Inventory Decision Support
+
+## InventOpt 2.0 — Inventory Intelligence & MEIO Control Tower
+
+### Comparing inventory planning decisions across scenarios
+
+**Business question:** How might service-level and lead-time assumptions affect inventory targets, replenishment recommendations and distribution-centre planning?
+
+InventOpt 2.0 is an interactive portfolio application exploring **inventory intelligence and a simplified two-echelon multi-echelon inventory planning (MEIO) model** across distribution centres and stores. It uses synthetic retail data to demonstrate how managers can review demand patterns, evaluate safety-stock assumptions and compare planning scenarios before making decisions.
+
+### What it demonstrates
+
+- Executive inventory KPI dashboards and risk views
+- Demand forecasting and forecast-error review
+- Safety-stock planning and replenishment recommendations
+- Two-echelon distribution-centre and store inventory analysis
+- **Baseline-versus-scenario comparisons using model-calculated values**
+- Three-year Long-Range Planning (LRP) scenarios
+- Interactive filters and visualizations for business users
+
+**Transferable capabilities:** Inventory analytics · Forecasting · Scenario planning · Resource and stock planning · Management decision support
+
+**Technology:** `Python` · `Streamlit` · `Pandas` · `Plotly` · `Inventory Analytics`
+
+🔗 **[Launch Live Application](https://inventopt-control-tower.streamlit.app/)**
+
+🔗 **[View GitHub Repository](https://github.com/Vikrantthenge/inventopt-control-tower)**
+
+> **Scope:** This is an independently developed demonstration using synthetic retail data and simplified planning assumptions. It is not a deployed enterprise MEIO optimization engine and does not represent verified client inventory savings.
 
 ---
 
@@ -462,7 +495,7 @@ The applications demonstrate ways to organize and examine information. They do n
 
 ## 👤 About
 
-Operations and performance professional with **18+ years of professional experience**, including about **10+ years in airline operations**, across flight operations, station management, vendor coordination, workforce planning and operational performance.
+Operations and decision analytics professional with **18+ years of professional experience** and extensive airline operations leadership across flight operations, station management, vendor coordination, workforce planning and operational performance.
 
 My focus is on applying operational knowledge and data-informed decision support to help teams review:
 
@@ -473,7 +506,7 @@ My focus is on applying operational knowledge and data-informed decision support
 - 💰 Cost and financial KPI monitoring
 - 🧭 Management reporting and operational decision support
 
-My professional experience provides the operational context; these independently developed portfolio applications demonstrate how I approach performance questions and decision support. The underlying methods can be adapted to aviation, logistics, transport, service delivery, shared services and other operations-led environments.
+My professional experience provides the operational context; these independently developed portfolio applications demonstrate how I approach performance questions, inventory and capacity planning, scenario comparisons and decision support. The underlying methods can be adapted to aviation, logistics, transport, service delivery, shared services and other operations-led environments.
 
 ---
 
