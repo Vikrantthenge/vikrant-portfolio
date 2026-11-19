@@ -72,6 +72,7 @@ These outcomes relate to my operational leadership and coordination roles. They 
 |---|---|---|
 | [InventOpt 2.0 — Inventory Intelligence & MEIO Control Tower](#inventopt-20--inventory-intelligence--meio-control-tower) | How inventory targets and replenishment plans change under alternative assumptions | Inventory Planning, Supply Chain Analytics, Decision Support |
 | [Operations Intelligence Control Tower](#operations-intelligence-control-tower) | Which KPI, SLA, capacity or cost exception needs attention first | Operations Performance, Service Delivery, Control Tower |
+| [Capacity & Backlog Planner](#capacity--backlog-planner) | Which staffing plan clears the Friday backlog at the lowest weekly labour cost | Workforce Planning, Shared Services, Cost Optimization |
 | [Ground Turnaround Case Study](#airline-ground-turnaround-performance-case-study) | Which stations or handlers need further investigation | Aviation, Logistics, Vendor / SLA Performance |
 | [CrewOps Workforce Optimization](#crewops-workforce-optimization) | How staffing and resource allocation can be evaluated against demand | Workforce Planning, Resource Coordination |
 | [Financial KPI Forecasting System](#financial-kpi-forecasting-system) | How trends and scenarios can inform performance reviews | Operations Management, Cost / KPI Governance |
@@ -167,6 +168,45 @@ https://operations-control.streamlit.app/
 
 🔗 **GitHub:**  
 https://github.com/Vikrantthenge/operations-control-tower
+
+---
+
+## Capacity & Backlog Planner
+
+### Operational Problem
+
+A shared-services team expects 1,230 requests across five working days. The manager needs to choose which staffing plan can clear the Friday backlog while controlling weekly labour cost.
+
+### Solution
+
+An interactive staffing simulator compares four plans: current staffing, shifting regular hours, adding overtime, and shifting hours with targeted overtime. Users can change daily demand, paid hours, productivity, labour rates and backlog targets. The app tracks how work carries forward each day and identifies the lowest-cost plan among those entered that meet the selected targets.
+
+### Simulated Scenario Results
+
+| Staffing plan | Requests completed | Friday backlog | Weekly labour cost |
+|---|---:|---:|---:|
+| Current staffing | 1,200 | 30 | ₹84,000 |
+| Shift regular hours | 1,200 | 30 | ₹84,000 |
+| Add 24 overtime hours | 1,230 | 0 | ₹96,600 |
+| **Shift regular hours and add 6 Monday overtime hours** | **1,230** | **0** | **₹87,150** |
+
+The targeted overtime plan cleared all **1,230 simulated requests** by Friday and cost **₹9,450 less** than the 24-hour overtime plan. It cost **₹3,150 more** than the current roster and cleared the 30 requests that roster left open.
+
+### Transferable capabilities demonstrated
+
+Workforce planning · Workload and backlog analysis · Scenario modelling · Labour cost analysis · Operational decision support
+
+### Technology
+
+`Python` · `Streamlit` · `Pandas` · `Plotly` · `Power BI`
+
+🔗 **GitHub Repository**  
+https://github.com/Vikrantthenge/capacity-backlog-planner
+
+🔗 **Power BI Report (PDF)**  
+https://github.com/Vikrantthenge/capacity-backlog-planner/blob/main/Capacity_Backlog_Planner.pdf
+
+> **Scope.** The results use simulated demand, staffing and cost figures. A real staffing decision would require historical productivity data and a check that the proposed shift changes are feasible.
 
 ---
 
