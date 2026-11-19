@@ -118,9 +118,8 @@ InventOpt 2.0 is an interactive portfolio application exploring **inventory inte
 
 **Technology:** `Python` · `Streamlit` · `Pandas` · `Plotly` · `Inventory Analytics`
 
-🔗 **[Launch Live Application](https://inventopt-control-tower.streamlit.app/)**
-
-🔗 **[View GitHub Repository](https://github.com/Vikrantthenge/inventopt-control-tower)**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://inventopt-control-tower.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/inventopt-control-tower)
 
 > **Scope:** This is an independently developed demonstration using synthetic retail data and simplified planning assumptions. It is not a deployed enterprise MEIO optimization engine and does not represent verified client inventory savings.
 
@@ -163,11 +162,8 @@ KPI governance · Service-performance monitoring · Exception management · Capa
 
 `Python` · `Pandas` · `Plotly` · `Streamlit` · `Excel` · `Operations Analytics`
 
-🔗 **Live Application:**  
-https://operations-control.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/operations-control-tower
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://operations-control.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/operations-control-tower)
 
 ---
 
@@ -200,14 +196,9 @@ Workforce planning · Workload and backlog analysis · Scenario modelling · Lab
 
 `Python` · `Streamlit` · `Pandas` · `Plotly` · `Power BI`
 
-🔗 **Live Application:**  
-https://capacity-backlog-planner.streamlit.app/
-
-🔗 **GitHub Repository**  
-https://github.com/Vikrantthenge/capacity-backlog-planner
-
-🔗 **Power BI Report (PDF)**  
-https://github.com/Vikrantthenge/capacity-backlog-planner/blob/main/Capacity_Backlog_Planner.pdf
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://capacity-backlog-planner.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/capacity-backlog-planner)
+[![Power BI Report](https://img.shields.io/badge/Power%20BI%20Report-FBBF24?style=for-the-badge&logo=powerbi&logoColor=0B1220)](https://github.com/Vikrantthenge/capacity-backlog-planner/blob/main/Capacity_Backlog_Planner.pdf)
 
 > **Scope.** The results use simulated demand, staffing and cost figures. A real staffing decision would require historical productivity data and a check that the proposed shift changes are feasible.
 
@@ -253,14 +244,9 @@ These are descriptive results from the demonstration dataset, not verified resul
 
 `Python` · `Streamlit` · `Pandas` · `Plotly` · `CSV` · `Operations Performance Analytics`
 
-🔗 **Live Interactive Dashboard:**  
-https://ground-turnaround-performance-analysis.streamlit.app/
-
-🔗 **GitHub Repository:**  
-https://github.com/Vikrantthenge/ground-turnaround-performance-analysis
-
-🔗 **HTML Dashboard Preview:**  
-https://vikrantthenge.github.io/ground-turnaround-performance-analysis/Dashboard_Preview.html
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://ground-turnaround-performance-analysis.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/ground-turnaround-performance-analysis)
+[![HTML Preview](https://img.shields.io/badge/HTML%20Preview-64748B?style=for-the-badge&logo=html5&logoColor=white)](https://vikrantthenge.github.io/ground-turnaround-performance-analysis/Dashboard_Preview.html)
 
 ### Data and Scope Disclaimer
 
@@ -288,11 +274,8 @@ Workforce planning · Capacity and availability review · Scheduling constraints
 
 `Python` · `Workforce Analytics` · `Scenario Modelling` · `Streamlit`
 
-🔗 **Live Application:**  
-https://crew-optimizer.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/crew-optimizer
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://crew-optimizer.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/crew-optimizer)
 
 ---
 
@@ -314,11 +297,8 @@ KPI monitoring · Forecast interpretation · Scenario analysis · Financial and 
 
 `Python` · `Power BI` · `Forecasting` · `KPI Analytics` · `Scenario Modelling`
 
-🔗 **Live Application:**  
-https://kpi-risk-tracker-finance.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/KPI-Risk-Tracker
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://kpi-risk-tracker-finance.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
 
 ---
 
@@ -340,11 +320,8 @@ Customer analytics · Segmentation · Pattern exploration · Service-improvement
 
 `Python` · `Customer Analytics` · `Segmentation` · `Data Visualization`
 
-🔗 **Live Application:**  
-https://customer-analytic.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/customer-analytics
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://customer-analytic.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/customer-analytics)
 
 ---
 
@@ -366,11 +343,8 @@ A machine-learning application that estimates flight-delay probability and prese
 
 **Model performance:** The earlier portfolio version stated approximately 82% test-set accuracy. Retain this figure only if it can be reproduced from the current model, test split and evaluation process. Accuracy alone does not establish operational usefulness or reliable delay detection.
 
-🔗 **Live Application:**  
-https://flight-delay-predictor-pulse.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/flight-delay-predictor
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://flight-delay-predictor-pulse.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/flight-delay-predictor)
 
 ---
 
@@ -394,11 +368,8 @@ Risk indicator monitoring · Data visualization · Structured review · Complian
 
 `Python` · `Risk Analytics` · `Operational Monitoring` · `Data Visualization`
 
-🔗 **Live Application:**  
-https://huggingface.co/spaces/vthenge/risk-analytics
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
+[![Hugging Face Demo](https://img.shields.io/badge/Hugging%20Face%20Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0B1220)](https://huggingface.co/spaces/vthenge/risk-analytics)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
 ---
 
@@ -420,11 +391,8 @@ Trend analysis · Forecast interpretation · Scenario planning · Performance re
 
 `Python` · `Time-Series Forecasting` · `Scenario Analysis` · `Streamlit`
 
-🔗 **Live Application:**  
-https://airline-revenue-forecast.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/Airline-Revenue-Forecast
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://airline-revenue-forecast.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
 
 ---
 
@@ -446,11 +414,8 @@ Anomaly monitoring · Exception identification · Asset-reliability awareness ·
 
 `Python` · `Predictive Analytics` · `Anomaly Detection` · `Streamlit`
 
-🔗 **Live Application:**  
-https://predictivedashboard-vikrantthenge.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/predictive_dashboard
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://predictivedashboard-vikrantthenge.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/predictive_dashboard)
 
 ---
 
@@ -476,11 +441,8 @@ Information summarization · Workflow exploration · AI-assisted decision suppor
 
 `Generative AI` · `Ollama` · `Docker` · `Open WebUI` · `Local LLM` · `Prompt Engineering`
 
-🔗 **Live Showcase:**  
-https://vikrantthenge.github.io/ai-ops-assistant/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/ai-ops-assistant
+[![Live Showcase](https://img.shields.io/badge/Live%20Showcase-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://vikrantthenge.github.io/ai-ops-assistant/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/ai-ops-assistant)
 
 ---
 
@@ -490,11 +452,8 @@ A natural-language-processing application that analyses passenger sentiment and 
 
 `Python` · `NLP` · `Sentiment Analysis` · `Streamlit`
 
-🔗 **Live Application:**  
-https://sentiment-analyzer-vikrantthenge.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/sentiment-Analyzer
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://sentiment-analyzer-vikrantthenge.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/sentiment-Analyzer)
 
 ---
 
@@ -504,11 +463,8 @@ An NLP-based application that compares resume content with job descriptions and 
 
 `Python` · `NLP` · `Text Similarity` · `Streamlit`
 
-🔗 **Live Application:**  
-https://jobsearchmatch.streamlit.app/
-
-🔗 **GitHub:**  
-https://github.com/Vikrantthenge/job_search
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://jobsearchmatch.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/job_search)
 
 ---
 
