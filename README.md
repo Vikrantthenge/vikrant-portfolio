@@ -200,6 +200,9 @@ Workforce planning · Workload and backlog analysis · Scenario modelling · Lab
 
 `Python` · `Streamlit` · `Pandas` · `Plotly` · `Power BI`
 
+🔗 **Live Application:**  
+https://capacity-backlog-planner.streamlit.app/
+
 🔗 **GitHub Repository**  
 https://github.com/Vikrantthenge/capacity-backlog-planner
 
